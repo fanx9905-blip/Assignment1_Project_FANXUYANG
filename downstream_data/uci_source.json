@@ -1,0 +1,11 @@
+{
+  "dataset": "UCI Sentiment Labelled Sentences",
+  "doi": "10.24432/C57604",
+  "source_url": "https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences",
+  "download_url": "https://archive.ics.uci.edu/static/public/331/sentiment+labelled+sentences.zip",
+  "license": "CC BY 4.0",
+  "citation": "Kotzias, D. (2015). Sentiment Labelled Sentences. UCI Machine Learning Repository.",
+  "archive_file": "uci_sentiment_labelled_sentences.zip",
+  "bytes": 84188,
+  "sha256": "afc26626d710899948693e1a61405dce197f57ffa719fa1130d346b4cc095343"
+}
