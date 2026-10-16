@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipython/
+.ipynb_checkpoints/
+.report_deps/
+.codex_deps/
+.execution_audit/
+notebook_backups/
+tmp/
+external_embeddings/*.gz
+*.partial
+.env
+.env.*
+!.env.example
