@@ -1,0 +1,172 @@
+{
+  "model": "transformer",
+  "config": {
+    "architecture": "single-layer causal Transformer with pre-normalization",
+    "embedding_dim": 100,
+    "dropout": 0.2,
+    "learning_rate": 0.003,
+    "batch_size": 8,
+    "max_epochs": 8,
+    "patience": 3,
+    "grad_clip": 1.0,
+    "seed": 42,
+    "context": "complete paragraph; no truncation",
+    "cpu_threads": 4,
+    "model_dim": 128,
+    "num_heads": 4,
+    "feedforward_dim": 256,
+    "num_layers": 1,
+    "position_encoding": "sinusoidal; paragraph positions start at zero",
+    "attention_dropout": 0.0,
+    "attention_backend": "PyTorch scaled_dot_product_attention with is_causal=True"
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train": {
+        "cross_entropy": 5.3957028857070926,
+        "perplexity": 220.4570487596361,
+        "target_count": 118401,
+        "total_nll": 638856.6173706055,
+        "seconds": 19.71223850000024
+      },
+      "validation": {
+        "cross_entropy": 4.725927024402263,
+        "perplexity": 112.83505075075597,
+        "target_count": 14649,
+        "total_nll": 69230.10498046875,
+        "seconds": 1.0607576000002155
+      }
+    },
+    {
+      "epoch": 2,
+      "train": {
+        "cross_entropy": 4.735403582674852,
+        "perplexity": 113.90942131167687,
+        "target_count": 118401,
+        "total_nll": 560676.5195922852,
+        "seconds": 20.255710099998396
+      },
+      "validation": {
+        "cross_entropy": 4.564915186423508,
+        "perplexity": 96.05444694985879,
+        "target_count": 14649,
+        "total_nll": 66871.44256591797,
+        "seconds": 1.0142000999985612
+      }
+    },
+    {
+      "epoch": 3,
+      "train": {
+        "cross_entropy": 4.5056188954224545,
+        "perplexity": 90.52435182256767,
+        "target_count": 118401,
+        "total_nll": 533469.7828369141,
+        "seconds": 20.092462500000693
+      },
+      "validation": {
+        "cross_entropy": 4.506405666522405,
+        "perplexity": 90.59560179145626,
+        "target_count": 14649,
+        "total_nll": 66014.33660888672,
+        "seconds": 0.9998276999995142
+      }
+    },
+    {
+      "epoch": 4,
+      "train": {
+        "cross_entropy": 4.348887266381253,
+        "perplexity": 77.39229798303964,
+        "target_count": 118401,
+        "total_nll": 514912.60122680664,
+        "seconds": 20.431036699999822
+      },
+      "validation": {
+        "cross_entropy": 4.493545481186856,
+        "perplexity": 89.43798509870533,
+        "target_count": 14649,
+        "total_nll": 65825.94775390625,
+        "seconds": 0.9408039999998437
+      }
+    },
+    {
+      "epoch": 5,
+      "train": {
+        "cross_entropy": 4.229449938280369,
+        "perplexity": 68.67944384885692,
+        "target_count": 118401,
+        "total_nll": 500771.102142334,
+        "seconds": 20.223231600000872
+      },
+      "validation": {
+        "cross_entropy": 4.456948665671238,
+        "perplexity": 86.22400900869235,
+        "target_count": 14649,
+        "total_nll": 65289.84100341797,
+        "seconds": 0.9405535999994754
+      }
+    },
+    {
+      "epoch": 6,
+      "train": {
+        "cross_entropy": 4.1287123714532115,
+        "perplexity": 62.09791238919595,
+        "target_count": 118401,
+        "total_nll": 488843.67349243164,
+        "seconds": 20.962254199999734
+      },
+      "validation": {
+        "cross_entropy": 4.45644347673716,
+        "perplexity": 86.180460594504,
+        "target_count": 14649,
+        "total_nll": 65282.440490722656,
+        "seconds": 1.0453234999986307
+      }
+    },
+    {
+      "epoch": 7,
+      "train": {
+        "cross_entropy": 4.046343095091088,
+        "perplexity": 57.187943322383546,
+        "target_count": 118401,
+        "total_nll": 479091.0688018799,
+        "seconds": 21.53453609999997
+      },
+      "validation": {
+        "cross_entropy": 4.481843859695788,
+        "perplexity": 88.39751511553877,
+        "target_count": 14649,
+        "total_nll": 65654.5307006836,
+        "seconds": 1.0372533999998268
+      }
+    },
+    {
+      "epoch": 8,
+      "train": {
+        "cross_entropy": 3.97360922408051,
+        "perplexity": 53.176109401289736,
+        "target_count": 118401,
+        "total_nll": 470479.30574035645,
+        "seconds": 20.86295659999996
+      },
+      "validation": {
+        "cross_entropy": 4.487655036546597,
+        "perplexity": 88.9127041866316,
+        "target_count": 14649,
+        "total_nll": 65739.6586303711,
+        "seconds": 1.0100170999994589
+      }
+    }
+  ],
+  "best_epoch": 6,
+  "best_validation_cross_entropy": 4.45644347673716,
+  "training_wall_seconds": 172.20229149999977,
+  "training_epoch_seconds": 164.0744262999997,
+  "validation_epoch_seconds": 8.048736999995526,
+  "total_parameters": 974644,
+  "trainable_parameters": 974644,
+  "checkpoint_bytes": 3967786,
+  "device": "cpu",
+  "pytorch_version": "2.14.0+cpu",
+  "corpus_sha256": "a5666f87abf2cbfdaa27ea8c73bd284da9649b9a2ab27b4e6c8f6aeab1bd1c88"
+}

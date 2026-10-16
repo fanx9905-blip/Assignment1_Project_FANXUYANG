@@ -1,0 +1,27 @@
+{
+  "prompts": [
+    "elizabeth was",
+    "mr darcy",
+    "she could not"
+  ],
+  "length": 50,
+  "temperature": 0.8,
+  "top_k": 50,
+  "blocked_token_ids": [
+    0,
+    2,
+    3
+  ],
+  "blocked_tokens": [
+    "<pad>",
+    "<bos>",
+    "<eos>"
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "stop_at_eos": false,
+  "vocabulary_size": 3620
+}

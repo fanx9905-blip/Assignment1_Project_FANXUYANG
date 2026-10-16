@@ -1,0 +1,59 @@
+{
+  "pair_count": 1117958,
+  "body_tokens": 116727,
+  "construction_seconds": 1.9245740000005753,
+  "config": {
+    "data": "training paragraphs only; no cross-paragraph pairs",
+    "embedding_dim": 100,
+    "window": 5,
+    "negative_samples": 5,
+    "negative_distribution": "training token frequency raised to 0.75",
+    "epochs": 5,
+    "batch_size": 1024,
+    "learning_rate": 0.003,
+    "optimizer": "Adam",
+    "seed": 42,
+    "subsampling": false,
+    "boundaries": "exclude pad/bos/eos; allow training tokens mapped to unk",
+    "vector_choice": "input/center embedding; output/context table is not transferred",
+    "cost": "record separately from language-model training"
+  },
+  "corpus_sha256": "a5666f87abf2cbfdaa27ea8c73bd284da9649b9a2ab27b4e6c8f6aeab1bd1c88",
+  "split": "train only",
+  "cross_paragraph_pairs": false,
+  "history": [
+    {
+      "epoch": 1,
+      "mean_negative_sampling_loss": 2.626382812914009,
+      "seconds": 3.4495100999993156
+    },
+    {
+      "epoch": 2,
+      "mean_negative_sampling_loss": 2.505632813324596,
+      "seconds": 3.2726026000000275
+    },
+    {
+      "epoch": 3,
+      "mean_negative_sampling_loss": 2.4590047308933562,
+      "seconds": 3.3383965000011813
+    },
+    {
+      "epoch": 4,
+      "mean_negative_sampling_loss": 2.418698944488796,
+      "seconds": 3.29898840000169
+    },
+    {
+      "epoch": 5,
+      "mean_negative_sampling_loss": 2.3836225997927794,
+      "seconds": 3.4892937000004167
+    }
+  ],
+  "training_seconds": 16.853634900000543,
+  "total_preparation_and_training_seconds": 18.77820890000112,
+  "objective": "SGNS positive + five negative logistic terms; not LM cross-entropy",
+  "negative_sampling": "with replacement; accidental positives permitted",
+  "vector_choice": "center/input table",
+  "output_context_table_transferred": false,
+  "device": "cpu",
+  "cpu_threads": 4
+}

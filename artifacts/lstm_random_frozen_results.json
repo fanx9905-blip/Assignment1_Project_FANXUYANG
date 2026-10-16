@@ -1,0 +1,53 @@
+{
+  "config": {
+    "architecture": "single-layer unidirectional LSTM",
+    "embedding_dim": 100,
+    "hidden_dim": 128,
+    "dropout": 0.2,
+    "learning_rate": 0.003,
+    "batch_size": 8,
+    "max_epochs": 8,
+    "patience": 3,
+    "grad_clip": 1.0,
+    "seed": 42,
+    "context": "complete paragraph",
+    "cpu_threads": 4,
+    "embedding_source": "random initialization",
+    "input_embedding_frozen": true
+  },
+  "best_epoch": 8,
+  "training_wall_seconds": 182.89022850000038,
+  "total_parameters": 946740,
+  "trainable_parameters": 584740,
+  "checkpoint_bytes": 3852049,
+  "metrics": {
+    "train": {
+      "cross_entropy": 3.9887995771499467,
+      "perplexity": 53.99003957035186,
+      "target_count": 118401,
+      "total_nll": 472277.85873413086,
+      "seconds": 4.933346800000436
+    },
+    "validation": {
+      "cross_entropy": 4.36630341728211,
+      "perplexity": 78.75197976652406,
+      "target_count": 14649,
+      "total_nll": 63961.978759765625,
+      "seconds": 0.6970368000002054
+    },
+    "test": {
+      "cross_entropy": 4.453147974208095,
+      "perplexity": 85.89692012943073,
+      "target_count": 14811,
+      "total_nll": 65955.5746459961,
+      "seconds": 0.603767799999332
+    }
+  },
+  "whole_table_unchanged": true,
+  "initial_state_matches_seed42_baseline_constructor": true,
+  "initial_embedding_sha256": "2e1ea8340c222d9facc6cd1a8a5fff57f85129284c26f9c01f273525805a43a7",
+  "checkpoint_sha256": "0bd7c8fd61c16379db803a6e5052b49647c366415a8db09feade8594018ff395",
+  "corpus_sha256": "a5666f87abf2cbfdaa27ea8c73bd284da9649b9a2ab27b4e6c8f6aeab1bd1c88",
+  "actual_epochs": 8,
+  "scope": "single-seed exploratory control; same original initialization and training protocol, only input trainability changes"
+}

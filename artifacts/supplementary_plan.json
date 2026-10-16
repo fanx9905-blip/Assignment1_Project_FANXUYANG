@@ -1,0 +1,46 @@
+{
+  "status": "exploratory extensions designed after inspecting original test results",
+  "date": "2026-10-16",
+  "tfidf": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_features": 50000,
+    "sublinear_tf": true,
+    "norm": "l2",
+    "C_grid": [
+      0.1,
+      1.0,
+      10.0
+    ],
+    "solver": "lbfgs",
+    "max_iter": 2000,
+    "seed": 42,
+    "tokens": "saved original tokenizer output before LM unk mapping",
+    "selection": "fit vectorizer and classifier on train; select validation macro-F1, lower C on ties",
+    "final_fit": "refit vectorizer and classifier on train+validation; test once",
+    "scaling": "L2-normalized TF-IDF; no additional dense StandardScaler"
+  },
+  "statistics": {
+    "replicates": 10000,
+    "seed": 4213,
+    "unit": "test sentence",
+    "method": "paired ordinary percentile bootstrap; same indices for every model",
+    "pairs": "all six pairs among three saved LM classifiers and TF-IDF",
+    "p_values": "exact two-sided McNemar; Holm correction across six pairs",
+    "scope": "fixed fitted models; excludes training and split variability"
+  },
+  "random_frozen": {
+    "seed": 42,
+    "max_epochs": 8,
+    "initialization": "same original LSTM constructor and seed",
+    "change": "freeze complete randomly initialized input table only",
+    "selection": "validation CE only; original training procedure"
+  },
+  "design_reference": "https://github.com/daichenze081-ui/DSA-assignment/tree/fbfd0285134f354de4fbf440392e076e62cebcd7",
+  "attribution": "Extension ideas informed by the peer repository; implementation adapted independently to this project's saved data and protocols, with coding-assistant help.",
+  "data_sha256": "942545d8f191bdaa364976fcb7e17421627c8f963da3447d2143ba8f50649987",
+  "original_predictions_sha256": "2d9b8021001d6128041a31e6274a559595dc4d93fa85d63a64157e3dddf4d072"
+}

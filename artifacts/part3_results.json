@@ -1,0 +1,335 @@
+{
+  "task": "binary sentiment classification",
+  "rows": {
+    "random_trainable_lm": {
+      "selected_C": 0.1,
+      "validation_macro_f1_before_refit": 0.6325493011274861,
+      "test_accuracy": 0.6325503355704698,
+      "test_macro_f1": 0.6325493011274861,
+      "confusion_matrix": [
+        [
+          188,
+          110
+        ],
+        [
+          109,
+          189
+        ]
+      ],
+      "classification_report": {
+        "0": {
+          "precision": 0.632996632996633,
+          "recall": 0.6308724832214765,
+          "f1-score": 0.6319327731092437,
+          "support": 298.0
+        },
+        "1": {
+          "precision": 0.6321070234113713,
+          "recall": 0.6342281879194631,
+          "f1-score": 0.6331658291457286,
+          "support": 298.0
+        },
+        "accuracy": 0.6325503355704698,
+        "macro avg": {
+          "precision": 0.6325518282040021,
+          "recall": 0.6325503355704698,
+          "f1-score": 0.6325493011274861,
+          "support": 596.0
+        },
+        "weighted avg": {
+          "precision": 0.6325518282040021,
+          "recall": 0.6325503355704698,
+          "f1-score": 0.6325493011274861,
+          "support": 596.0
+        }
+      },
+      "source_metrics": {
+        "amazon": {
+          "count": 198,
+          "accuracy": 0.702020202020202,
+          "macro_f1": 0.7020126010764483
+        },
+        "imdb": {
+          "count": 199,
+          "accuracy": 0.5778894472361809,
+          "macro_f1": 0.5770242914979757
+        },
+        "yelp": {
+          "count": 199,
+          "accuracy": 0.6180904522613065,
+          "macro_f1": 0.6173076923076923
+        }
+      },
+      "lm_test_ppl": 75.65596564785501,
+      "refit_seconds": 0.023215699999809658,
+      "refit_samples": 2383,
+      "test_samples": 596,
+      "final_iterations": [
+        41
+      ],
+      "convergence_warnings": 0
+    },
+    "skipgram_frozen_lm": {
+      "selected_C": 0.1,
+      "validation_macro_f1_before_refit": 0.6153809302391118,
+      "test_accuracy": 0.6359060402684564,
+      "test_macro_f1": 0.6356752706406641,
+      "confusion_matrix": [
+        [
+          182,
+          116
+        ],
+        [
+          101,
+          197
+        ]
+      ],
+      "classification_report": {
+        "0": {
+          "precision": 0.6431095406360424,
+          "recall": 0.610738255033557,
+          "f1-score": 0.6265060240963856,
+          "support": 298.0
+        },
+        "1": {
+          "precision": 0.6293929712460063,
+          "recall": 0.6610738255033557,
+          "f1-score": 0.6448445171849427,
+          "support": 298.0
+        },
+        "accuracy": 0.6359060402684564,
+        "macro avg": {
+          "precision": 0.6362512559410244,
+          "recall": 0.6359060402684564,
+          "f1-score": 0.6356752706406641,
+          "support": 596.0
+        },
+        "weighted avg": {
+          "precision": 0.6362512559410244,
+          "recall": 0.6359060402684564,
+          "f1-score": 0.6356752706406641,
+          "support": 596.0
+        }
+      },
+      "source_metrics": {
+        "amazon": {
+          "count": 198,
+          "accuracy": 0.6616161616161617,
+          "macro_f1": 0.6611926956965906
+        },
+        "imdb": {
+          "count": 199,
+          "accuracy": 0.6582914572864321,
+          "macro_f1": 0.6582137805617296
+        },
+        "yelp": {
+          "count": 199,
+          "accuracy": 0.5879396984924623,
+          "macro_f1": 0.5876794016575702
+        }
+      },
+      "lm_test_ppl": 83.80951499985439,
+      "refit_seconds": 0.027345299999979034,
+      "refit_samples": 2383,
+      "test_samples": 596,
+      "final_iterations": [
+        57
+      ],
+      "convergence_warnings": 0
+    },
+    "glove_frozen_lm": {
+      "selected_C": 0.1,
+      "validation_macro_f1_before_refit": 0.6726630558771092,
+      "test_accuracy": 0.6862416107382551,
+      "test_macro_f1": 0.6860922638411253,
+      "confusion_matrix": [
+        [
+          211,
+          87
+        ],
+        [
+          100,
+          198
+        ]
+      ],
+      "classification_report": {
+        "0": {
+          "precision": 0.6784565916398714,
+          "recall": 0.7080536912751678,
+          "f1-score": 0.6929392446633826,
+          "support": 298.0
+        },
+        "1": {
+          "precision": 0.6947368421052632,
+          "recall": 0.6644295302013423,
+          "f1-score": 0.6792452830188679,
+          "support": 298.0
+        },
+        "accuracy": 0.6862416107382551,
+        "macro avg": {
+          "precision": 0.6865967168725673,
+          "recall": 0.6862416107382551,
+          "f1-score": 0.6860922638411253,
+          "support": 596.0
+        },
+        "weighted avg": {
+          "precision": 0.6865967168725673,
+          "recall": 0.6862416107382551,
+          "f1-score": 0.6860922638411253,
+          "support": 596.0
+        }
+      },
+      "source_metrics": {
+        "amazon": {
+          "count": 198,
+          "accuracy": 0.7121212121212122,
+          "macro_f1": 0.7115251897860593
+        },
+        "imdb": {
+          "count": 199,
+          "accuracy": 0.6834170854271356,
+          "macro_f1": 0.6829046209879354
+        },
+        "yelp": {
+          "count": 199,
+          "accuracy": 0.6633165829145728,
+          "macro_f1": 0.6631804976632563
+        }
+      },
+      "lm_test_ppl": 83.11249569814528,
+      "refit_seconds": 0.027736499999946318,
+      "refit_samples": 2383,
+      "test_samples": 596,
+      "final_iterations": [
+        58
+      ],
+      "convergence_warnings": 0
+    }
+  },
+  "protocol": {
+    "task": "binary sentiment classification",
+    "dataset": "UCI Sentiment Labelled Sentences",
+    "dataset_source": "https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences",
+    "seed": 42,
+    "split_fractions": {
+      "train": 0.6,
+      "validation": 0.2,
+      "test": 0.2
+    },
+    "representation_selection": "three Part II LSTM variants; fixed before downstream metrics",
+    "representations": [
+      {
+        "name": "random_trainable_lm",
+        "checkpoint": "lstm_best.pt",
+        "results": "lstm_results.json",
+        "checkpoint_sha256": "e15781ad534ecae4c8ae4b59d1801c59c467fd4498383eaa0153519745f3c8a8",
+        "recorded_lm_test_ppl": 75.65596564785501
+      },
+      {
+        "name": "skipgram_frozen_lm",
+        "checkpoint": "lstm_self_frozen_best.pt",
+        "results": "lstm_self_frozen_results.json",
+        "checkpoint_sha256": "8d61422cf082c4b192f3057f17644ed5c7fc9ec2519748c8c97a5146f9d42246",
+        "recorded_lm_test_ppl": 83.80951499985439
+      },
+      {
+        "name": "glove_frozen_lm",
+        "checkpoint": "lstm_glove_frozen_best.pt",
+        "results": "lstm_glove_frozen_results.json",
+        "checkpoint_sha256": "d882cf5ee6e4984b6afb725414c14330a464c80c53af4e70b0bd4d094e083499",
+        "recorded_lm_test_ppl": 83.11249569814528
+      }
+    ],
+    "feature": "mean of trained LSTM hidden states at body-token positions; exclude bos/eos/pad",
+    "dimension": 128,
+    "language_models": "fully frozen; eval mode; no fine-tuning",
+    "input": "original tokenizer/vocabulary; prepend bos; append eos; no sentence truncation",
+    "classifier": {
+      "family": "LogisticRegression",
+      "solver": "lbfgs",
+      "max_iter": 2000,
+      "C_grid": [
+        0.1,
+        1.0,
+        10.0
+      ],
+      "selection": "validation macro-F1; ties choose smaller C",
+      "scaling": "StandardScaler fit only on classifier training rows",
+      "final_fit": "after validation selection, refit pipeline on train+validation; evaluate test once"
+    },
+    "primary_metric": "test macro-F1",
+    "secondary_metric": "test accuracy",
+    "diagnostics": "per-class metrics, confusion matrices, source-level performance, representative errors",
+    "data_controls": "deduplicate shared tokenizer keys globally before split; remove conflicting-label groups; stratify source+label",
+    "limitations": "novel-to-review domain shift; original vocabulary OOV; one split/seed; source-mixed rather than unseen-domain evaluation",
+    "question": "Does the language-model PPL ranking agree with frozen-representation sentiment performance?",
+    "lm_corpus_sha256": "a5666f87abf2cbfdaa27ea8c73bd284da9649b9a2ab27b4e6c8f6aeab1bd1c88",
+    "vocabulary_sha256": "c13c3bfa2a2f17a953fbed03229088e84dd44446faa17aa8caf7b26ab66861bd",
+    "status": "design and data preparation only; no features/classifiers/test metrics yet"
+  },
+  "feature_records": {
+    "random_trainable_lm": {
+      "shape": [
+        2979,
+        128
+      ],
+      "seconds": 0.30872520000002623,
+      "batch_size": 32,
+      "features_sha256": "18943633965b5a589db0b1318bd79066a9bd4400bf479e7c086d4edefac54629",
+      "encoder_weights_unchanged": true,
+      "repeat_consistent": true,
+      "checks": {
+        "fully_frozen": true,
+        "eval_mode": true,
+        "single_vs_batched": true,
+        "eos_exclusion_and_causality": true,
+        "single_body_position_pooling": true
+      }
+    },
+    "skipgram_frozen_lm": {
+      "shape": [
+        2979,
+        128
+      ],
+      "seconds": 0.2945297000001119,
+      "batch_size": 32,
+      "features_sha256": "ac5f5168076ec4164713bf06e871c8c60593231103b1b4593918201035f82fe0",
+      "encoder_weights_unchanged": true,
+      "repeat_consistent": true,
+      "checks": {
+        "fully_frozen": true,
+        "eval_mode": true,
+        "single_vs_batched": true,
+        "eos_exclusion_and_causality": true,
+        "single_body_position_pooling": true
+      }
+    },
+    "glove_frozen_lm": {
+      "shape": [
+        2979,
+        128
+      ],
+      "seconds": 0.29893829999991794,
+      "batch_size": 32,
+      "features_sha256": "f4eb13db82a1ef1510687228ff5768eac03306c4ed4ad83a8132556820c63d48",
+      "encoder_weights_unchanged": true,
+      "repeat_consistent": true,
+      "checks": {
+        "fully_frozen": true,
+        "eval_mode": true,
+        "single_vs_batched": true,
+        "eos_exclusion_and_causality": true,
+        "single_body_position_pooling": true
+      }
+    }
+  },
+  "sklearn_version": "1.9.1",
+  "dataset_file": "part3_sentiment_data.json",
+  "seed": 42,
+  "majority_baseline": {
+    "label_selected_from_fit_rows": 0,
+    "test_accuracy": 0.5,
+    "test_macro_f1": 0.3333333333333333
+  },
+  "evaluation_note": "Hyperparameters fixed by validation before final refit; no subsequent test-driven retuning."
+}

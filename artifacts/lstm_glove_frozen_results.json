@@ -1,0 +1,346 @@
+{
+  "model": "lstm_glove_frozen",
+  "config": {
+    "architecture": "single-layer unidirectional LSTM",
+    "embedding_dim": 100,
+    "hidden_dim": 128,
+    "dropout": 0.2,
+    "learning_rate": 0.003,
+    "batch_size": 8,
+    "max_epochs": 8,
+    "patience": 3,
+    "grad_clip": 1.0,
+    "seed": 42,
+    "context": "complete paragraph",
+    "cpu_threads": 4,
+    "input_embedding_variant": "lstm_glove_frozen",
+    "input_embedding_trainable": false,
+    "aligned_embedding_sha256": "eab579f8921a44a5e94baf02533d1a9dc7ad148eb28ac4d9a536bb267b331fab"
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train": {
+        "cross_entropy": 5.7484496654823305,
+        "perplexity": 313.70393704932894,
+        "target_count": 118401,
+        "total_nll": 680622.1888427734,
+        "seconds": 20.834221099999922
+      },
+      "validation": {
+        "cross_entropy": 5.10539864852523,
+        "perplexity": 164.9097984775555,
+        "target_count": 14649,
+        "total_nll": 74788.9848022461,
+        "seconds": 0.6019753000000492
+      }
+    },
+    {
+      "epoch": 2,
+      "train": {
+        "cross_entropy": 5.144106022070258,
+        "perplexity": 171.4181720896359,
+        "target_count": 118401,
+        "total_nll": 609067.2971191406,
+        "seconds": 20.660748400001467
+      },
+      "validation": {
+        "cross_entropy": 4.797694410201315,
+        "perplexity": 121.23058705076477,
+        "target_count": 14649,
+        "total_nll": 70281.42541503906,
+        "seconds": 0.8562836000000971
+      }
+    },
+    {
+      "epoch": 3,
+      "train": {
+        "cross_entropy": 4.890112815234022,
+        "perplexity": 132.96857408595372,
+        "target_count": 118401,
+        "total_nll": 578994.2474365234,
+        "seconds": 20.58506529999977
+      },
+      "validation": {
+        "cross_entropy": 4.62085383004626,
+        "perplexity": 101.58072779010685,
+        "target_count": 14649,
+        "total_nll": 67690.88775634766,
+        "seconds": 0.6166603000001487
+      }
+    },
+    {
+      "epoch": 4,
+      "train": {
+        "cross_entropy": 4.720632793401931,
+        "perplexity": 112.23925446036719,
+        "target_count": 118401,
+        "total_nll": 558927.643371582,
+        "seconds": 21.279759700000795
+      },
+      "validation": {
+        "cross_entropy": 4.529096645188825,
+        "perplexity": 92.67480502609439,
+        "target_count": 14649,
+        "total_nll": 66346.7367553711,
+        "seconds": 0.6348515000008774
+      }
+    },
+    {
+      "epoch": 5,
+      "train": {
+        "cross_entropy": 4.6011944606007535,
+        "perplexity": 99.60321673455958,
+        "target_count": 118401,
+        "total_nll": 544786.0253295898,
+        "seconds": 21.28737650000039
+      },
+      "validation": {
+        "cross_entropy": 4.451375321354327,
+        "perplexity": 85.744789585991,
+        "target_count": 14649,
+        "total_nll": 65208.19708251953,
+        "seconds": 0.7061264999993
+      }
+    },
+    {
+      "epoch": 6,
+      "train": {
+        "cross_entropy": 4.517195654568232,
+        "perplexity": 91.57842001496098,
+        "target_count": 118401,
+        "total_nll": 534840.4826965332,
+        "seconds": 21.40443690000029
+      },
+      "validation": {
+        "cross_entropy": 4.397633843360415,
+        "perplexity": 81.2583709809245,
+        "target_count": 14649,
+        "total_nll": 64420.93817138672,
+        "seconds": 0.6752502999988792
+      }
+    },
+    {
+      "epoch": 7,
+      "train": {
+        "cross_entropy": 4.440584660458396,
+        "perplexity": 84.82452072212976,
+        "target_count": 118401,
+        "total_nll": 525769.6643829346,
+        "seconds": 21.49119669999891
+      },
+      "validation": {
+        "cross_entropy": 4.377186353544024,
+        "perplexity": 79.61371313230042,
+        "target_count": 14649,
+        "total_nll": 64121.402893066406,
+        "seconds": 0.6389208000000508
+      }
+    },
+    {
+      "epoch": 8,
+      "train": {
+        "cross_entropy": 4.383444462928731,
+        "perplexity": 80.1135067078821,
+        "target_count": 118401,
+        "total_nll": 519004.2078552246,
+        "seconds": 20.51825540000027
+      },
+      "validation": {
+        "cross_entropy": 4.355331501103691,
+        "perplexity": 77.89264255434973,
+        "target_count": 14649,
+        "total_nll": 63801.25115966797,
+        "seconds": 0.6085462000010011
+      }
+    }
+  ],
+  "best_epoch": 8,
+  "best_validation_cross_entropy": 4.355331501103691,
+  "training_wall_seconds": 173.46331960000134,
+  "training_epoch_seconds": 168.06106000000182,
+  "validation_epoch_seconds": 5.3386145000004035,
+  "total_parameters": 946740,
+  "trainable_parameters": 584740,
+  "checkpoint_bytes": 3852177,
+  "device": "cpu",
+  "pytorch_version": "2.14.0+cpu",
+  "corpus_sha256": "a5666f87abf2cbfdaa27ea8c73bd284da9649b9a2ab27b4e6c8f6aeab1bd1c88",
+  "full_input_table_unchanged_after_training": true,
+  "metrics": {
+    "train": {
+      "cross_entropy": 4.131712368771605,
+      "perplexity": 62.2844856795971,
+      "target_count": 118401,
+      "total_nll": 489198.87617492676,
+      "seconds": 4.668592900001386
+    },
+    "validation": {
+      "cross_entropy": 4.355331501103691,
+      "perplexity": 77.89264255434973,
+      "target_count": 14649,
+      "total_nll": 63801.25115966797,
+      "seconds": 0.6474788000014087
+    },
+    "test": {
+      "cross_entropy": 4.420195059969153,
+      "perplexity": 83.11249569814528,
+      "target_count": 14811,
+      "total_nll": 65467.509033203125,
+      "seconds": 0.5296939999989263
+    }
+  },
+  "embedding_coverage": {
+    "ordinary_vocabulary_types": 3616,
+    "matched_types": 3531,
+    "type_coverage": 0.9764933628318584,
+    "token_coverage": {
+      "train": {
+        "body_token_count": 116727,
+        "matched_body_occurrences": 113588,
+        "body_token_coverage": 0.9731081926203877,
+        "ordinary_in_vocabulary_occurrences": 114379,
+        "conditional_in_vocabulary_coverage": 0.9930843948626933
+      },
+      "validation": {
+        "body_token_count": 14413,
+        "matched_body_occurrences": 13911,
+        "body_token_coverage": 0.9651703323388607,
+        "ordinary_in_vocabulary_occurrences": 13982,
+        "conditional_in_vocabulary_coverage": 0.9949220426262337
+      },
+      "test": {
+        "body_token_count": 14567,
+        "matched_body_occurrences": 14015,
+        "body_token_coverage": 0.9621061302945013,
+        "ordinary_in_vocabulary_occurrences": 14099,
+        "conditional_in_vocabulary_coverage": 0.9940421306475636
+      }
+    },
+    "missing_tokens": [
+      "longbourn",
+      "meryton",
+      "rosings",
+      "darcy's",
+      "bingley's",
+      "bourgh",
+      "sister's",
+      "lydia's",
+      "elizabeth's",
+      "wickham's",
+      "hunsford",
+      "collins's",
+      "jane's",
+      "bennet's",
+      "mother's",
+      "charlotte's",
+      "father's",
+      "catherine's",
+      "brother's",
+      "gardiner's",
+      "ladyship's",
+      "lucases",
+      "cousin's",
+      "uncle's",
+      "gentlemanlike",
+      "lady's",
+      "daughter's",
+      "friend's",
+      "husband's",
+      "william's",
+      "fitzwilliam's",
+      "james's",
+      "perverseness",
+      "philips's",
+      "aunt's",
+      "bingleys",
+      "bourgh's",
+      "complaisance",
+      "day's",
+      "gentleman's",
+      "lucas's",
+      "man's",
+      "moment's",
+      "pleasanter",
+      "woman's",
+      "caroline's",
+      "composedly",
+      "master's",
+      "one's",
+      "overspread",
+      "people's",
+      "regiment's",
+      "regimentals",
+      "suitableness",
+      "twelvemonth",
+      "ancles",
+      "can't",
+      "discomposed",
+      "discomposure",
+      "don't",
+      "evening's",
+      "everybody's",
+      "fortnight's",
+      "fretfully",
+      "gaieties",
+      "gratulation",
+      "heaven's",
+      "hour's",
+      "indelicacy",
+      "jones's",
+      "kitty's",
+      "maria's",
+      "month's",
+      "morning's",
+      "niece's",
+      "obtruded",
+      "oftener",
+      "philipses",
+      "precipitance",
+      "prepossession",
+      "repine",
+      "repining",
+      "se'nnight",
+      "servant's",
+      "wife's"
+    ],
+    "special_rows": "all retain shared fallback, including unk; pad zero",
+    "source": {
+      "name": "GloVe 6B 100d",
+      "distribution": "Gensim-data word2vec-text gzip redistribution",
+      "url": "https://github.com/piskvorky/gensim-data/releases/download/glove-wiki-gigaword-100/glove-wiki-gigaword-100.gz",
+      "original_source": "https://nlp.stanford.edu/projects/glove/",
+      "metadata_url": "https://raw.githubusercontent.com/piskvorky/gensim-data/master/list.json",
+      "file": "glove-wiki-gigaword-100.gz",
+      "sha256": "4934d4708bf3d65f28fc984dbbfa18af9cbd2505d166a7258a1a957808559b43",
+      "md5": "40ec481866001177b8cd4cb0df92924f",
+      "download_or_verification_seconds": 9.230478999999832,
+      "metadata": {
+        "num_records": 400000,
+        "file_size": 134300434,
+        "base_dataset": "Wikipedia 2014 + Gigaword 5 (6B tokens, uncased)",
+        "reader_code": "https://github.com/RaRe-Technologies/gensim-data/releases/download/glove-wiki-gigaword-100/__init__.py",
+        "license": "http://opendatacommons.org/licenses/pddl/",
+        "parameters": {
+          "dimension": 100
+        },
+        "description": "Pre-trained vectors based on Wikipedia 2014 + Gigaword 5.6B tokens, 400K vocab, uncased (https://nlp.stanford.edu/projects/glove/).",
+        "preprocessing": "Converted to w2v format with `python -m gensim.scripts.glove2word2vec -i <fname> -o glove-wiki-gigaword-100.txt`.",
+        "read_more": [
+          "https://nlp.stanford.edu/projects/glove/",
+          "https://nlp.stanford.edu/pubs/glove.pdf"
+        ],
+        "checksum": "40ec481866001177b8cd4cb0df92924f",
+        "file_name": "glove-wiki-gigaword-100.gz",
+        "parts": 1
+      }
+    },
+    "alignment_seconds": 2.3625203000010515,
+    "scanned_vectors": 400000,
+    "conversion_note": "Gensim-data redistributes GloVe 6B100d as headered word2vec text; no gensim package required"
+  },
+  "embedding_statistics": {
+    "mean_row_norm": 5.153206825256348,
+    "global_std": 0.5251697301864624
+  }
+}

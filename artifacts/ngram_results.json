@@ -1,0 +1,59 @@
+{
+  "model": "Interpolated trigram",
+  "order": 3,
+  "alpha": 0.001,
+  "weights": [
+    0.3,
+    0.5,
+    0.2
+  ],
+  "vocab_size": 3620,
+  "seed": 42,
+  "corpus_sha256": "a5666f87abf2cbfdaa27ea8c73bd284da9649b9a2ab27b4e6c8f6aeab1bd1c88",
+  "count_building_seconds": 0.34021910000046773,
+  "validation_selection_seconds": 0.3536294999994425,
+  "stored_entries": 130110,
+  "metrics": {
+    "train": {
+      "cross_entropy": 3.091339321019144,
+      "perplexity": 22.00653205806865,
+      "target_count": 118401,
+      "total_nll": 366017.6669479877
+    },
+    "validation": {
+      "cross_entropy": 4.58146038428017,
+      "perplexity": 97.65690673164133,
+      "target_count": 14649,
+      "total_nll": 67113.81316932022
+    },
+    "test": {
+      "cross_entropy": 4.693171164847073,
+      "perplexity": 109.1989190931102,
+      "target_count": 14811,
+      "total_nll": 69510.55812255
+    }
+  },
+  "serialized_model_bytes": 2606224,
+  "serialization_format": "UTF-8 JSON, including vocabulary and split metadata",
+  "runtime_environment": {
+    "platform": "Windows-10-10.0.22631-SP0",
+    "processor": "Intel64 Family 6 Model 141 Stepping 1, GenuineIntel",
+    "logical_cpu_count": 16,
+    "python_version": "3.11.15 | packaged by conda-forge | (main, Aug 11 2026, 10:17:41) [MSC v.1944 64 bit (AMD64)]",
+    "device": "CPU"
+  },
+  "inference": {
+    "workload_targets": 128,
+    "context_limit": 32,
+    "batch_size": 1,
+    "output": "Full vocabulary probability distribution",
+    "repeats": 3,
+    "seconds_per_repeat": [
+      0.6780221000008169,
+      0.6962153999993461,
+      0.6904764999999315
+    ],
+    "median_seconds": 0.6904764999999315,
+    "predictions_per_second": 185.37922724381306
+  }
+}

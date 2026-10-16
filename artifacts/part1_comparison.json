@@ -1,0 +1,62 @@
+{
+  "corpus_sha256": "a5666f87abf2cbfdaa27ea8c73bd284da9649b9a2ab27b4e6c8f6aeab1bd1c88",
+  "rows": [
+    {
+      "model": "n-gram",
+      "test_cross_entropy": 4.693171164847073,
+      "test_perplexity": 109.1989190931102,
+      "parameters": null,
+      "best_epoch": null,
+      "stored_bytes": 2606224,
+      "training_wall_seconds": null,
+      "ngram_count_seconds": 0.34021910000046773,
+      "ngram_selection_seconds": 0.3536294999994425,
+      "inference_median_seconds": 0.6904764999999315,
+      "predictions_per_second": 185.37922724381306,
+      "inference_source": "saved earlier run"
+    },
+    {
+      "model": "RNN",
+      "test_cross_entropy": 4.422172193531729,
+      "test_perplexity": 83.27698275571818,
+      "parameters": 858420,
+      "best_epoch": 7,
+      "stored_bytes": 3498641,
+      "training_wall_seconds": 111.54386950000026,
+      "ngram_count_seconds": null,
+      "ngram_selection_seconds": null,
+      "inference_median_seconds": 0.0911244999988412,
+      "predictions_per_second": 1404.671630589224,
+      "inference_source": "saved earlier run"
+    },
+    {
+      "model": "LSTM",
+      "test_cross_entropy": 4.326196295655994,
+      "test_perplexity": 75.65596564785501,
+      "parameters": 946740,
+      "best_epoch": 8,
+      "stored_bytes": 3851921,
+      "training_wall_seconds": 199.8818836999999,
+      "ngram_count_seconds": null,
+      "ngram_selection_seconds": null,
+      "inference_median_seconds": 0.08695710000029067,
+      "predictions_per_second": 1471.9902112601749,
+      "inference_source": "saved earlier run"
+    },
+    {
+      "model": "Transformer",
+      "test_cross_entropy": 4.567894438842171,
+      "test_perplexity": 96.34104410390471,
+      "parameters": 974644,
+      "best_epoch": 6,
+      "stored_bytes": 3967786,
+      "training_wall_seconds": 172.20229149999977,
+      "ngram_count_seconds": null,
+      "ngram_selection_seconds": null,
+      "inference_median_seconds": 0.13887459999932616,
+      "predictions_per_second": 921.6948239679615,
+      "inference_source": "current run"
+    }
+  ],
+  "timing_note": "Common workload; baseline measurements are earlier runs. n-gram count/search costs have separate scopes, not neural wall-time equivalents."
+}

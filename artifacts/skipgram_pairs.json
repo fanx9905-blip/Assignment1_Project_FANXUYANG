@@ -1,0 +1,24 @@
+{
+  "pair_count": 1117958,
+  "body_tokens": 116727,
+  "construction_seconds": 1.9245740000005753,
+  "config": {
+    "data": "training paragraphs only; no cross-paragraph pairs",
+    "embedding_dim": 100,
+    "window": 5,
+    "negative_samples": 5,
+    "negative_distribution": "training token frequency raised to 0.75",
+    "epochs": 5,
+    "batch_size": 1024,
+    "learning_rate": 0.003,
+    "optimizer": "Adam",
+    "seed": 42,
+    "subsampling": false,
+    "boundaries": "exclude pad/bos/eos; allow training tokens mapped to unk",
+    "vector_choice": "input/center embedding; output/context table is not transferred",
+    "cost": "record separately from language-model training"
+  },
+  "corpus_sha256": "a5666f87abf2cbfdaa27ea8c73bd284da9649b9a2ab27b4e6c8f6aeab1bd1c88",
+  "split": "train only",
+  "cross_paragraph_pairs": false
+}

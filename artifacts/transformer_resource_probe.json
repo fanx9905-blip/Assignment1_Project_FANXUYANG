@@ -1,0 +1,9 @@
+{
+  "batch_size": 8,
+  "padded_length": 2824,
+  "valid_targets": 6663,
+  "seconds": 1.555750600000465,
+  "finite_loss_and_gradients": true,
+  "optimizer_steps": 0,
+  "scope": "eight longest training paragraphs; maximum padded shape; not measured peak memory"
+}

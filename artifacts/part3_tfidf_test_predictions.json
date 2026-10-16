@@ -1,0 +1,5366 @@
+[
+  {
+    "row_index": 1,
+    "id": "8f912095ae4406bb671b780aa12d5985c5eab8b6d7483f3164ec52b6cdd81d2f",
+    "source": "amazon",
+    "text": "Good case, Excellent value.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9706307883713734
+  },
+  {
+    "row_index": 7,
+    "id": "2430932554786ce70b44f69d13484080e86b6b3082faf47680bd140c1b4fbf72",
+    "source": "amazon",
+    "text": "If you are Razr owner...you must have this!",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.3194791543752635
+  },
+  {
+    "row_index": 8,
+    "id": "924ee8aa5e5182070cc6cd5eee1c66d5b88b1ebbaab29a6881ea0121fbbdb51e",
+    "source": "amazon",
+    "text": "Needless to say, I wasted my money.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.15819730339369104
+  },
+  {
+    "row_index": 10,
+    "id": "1cb071594a8d1fbdff139de22525039971c94d4b19436b4ad3b2520608cd5036",
+    "source": "amazon",
+    "text": "And the sound quality is great.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9931545070221509
+  },
+  {
+    "row_index": 16,
+    "id": "4d491a9fa0972dfb592eb437e050d78e3b59d81ecb6627d351232c8af92bcafd",
+    "source": "amazon",
+    "text": "I advise EVERYONE DO NOT BE FOOLED!",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.061247782668219945
+  },
+  {
+    "row_index": 17,
+    "id": "0759b940ac4ba480dc066f373232941baa7b6940ac4e9c10ac41f7a2b4e6591f",
+    "source": "amazon",
+    "text": "So Far So Good!.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9602332822696772
+  },
+  {
+    "row_index": 23,
+    "id": "6eaeaef1d2b73cc53cc153bee5fb35cc343b2944d6c913b41f063325f6055454",
+    "source": "amazon",
+    "text": "I have yet to run this new battery below two bars and that's three days without charging.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.4055482144398482
+  },
+  {
+    "row_index": 24,
+    "id": "ec54684598c867f710d3d8e027d2a6c8385175777239d04165769b6d3d52c175",
+    "source": "amazon",
+    "text": "I bought it for my mother and she had a problem with the battery.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.41483513612246437
+  },
+  {
+    "row_index": 28,
+    "id": "fe0e77b2615a063e9faa9d6b94125af60773800ae1f3a44936f080fffa6b46db",
+    "source": "amazon",
+    "text": "People couldnt hear me talk and I had to pull out the earphone and talk on the phone.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4409063416973309
+  },
+  {
+    "row_index": 37,
+    "id": "903a3d578f0d156c41a4037d310f6795ac8a74dd537e397ee0aa662e1dab2f09",
+    "source": "amazon",
+    "text": "Poor Talk Time Performance.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.02532434128601095
+  },
+  {
+    "row_index": 39,
+    "id": "274dc5215a6e482d59e1fdf133efda5ecccd0884db1d3121ff5b8f5f61de073c",
+    "source": "amazon",
+    "text": "worthless product.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.5134272135929869
+  },
+  {
+    "row_index": 40,
+    "id": "87266af5ccf7620aef88dc88b848351d100cdabc4cf5c7f529b1403583f9d157",
+    "source": "amazon",
+    "text": "It has a great camera thats 2MP, and the pics are nice and clear with great picture quality.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9961881766222682
+  },
+  {
+    "row_index": 50,
+    "id": "18d166184e99b9d4cba5a7dd2f273240c47ab8fa634fab581b701c0b09f6de69",
+    "source": "amazon",
+    "text": "Not loud enough and doesn't turn on like it should.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.055657591396019085
+  },
+  {
+    "row_index": 52,
+    "id": "ed4236032bc1bb63ad638628753bde777307649909ff85ce83a28a11991b1134",
+    "source": "amazon",
+    "text": "A usable keyboard actually turns a PDA into a real-world useful machine instead of just a neat gadget.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7330249834667196
+  },
+  {
+    "row_index": 57,
+    "id": "a213f0cbec1cc0a85fcaa65ed8d99660fbc08ce0295427f3d1aad91d4369ba06",
+    "source": "amazon",
+    "text": "I even dropped this phone into a stream and it was submerged for 15 seconds and it still works great!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9162616468874448
+  },
+  {
+    "row_index": 66,
+    "id": "b511d16d08340e5c61c2745891c972b9b01e5cce6fa4ed7565406d7dcc70658d",
+    "source": "amazon",
+    "text": "A week later after I activated it, it suddenly died.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.14319293743636927
+  },
+  {
+    "row_index": 67,
+    "id": "eb5d90536d17d8605bc1c4d904e60379dfefa901bf325097ebacf2227ddd6047",
+    "source": "amazon",
+    "text": "It feels more comfortable than most headsets because I wear glasses and that gets in the way sometimes.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6490459997057664
+  },
+  {
+    "row_index": 72,
+    "id": "1a9c70589e71a88bcad4159d9511058be5024704b45b7dcbfcee0ad979e60b75",
+    "source": "amazon",
+    "text": "Great choice!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9954140008342341
+  },
+  {
+    "row_index": 73,
+    "id": "86f9f091aa6831e2fc4c0afa6ada4bbdb6a6097b1fd5b86eec0d9adbdb637dca",
+    "source": "amazon",
+    "text": "Nice docking station for home or work.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.5526870708616013
+  },
+  {
+    "row_index": 80,
+    "id": "288d7a32cc410e0830c5b4c55d97f565027ad846849e5d2c312b9cf310251463",
+    "source": "amazon",
+    "text": "I wear it everyday and it holds up very well.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9326051852526729
+  },
+  {
+    "row_index": 84,
+    "id": "01404bfbf161d9f995b2b4a85ab4ef759b39f01eb589c61c10e29b1c78cce478",
+    "source": "amazon",
+    "text": "This item worked great, but it broke after 6 months of use.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.6096339909045476
+  },
+  {
+    "row_index": 90,
+    "id": "6792dab336e640edb04a5e83a9cce45763d19946dc628ff2327c594199c916aa",
+    "source": "amazon",
+    "text": "For a product that costs as much as this one does, I expect it to work far better and with greater ease than this thing does.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.16549257090888758
+  },
+  {
+    "row_index": 93,
+    "id": "4d00a9be6d89c23974815c8fcc9556b784f480805e775d36588658d90507aec3",
+    "source": "amazon",
+    "text": "The ear buds only play music in one ear.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3196815650071562
+  },
+  {
+    "row_index": 97,
+    "id": "9e3870e328de1ae5f8713ea5d619a10075480d9ebbe0809498551f0d3b6e1f8a",
+    "source": "amazon",
+    "text": "I found this product to be waaay too big.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.5122784636991008
+  },
+  {
+    "row_index": 99,
+    "id": "aa09803a85e36aacf3714ebb6d2d2b2fe278d83b29b6e4a38152dd93c40d51f6",
+    "source": "amazon",
+    "text": "I'm very disappointed with my decision.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.2161119443151238
+  },
+  {
+    "row_index": 100,
+    "id": "7a643428e556178813083db32d9bca53c02c95b0cb2416bf063bbdff90d248bb",
+    "source": "amazon",
+    "text": "Integrated seamlessly with the Motorola RAZR phone.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.43500836159584644
+  },
+  {
+    "row_index": 102,
+    "id": "17515445a378980cc91aa9b358eeef2d4bb206e5d390ba8b8514be430ba016a7",
+    "source": "amazon",
+    "text": "Definitely a bargain.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.4443395769848777
+  },
+  {
+    "row_index": 104,
+    "id": "03765022e46bda334141abb123bcab96637ddd19bdcc60df866fe055bb67b9eb",
+    "source": "amazon",
+    "text": "I received my supposedly new motorola 375 and apparently there was not a match between the phone and the charger.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.24942444509846343
+  },
+  {
+    "row_index": 108,
+    "id": "5afee2393a9f896e5b40b43e34998ad313ade237504f6b972ed7d1988510c6de",
+    "source": "amazon",
+    "text": "The camera, although rated at an impressive 1.3 megapixels, renders images that fall well below expectations of such a relatively high resolution.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.6089429685871987
+  },
+  {
+    "row_index": 109,
+    "id": "6dbc5713f9f9f7382529a0aad2a7b3f24fa9a2b0ac6521f07a147981716a8f38",
+    "source": "amazon",
+    "text": "I purcashed this for the car charger and it does not work.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.43928737767920745
+  },
+  {
+    "row_index": 110,
+    "id": "546a39a7b34ec5cbcfa379aa7147fe8659106bc6e1fccda606e84fc4a26d0cdb",
+    "source": "amazon",
+    "text": "Sound quality on both end is excellent, I use headset to call my wife and ask my wife to use headset to call me !2.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.681727255053429
+  },
+  {
+    "row_index": 125,
+    "id": "b91b65b3a9eba0316a73472fdcce3d4a4eb31f478e86803c6fdf72a9f3f96632",
+    "source": "amazon",
+    "text": "Great audio!.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9626290845912353
+  },
+  {
+    "row_index": 127,
+    "id": "beaf488221c2943a7e35664958a7ead86f2d8eaa6591f98246a07f7de7a9d248",
+    "source": "amazon",
+    "text": "it did not work in my cell phone plug i am very up set with the charger!.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.31778103344755504
+  },
+  {
+    "row_index": 128,
+    "id": "f848b36bad1471d0ff8ba15febfa09d0ceceab7c16ac3c3268300e5447a05619",
+    "source": "amazon",
+    "text": "I've only had my bluetooth for a few weeks, but I really like it.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.2375698917151354
+  },
+  {
+    "row_index": 136,
+    "id": "47c72158164a386b3f1137b1d03f309359c4731a0166c95b99836664667ea6fd",
+    "source": "amazon",
+    "text": "Very good stuff for the price.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9914503970523021
+  },
+  {
+    "row_index": 137,
+    "id": "0460b1778036ca05979a24b9a11f52e5728ec0c933ea7e6d55de94f5593b4d73",
+    "source": "amazon",
+    "text": "My headset works just peachy-keen.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8008473076214009
+  },
+  {
+    "row_index": 141,
+    "id": "1b9a30c81262c9bd2050b38e83d8d3a0c7c6300328cd1cc53aa9fb39d4538cd3",
+    "source": "amazon",
+    "text": "During several different 2 minute calls, I experienced 5 drops and it was in an area that had 5 bars.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.47675174908432466
+  },
+  {
+    "row_index": 152,
+    "id": "9c5242d2496e24d8daac50bb29bf555427536603a1a48cf02d7a8a99cfa92b11",
+    "source": "amazon",
+    "text": "I know that sounds funny, but to me it seemed like sketchy technology that wouldn't work well.Well, this one works great.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9025450364103441
+  },
+  {
+    "row_index": 169,
+    "id": "d1461234decc1300bf7d5c178930ff5b2b4d95ac9f49bb8af5711fe524552ff7",
+    "source": "amazon",
+    "text": "EXCELLENT SERVICE!!!!!!!!.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6851353413490229
+  },
+  {
+    "row_index": 170,
+    "id": "68d0ba5f19a22d4f7956f3155d94ec12456eed5d9b373ec529f1a5d53cbe2f9d",
+    "source": "amazon",
+    "text": "Thank you for wasting my money.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1321345024916032
+  },
+  {
+    "row_index": 181,
+    "id": "887bc00425045e3cceb6aed32f32a93075fad64936c29ae85631cb1026d143c5",
+    "source": "amazon",
+    "text": "The sound quality is good and functionality is awesome.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9961196852262227
+  },
+  {
+    "row_index": 184,
+    "id": "43bb44e8bc85aab3a71d58e83b0e5b1548429d4fdf07d0aae302ccd1776e0df7",
+    "source": "amazon",
+    "text": "Incredible!.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.78507894395842
+  },
+  {
+    "row_index": 188,
+    "id": "227ad495bb625fdf4dac1bdd74e84edb4086ef6cb14f6789781a386cb4a5f189",
+    "source": "amazon",
+    "text": "But when I check voice mail at night, the keypad backlight turns off a few seconds into the first message, and then I'm lost.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.02958343429751202
+  },
+  {
+    "row_index": 194,
+    "id": "0c0f8fa43e8bebdada86a6e4a232027fffaae636c43ccabc63c60e41ccf92bb4",
+    "source": "amazon",
+    "text": "Light weight, I hardly notice it is there.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.24115938705877282
+  },
+  {
+    "row_index": 195,
+    "id": "69b04c586cf86f63eab9703f0bc8bf28910ac98d8bc3e3725fa3015612219f5b",
+    "source": "amazon",
+    "text": "You'll love how thin it is.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7265097069393373
+  },
+  {
+    "row_index": 196,
+    "id": "14f42e8586a56c9c13fa12ac69b4ffc2abcb6466fd2b8237b8c312d2f5558a5d",
+    "source": "amazon",
+    "text": "Bad Choice.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.02791726331749464
+  },
+  {
+    "row_index": 201,
+    "id": "16883f015a0e32b9eecf0969eefe2e5d25958d842f268db46ac83534fd620aca",
+    "source": "amazon",
+    "text": "It makes very strange ticking noises before it ends the call.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.365206337311595
+  },
+  {
+    "row_index": 203,
+    "id": "7c93e4c55ef0ca4e7eb71506e2e5d55579152de2cfcd2400f516ceeca455dd85",
+    "source": "amazon",
+    "text": "Battery lasts only a few hours.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.03785853682037154
+  },
+  {
+    "row_index": 208,
+    "id": "1ada5be5973e8009044134c9dbab303219beca1b88dec3f0e78cd58c79c2ad61",
+    "source": "amazon",
+    "text": "We are sending it back.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.22605758585567942
+  },
+  {
+    "row_index": 218,
+    "id": "654dbe339e258e3c909eaac01e84ebd09b9cda806fd736182a1b82cb93f176a3",
+    "source": "amazon",
+    "text": "I'm still infatuated with this phone.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.14524102204028447
+  },
+  {
+    "row_index": 221,
+    "id": "19216136137d5d015405e2115dc658bdd2425b5e0484e68786d638568ceb8ff0",
+    "source": "amazon",
+    "text": "Simple, lightweight and great fit.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9498431891479846
+  },
+  {
+    "row_index": 236,
+    "id": "67648352eb57644075833401e819b1be674a236550c14961c984a34a057edd0a",
+    "source": "amazon",
+    "text": "Authentic leather with nice shine and comfort .I recommend you this case !!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9358199624391836
+  },
+  {
+    "row_index": 238,
+    "id": "d275d4941e738e04e03ec0883dac253a8b27ae14df4959ea2edd5502e31bcb4e",
+    "source": "amazon",
+    "text": "Do not make the same mistake as me.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.011957946271915265
+  },
+  {
+    "row_index": 246,
+    "id": "65670d6d4e66a0b45d4a8480b4fd31473a3f1cf6f63724a4568bda351da719e7",
+    "source": "amazon",
+    "text": "Nice headphones for the price and they work great!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9943157340752905
+  },
+  {
+    "row_index": 247,
+    "id": "b608a7c541e842652570e79781ab0ae39c641b1d5cb4d3d3079f9dc7efbb36be",
+    "source": "amazon",
+    "text": "Internet is excrutiatingly slow.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.09981223587474185
+  },
+  {
+    "row_index": 256,
+    "id": "c6a33ab0f6663cc974fb17517346f5dde74270411d112ae900ae6ad552f81933",
+    "source": "amazon",
+    "text": "Great Earpiece.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8266979596392083
+  },
+  {
+    "row_index": 257,
+    "id": "cde7531425431406cec88ef9cb4872144d40cc6a1fbd2a617e3c587b3ea77fcd",
+    "source": "amazon",
+    "text": "Excellent hands free tool.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8751702240261678
+  },
+  {
+    "row_index": 258,
+    "id": "15d4567766ad0c316a8b320f756ebde06f576c434705d42f28a01fd1f5be43d1",
+    "source": "amazon",
+    "text": "Great for using with your home stereo.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.909986839619328
+  },
+  {
+    "row_index": 260,
+    "id": "63cb2a5723692c053ef33c8a1fead874ecc3ab059e99638c59b9c906fabe04b3",
+    "source": "amazon",
+    "text": "Only had this a month but it's worked flawlessly so far.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.2969867373977144
+  },
+  {
+    "row_index": 267,
+    "id": "1bb0592150bbd319fc2cd51fb24e6737fabc0666cd1d23cffd597390bf32ad91",
+    "source": "amazon",
+    "text": "Don't waste your money!.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.028363307368276677
+  },
+  {
+    "row_index": 270,
+    "id": "1c76ef60d7150d45f6426795ea6b788993dac47898327ed8f6fd96fbd369bb41",
+    "source": "amazon",
+    "text": "Worked perfectly!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7309316998892154
+  },
+  {
+    "row_index": 271,
+    "id": "3794be1c5173be578cf28ed797e2009ef89d4e77dba83385142ab70d10f4e8b4",
+    "source": "amazon",
+    "text": "Unreliable - I'm giving up.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1646685162725134
+  },
+  {
+    "row_index": 277,
+    "id": "04292bfc87258621954dfde4fe8e4e06d2d45aaca680cf3fd92a2438ae60b7ad",
+    "source": "amazon",
+    "text": "Best of all is the rotating feature, very helpful.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.47124548211831335
+  },
+  {
+    "row_index": 279,
+    "id": "31681d987de7fc6601a9cc60e65518bb37710bd0e2469d836821cbfa742016ba",
+    "source": "amazon",
+    "text": "Good product, good seller.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9843040817018645
+  },
+  {
+    "row_index": 280,
+    "id": "aefcfa7865e3514fc33c92aab7efd748ba56fee93dcc540dfc95ddee96c310d1",
+    "source": "amazon",
+    "text": "I love this bluetooth!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9864107500295871
+  },
+  {
+    "row_index": 285,
+    "id": "5efbc7e62ac8df5d1385a7fca9992aa2fb1c07917510d2c3bc9dfdb6cc937939",
+    "source": "amazon",
+    "text": "Piece of Junk.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.027821426625377177
+  },
+  {
+    "row_index": 286,
+    "id": "a80b083d8390e10b706eb64f8c2daf997db76aadc484ddcf0144a2e2f5723171",
+    "source": "amazon",
+    "text": "Poorly contstruct hinge.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.12407138936642222
+  },
+  {
+    "row_index": 288,
+    "id": "464f4bb0693da2a22ddd197a1ed2651aabffbcb45d90c238f64f2a264d921cf7",
+    "source": "amazon",
+    "text": "Great Phone.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9820958476407224
+  },
+  {
+    "row_index": 301,
+    "id": "b49badf1494b8c25af84371db71bc747c3c458c5e3815eb1788c852b6a969fa8",
+    "source": "amazon",
+    "text": "Good price.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9720577218170883
+  },
+  {
+    "row_index": 308,
+    "id": "7aef32c3be6695a57ca0caf0fbe186b059105df791dc276aac76347ac6c28e31",
+    "source": "amazon",
+    "text": "This is a good battery, and it got here really fast.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.918574943700272
+  },
+  {
+    "row_index": 314,
+    "id": "056268a189a3c455ff4bf1c0f126d89212ff0ca84bec85f0af43a8ec14d140b9",
+    "source": "amazon",
+    "text": "We have gotten a lot of compliments on it.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.4016870599595184
+  },
+  {
+    "row_index": 315,
+    "id": "1a73517c1592545ecff4c627f4d19adca741abf42f4d193b926cf48d712e2b2e",
+    "source": "amazon",
+    "text": "This is definitely a must have if your state does not allow cell phone usage while driving.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.5444639227146595
+  },
+  {
+    "row_index": 318,
+    "id": "fdb7f1b18ab407f762fa52145a687bf64acd6c535315143963be7a2fc50e32e6",
+    "source": "amazon",
+    "text": "I am also very happy with the price.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9636632904621768
+  },
+  {
+    "row_index": 319,
+    "id": "b7538c7a8b027f370862aa8e3a4f767205d50696369806eb1e61ddc92b8ee17d",
+    "source": "amazon",
+    "text": "I ordered this product first and was unhappy with it immediately.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.5471229663988811
+  },
+  {
+    "row_index": 322,
+    "id": "534d929399ede6ef1b8893e595a7ee8cfa0951ebdcf07a2b7cf693c2249a6c05",
+    "source": "amazon",
+    "text": "I have 2-3 bars on my cell phone when I am home, but you cant not hear anything.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.220887186508255
+  },
+  {
+    "row_index": 328,
+    "id": "87b13aebb43fcf546444e5374edc83b67bdf6745656df0cacacbdaed00a408f4",
+    "source": "amazon",
+    "text": "VERY comfortable.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9420716701048762
+  },
+  {
+    "row_index": 329,
+    "id": "127e3f4634e6ee31855475232d74776b975b18d9713ace4961eb505afcb3288e",
+    "source": "amazon",
+    "text": "The battery is working well as a replacement for the original that came with the phone over 2 years ago.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7044600467355209
+  },
+  {
+    "row_index": 333,
+    "id": "88c3abe39b09dcd0f146d6f1fc5996a7bd2c8c95d402630e28e0b95674ca5e13",
+    "source": "amazon",
+    "text": "1. long lasting battery (you don't have to recharge it as frequentyly as some of the flip phones)2.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4159697885662119
+  },
+  {
+    "row_index": 340,
+    "id": "47bf68e11e10fa1e803d8e6ef940d2c3966b5aca95af8ffef06e5b7e928568ec",
+    "source": "amazon",
+    "text": "A PIECE OF JUNK THAT BROKE AFTER BEING ON MY PHONE FOR 2 DAYS!!!",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.05383416175674575
+  },
+  {
+    "row_index": 345,
+    "id": "6ba01ec742a4956492710c16453b9efd61fec7531624a64c1de80d07e0423853",
+    "source": "amazon",
+    "text": "Good audio quality.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8194473889713185
+  },
+  {
+    "row_index": 348,
+    "id": "b4fc1694616b028b3deb5c2529abffbc0ae97d49693f44033c85a66af11a25f7",
+    "source": "amazon",
+    "text": "Were JERKS on the phone.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4162992889400926
+  },
+  {
+    "row_index": 354,
+    "id": "63d5a7b6a957b93a74febeba88cb79736ddaef524f59dbff34c84796dbc3786e",
+    "source": "amazon",
+    "text": "The only thing that I think could improve is the sound leaks out from the headset.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1862164289543325
+  },
+  {
+    "row_index": 365,
+    "id": "f7e54c8a8751eff41f2883dbbe7b811abe701c97196df78f333ed57ce8819e94",
+    "source": "amazon",
+    "text": "I had ordered a motorola data cable, got a very well finished and working product.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7571835667075336
+  },
+  {
+    "row_index": 366,
+    "id": "6f8df08bf15fe7780ee192c0edc4c99a236b0a0f76ae8ad917ca118a8165b648",
+    "source": "amazon",
+    "text": "Love This Phone.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8715227335370549
+  },
+  {
+    "row_index": 367,
+    "id": "d082adab9604f07961a79df7c4268f7648a372f427c01b0a230a793d266d6b92",
+    "source": "amazon",
+    "text": "I was looking for this headset for a long time and now that I've got it I couldn't be happier.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6750363097827131
+  },
+  {
+    "row_index": 370,
+    "id": "2608d8b1f0448d316c949e24c37448e818fbad6496f78a7b4754cd3432741352",
+    "source": "amazon",
+    "text": "Battery life is also great!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9855251085551823
+  },
+  {
+    "row_index": 386,
+    "id": "6bcfb9476a2f061e588cc76860bdf804f2c4b3d0873db9137be48984c83231cc",
+    "source": "amazon",
+    "text": "It worked very well.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7478151956375523
+  },
+  {
+    "row_index": 394,
+    "id": "8c80dab9098706952d71987e9bcb737797d023ed37cd3237e98ddb668f9bd87b",
+    "source": "amazon",
+    "text": "Using all earpieces, left or right, this thing will not stay on my ear.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.05395278509128405
+  },
+  {
+    "row_index": 398,
+    "id": "2b026b8c74115e6228c337e20b16f1a2678c92eb55833449138e87bca7d1c159",
+    "source": "amazon",
+    "text": "what a disappointment",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.032097214025816126
+  },
+  {
+    "row_index": 401,
+    "id": "17cc793637411c11e568930320097552fef71bdfbed72c40503d147d036b0a6e",
+    "source": "amazon",
+    "text": "Very pleased with this headset.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8196799357514436
+  },
+  {
+    "row_index": 405,
+    "id": "f02314065df2eaaa427858098af518ba746d0a810fd4ad343a0144df5bf2e0b2",
+    "source": "amazon",
+    "text": "Plantronics Bluetooth Excelent Buy.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6390256904501106
+  },
+  {
+    "row_index": 417,
+    "id": "284c351e654462109a8dfe3ffebb815d5a315bfdcd05ecea9798be6a2902ff64",
+    "source": "amazon",
+    "text": "Price is good too.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9365265672779864
+  },
+  {
+    "row_index": 425,
+    "id": "88f876b42038a48f550faf2f12329d9c27250c4bd5ecd3c4e2e6471af822a1e4",
+    "source": "amazon",
+    "text": "IT'S REALLY EASY.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7584031526619879
+  },
+  {
+    "row_index": 436,
+    "id": "da3eab31d6e5d154427832bc55af4af8423f991baa74b5b01beb371f6aae56f7",
+    "source": "amazon",
+    "text": "If you don't find it, too bad, as again the unit comes with one earpad only.I would not recommend this to anyone.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.023784686047943166
+  },
+  {
+    "row_index": 437,
+    "id": "c6cdc7992a8d87d41190272319d7e7dbb844fe7c50528bc8f4f0e7057458466a",
+    "source": "amazon",
+    "text": "Very Displeased.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.6229523729413077
+  },
+  {
+    "row_index": 445,
+    "id": "46168ea4d435a8a12fff3039289bf0d27bba2c0e2b2995473a2460056d691e17",
+    "source": "amazon",
+    "text": "The screen size is big, key pad lit well enough, and the camera quality is excellent for a camera phone.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9659785855980082
+  },
+  {
+    "row_index": 450,
+    "id": "4b6c165adf00eb24bccf4192c2f8605988eb8a2f9a187c8361bd3679e5a206db",
+    "source": "amazon",
+    "text": "I even fully charged it before I went to bed and turned off blue tooth and wi-fi and noticed that it only had 20 % left in the morning.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.36328060869730183
+  },
+  {
+    "row_index": 452,
+    "id": "dc82d429355c9442fdc63f72d481c831769c1f9af6781d82735c7788849fd783",
+    "source": "amazon",
+    "text": "Not good when wearing a hat or sunglasses.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.04529670284667533
+  },
+  {
+    "row_index": 457,
+    "id": "433b3335dd4d0f64747bbee1a86f5ee9e209724433cddf51f43f802cdaa67b12",
+    "source": "amazon",
+    "text": "BT50 battery junk!.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.2517964413286078
+  },
+  {
+    "row_index": 464,
+    "id": "ad0f83b55e7889e4a6e6bfca4a2cc26f03aa76664ddc14e387ed5da2ce1ed950",
+    "source": "amazon",
+    "text": "Very disappointed in AccessoryOne.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.03818441120674005
+  },
+  {
+    "row_index": 469,
+    "id": "4a6f62e0361e81e21f19032b98f8dc7df368350230b202414eae283e928373af",
+    "source": "amazon",
+    "text": "Disappointment.. I hate anything that goes in my ear.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.006361743034521933
+  },
+  {
+    "row_index": 480,
+    "id": "1e93c87eb8b6c0a6927e26c7301974456a0d94d8c5dcfe21975e0f524b816194",
+    "source": "amazon",
+    "text": "You won't regret it!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.924180529109745
+  },
+  {
+    "row_index": 483,
+    "id": "c233b5b2a751191132198c10ce970ae8fae95df8a100bd75659fb913bb0d4b89",
+    "source": "amazon",
+    "text": "Its not user friendly.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.20428931552741883
+  },
+  {
+    "row_index": 490,
+    "id": "4a0c247447f296827d99b80596215ea8cc6811119eedacfb3e30ec7372dc74b0",
+    "source": "amazon",
+    "text": "I had Verizon 2 years ago and really liked their service.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8920053119522929
+  },
+  {
+    "row_index": 494,
+    "id": "972ee943de02a44f52583975e85d9554d33671ff05245ffd2fd371e9f99a494a",
+    "source": "amazon",
+    "text": "Save your money.... I've had this item for 11 months now.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.19423361533872469
+  },
+  {
+    "row_index": 502,
+    "id": "59c5be81c4137a647db9be8c5e8a9c032dbc8b9963da0f07765ba2e168f8c45e",
+    "source": "amazon",
+    "text": "The sound quality for the device is unacceptable.Unless you are in a really quiet area, you almost hear nothing.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.5464630113222856
+  },
+  {
+    "row_index": 503,
+    "id": "4012e7db9aeeba4040296b15bec3f1fe7b7ae76ca271637efc56cb1d2c237260",
+    "source": "amazon",
+    "text": "I would not recommend this item to anyone.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.09537058264899365
+  },
+  {
+    "row_index": 506,
+    "id": "ceac4076245448770bfa117ef80cd8bc362729c4490cf9d8397059d53f780163",
+    "source": "amazon",
+    "text": "As an earlier review noted, plug in this charger and nothing happens.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.460540650942657
+  },
+  {
+    "row_index": 519,
+    "id": "dd963b5818ce85431abb00852f406fe71d7db1b140a06f5021cb77549544a8a1",
+    "source": "amazon",
+    "text": "I ended up sliding it on the edge of my pants or back pockets instead.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.21230981260648737
+  },
+  {
+    "row_index": 526,
+    "id": "fb7da09c9430049c546bcd285b9c08636bf3ca0af19d26b330e823b4de92cca1",
+    "source": "amazon",
+    "text": "Keep up the good work Amazon!!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7178691070470292
+  },
+  {
+    "row_index": 529,
+    "id": "42a9fee73804a167633c849eeab163db5513eccd2485fefeac43938657f444fc",
+    "source": "amazon",
+    "text": "So I basically threw my money out the window for nothing.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.19968058803764688
+  },
+  {
+    "row_index": 535,
+    "id": "503154755033cc39433d265d43623a0d4bc6a56cee103de59e36f8bf1f0f81fe",
+    "source": "amazon",
+    "text": "none of the new ones have ever quite worked properly.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.2792805463035493
+  },
+  {
+    "row_index": 538,
+    "id": "ce7aa0b55bc95665762affd4caf2e76b71981af251c50453dfacbbf896949756",
+    "source": "amazon",
+    "text": "Perhaps my phone is defective, but people cannot hear me when I use this.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3003642037237044
+  },
+  {
+    "row_index": 539,
+    "id": "5bf4fb961c1ac0d056bcb673e606307bc29b8ce944bb653faae34a787a0f8b3b",
+    "source": "amazon",
+    "text": "sucked, most of the stuff does not work with my phone.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.19443208719035507
+  },
+  {
+    "row_index": 542,
+    "id": "67809c762e2e06dc62be7c469ea07519d9fa4531634d268af7f066604c3d4352",
+    "source": "amazon",
+    "text": "Trying to make a call on these is an exercise in frustration.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3422521109503196
+  },
+  {
+    "row_index": 543,
+    "id": "2d38c94cdcf62e8448acb0723278b26cf68b89b1a16504656a2af16c83d1f9fc",
+    "source": "amazon",
+    "text": "The case is a flimsy piece of plastic and has no front or side protection whatsoever.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.09902905016779172
+  },
+  {
+    "row_index": 544,
+    "id": "a5d3418455e14e81631b5a4b514c5a4c2b52fa3ad7e3ebba2020cd721bc96d69",
+    "source": "amazon",
+    "text": "I own a Jabra Earset and was very happy with it, but the sound quality, especially outgoing, on this is better.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8791085552076913
+  },
+  {
+    "row_index": 545,
+    "id": "d7a235ef24a2be9c3859391597bafffe56a58c6647cca3a8f600247f9d293fa9",
+    "source": "amazon",
+    "text": "I love the camera, it's really pretty good quality.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9927856126699668
+  },
+  {
+    "row_index": 546,
+    "id": "c2e5078bbac729f5936dc84e365c6f3e7603b37e1408a0b2580f8493d5f5709d",
+    "source": "amazon",
+    "text": "Thank you for such great service.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9507656315881658
+  },
+  {
+    "row_index": 557,
+    "id": "b0869a9d381b9022784491d5e4e5f4264b108ada5a6436ba2308b586d81c437b",
+    "source": "amazon",
+    "text": "All in all, I'm quite satisfied with this purchase.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.2306587045229105
+  },
+  {
+    "row_index": 564,
+    "id": "e88306924b8bc0635d6f0b36600791bdf0326d126b423e306e303473914b4295",
+    "source": "amazon",
+    "text": "It's A PIECE OF CRAP!",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.09526045043364076
+  },
+  {
+    "row_index": 570,
+    "id": "290a39128a4b79de9e9f7bfdd74a2131a26b9a167abf961c44cb7e548ce54295",
+    "source": "amazon",
+    "text": "I can barely ever hear on it and am constantly saying \"what?\"",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.34524573504936995
+  },
+  {
+    "row_index": 574,
+    "id": "e29aa88da4181bbb67c0a5397d74d6c296aff462ec1126ee7524a1a56d749698",
+    "source": "amazon",
+    "text": "Due to this happening on every call I was forced to stop using this headset.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.5027745038008461
+  },
+  {
+    "row_index": 579,
+    "id": "8e1ec34159afe6e24dbf4fd3dbc8df40de8a8f94b1513a0b1dc407d5a15953be",
+    "source": "amazon",
+    "text": "Better than expected.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.635295896652654
+  },
+  {
+    "row_index": 584,
+    "id": "c7c09f17b79004c9f8523e9306c746b32ba07dcd08f01fb463f889480f33d7fb",
+    "source": "amazon",
+    "text": "I got the car charger and not even after a week the charger was broken...I went to plug it in and it started smoking.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.14463357624605383
+  },
+  {
+    "row_index": 591,
+    "id": "bf4ce9a00206af699b9c73ae3d1dda9a837462da2caf3e67aa067c42880e215e",
+    "source": "amazon",
+    "text": "Piece of trash.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.029138488830649102
+  },
+  {
+    "row_index": 592,
+    "id": "b52ce067848968ef9de13790fa32a325b553592354d6dbe1807ccaec45cc0d61",
+    "source": "amazon",
+    "text": "A pretty good product.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.977557927041871
+  },
+  {
+    "row_index": 608,
+    "id": "a66b23a584771974bff714a0a1e0704c78adc527fa10ff7a2932e5393a9f657d",
+    "source": "amazon",
+    "text": "I was amazed at the quick arrival of the two original lg cell phone batteries and and at a fraction of the price.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8191527260144698
+  },
+  {
+    "row_index": 609,
+    "id": "adfc1d2dd281dc7f5f0ead0a4fac7c01fc01466ed678e4fd7e98f1881dba5093",
+    "source": "amazon",
+    "text": "the worst phone from samsung...crap..... this crappy Samsung E715.. is the worst i have ever seeen.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.012492084475609493
+  },
+  {
+    "row_index": 624,
+    "id": "07d36508bb05d1cc307c44f7dbddbc1483262becd82235dfa63cafdc90f5d9d2",
+    "source": "amazon",
+    "text": "I recommend iGo to anyone with different brand cell phones/mp3 players in the family.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6915107152217925
+  },
+  {
+    "row_index": 626,
+    "id": "acc3a6279fbf7c58d5a9b20d71fe686fb588b66bf818e1d4594c43bf1c94017e",
+    "source": "amazon",
+    "text": "I posted more detailed comments under the grey or black phone, but i have the Fire Red and it's a great color!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8823581448787646
+  },
+  {
+    "row_index": 632,
+    "id": "0d5840869acf8d377b5dbb70ba6ac4dd6c936e32d9bf134121667e8f413b1835",
+    "source": "amazon",
+    "text": "However, BT headsets are currently not good for real time games like first-person shooters since the audio delay messes me up.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.14011090801228218
+  },
+  {
+    "row_index": 633,
+    "id": "95685d422076704c7b66c7a492d48443f7d9a16293cf15a6a3c79259d3ca97b0",
+    "source": "amazon",
+    "text": "I used bitpim (a free program you can find on the internet)to transfer data to the phone.The price of the cable was excellent.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8927529356591088
+  },
+  {
+    "row_index": 635,
+    "id": "4cf0ddc6f059e4ec54926d3bf3b66c7d4a7378ae9f54569d24e7e18f1cae9738",
+    "source": "amazon",
+    "text": "Performed awful -- muffled, tinny incoming sound and severe echo for those on the other end of the call.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.5265554065005207
+  },
+  {
+    "row_index": 639,
+    "id": "e600f5fd045e106d7926bfb28b11a81660a2b98416b42ee319534b28ee5a591b",
+    "source": "amazon",
+    "text": "I contacted the company and they told me that, although the unit was still under warranty, if I couldn't produce my receipt I was out of luck.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.20147643059731635
+  },
+  {
+    "row_index": 641,
+    "id": "3edd500ea2e6ced0936ad53fd41c48160139ec01e4721c620f9aa4a358721e4d",
+    "source": "amazon",
+    "text": "Phone is sturdy as all nokia bar phones are.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7610266576856201
+  },
+  {
+    "row_index": 643,
+    "id": "9f8fc5436ab47a8f3fac30561171627cec54579b94da0d8f1e912ef23176a6a8",
+    "source": "amazon",
+    "text": "I'm pleased.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.5787746734296897
+  },
+  {
+    "row_index": 644,
+    "id": "f182bf76393db77607efe972fefbe2112757dd2fa15837439394c59d5e3ef9ed",
+    "source": "amazon",
+    "text": "Battery is terrible.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.04696634572238737
+  },
+  {
+    "row_index": 653,
+    "id": "03cdd0df5ca020fa13d8d4a0cacbdc403520493256605aff7f41a7a510202d49",
+    "source": "amazon",
+    "text": "It felt too light and \"tinny.\".",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3025198168713853
+  },
+  {
+    "row_index": 660,
+    "id": "5a084e2ffd2319da1d9b5cb2ded670448526aa38e3899ec9fee758dcaaed0179",
+    "source": "amazon",
+    "text": "Nice Sound.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9700886641777483
+  },
+  {
+    "row_index": 662,
+    "id": "133a506e686fdebdadcd4e016cf60a95c2b9db1ca1f7b725d214f1ef3a4e8d59",
+    "source": "amazon",
+    "text": "Much less than the jawbone I was going to replace it with.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.17126035660778954
+  },
+  {
+    "row_index": 668,
+    "id": "40d391ae1bcc59269463c285cdbd6a85845ba4a3800180a61f63a273bdb871e1",
+    "source": "amazon",
+    "text": "Then I had to continue pairing it periodically since it somehow kept dropping.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1688931946879411
+  },
+  {
+    "row_index": 671,
+    "id": "6f194d32e4a02cd5fd1089b4b57747d66957ee6506bb2edcdf7ada568088d888",
+    "source": "amazon",
+    "text": "Truly awful.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.028725304497840724
+  },
+  {
+    "row_index": 691,
+    "id": "ca0ada2ce775e05fd4dce633b700b844b1cc32f381737ec925975d1972c061a3",
+    "source": "amazon",
+    "text": "It doesn't make you look cool.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3850322306686951
+  },
+  {
+    "row_index": 700,
+    "id": "dccb5f014ae7133eaf23855400e9ec20727e45560e4c447f2bef144d74be24d4",
+    "source": "amazon",
+    "text": "So anyone near you will hear part of your conversation.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.25802066549743635
+  },
+  {
+    "row_index": 702,
+    "id": "1abbd0391d3581f568a3656f13df797d5b01b4c76c7714c80acd50332e5a7107",
+    "source": "amazon",
+    "text": "I bought this phone as a replacement for my StarTac and have regretted it since.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.6989425795834695
+  },
+  {
+    "row_index": 705,
+    "id": "d1d666055d8b0249456ab3c3b5b9aaa3df810d47e635b417c24eecfcd1082606",
+    "source": "amazon",
+    "text": "It lasts less than 3o minutes, if I actually try to use the phone.My wife has the same phone with the same problem.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.09632646569064929
+  },
+  {
+    "row_index": 706,
+    "id": "ec97c1dc0b3907ba56d6be5ea6f3aef582b5bd82e64d066d718b29817da517ea",
+    "source": "amazon",
+    "text": "Poor quality.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.028146997327047264
+  },
+  {
+    "row_index": 719,
+    "id": "703e68e315904aba037357faf457b0ad03f5014eca0ff74149d785b393047bc4",
+    "source": "amazon",
+    "text": "I have always used corded headsets and the freedom from the wireless is very helpful.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.4072072294047113
+  },
+  {
+    "row_index": 735,
+    "id": "cefea4ecbf03ff2b9e10d1e7baef1ae89e2159462cce3a136e24baf0658fa960",
+    "source": "amazon",
+    "text": "Couldn't use the unit with sunglasses, not good in Texas!",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.13054004987064663
+  },
+  {
+    "row_index": 737,
+    "id": "1d0c65f6c26819f152d84c62a2fd0a32bec32eb8e9169f11b507af8ef2950da4",
+    "source": "amazon",
+    "text": "Bought mainly for the charger, which broke soon after purchasing.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.2864366762295143
+  },
+  {
+    "row_index": 745,
+    "id": "c979bf6478abcf84a2befc28f26c869eb335bcb77a0347818d5abe2b8e1c4d06",
+    "source": "amazon",
+    "text": "Cheap but hey it works.. Was pleasantly suprised given the low cost of this item.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.36966352795444013
+  },
+  {
+    "row_index": 755,
+    "id": "94c2611922a667dac22cd8dffa8b6db50d4aab972e8e030a04b37bd6cf133d51",
+    "source": "amazon",
+    "text": "This particular model would not work with my Motorola Q smartphone.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.024745454230563933
+  },
+  {
+    "row_index": 759,
+    "id": "e1c6dc0cf4d0b9dec93a1bae6f460e96f4ca681c178103bae36ffd682d0ec174",
+    "source": "amazon",
+    "text": "I really wanted the Plantronics 510 to be the right one, but it has too many issues for me.The good",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.84102598985613
+  },
+  {
+    "row_index": 764,
+    "id": "75d93b59a92d86399045b09bc1f2544fe85d1b5254c578cb515e62126d3f5cae",
+    "source": "amazon",
+    "text": "The reception has been generally good.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8470495242248082
+  },
+  {
+    "row_index": 767,
+    "id": "1febf8d5d84784b729daab5d90ca33242117e6d14197c7a2398c75184f4f6e87",
+    "source": "amazon",
+    "text": "I highly recommend this case.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9206555802086193
+  },
+  {
+    "row_index": 776,
+    "id": "4718381dcd650468d286d6a0b85590603734c3c0e8a59e0145b890a97ab97171",
+    "source": "amazon",
+    "text": "They work about 2 weeks then break.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.035657424736681334
+  },
+  {
+    "row_index": 777,
+    "id": "a931f62cf577b57b1a455967e4bde8c0908081cf86dcd948a3530a381abe186a",
+    "source": "amazon",
+    "text": "It is simple to use and I like it.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7412302269698205
+  },
+  {
+    "row_index": 795,
+    "id": "f5c20efaed813adae803aac3cbe5d9215d5beb98c78b88612798c1f6344fe4f5",
+    "source": "amazon",
+    "text": "At first I thought I was grtting a good deal at $7.44, until I plugged it into my phone (V3c Razr).",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.6012572338420955
+  },
+  {
+    "row_index": 797,
+    "id": "3cc3755e20912bd0d01fcd245c617fe9b5c686b48d58db4a6c156083cdb9a1ba",
+    "source": "amazon",
+    "text": "2 thumbs up to this seller",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7042340142092376
+  },
+  {
+    "row_index": 805,
+    "id": "794549f4862049087fa4546e56b6bc1f12c7e3dd5261929a3631733137da915c",
+    "source": "amazon",
+    "text": "Product is exactly as described.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6539530081385927
+  },
+  {
+    "row_index": 806,
+    "id": "f8e344fc5a3b3b41f105da2b461b468295ca5c99087b906760ba7a1413a160b0",
+    "source": "amazon",
+    "text": "Gets a signal when other Verizon phones won't.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.21415544356180516
+  },
+  {
+    "row_index": 810,
+    "id": "13377b0226053d90683d6a27c01b87b0477ea212a6d376bbe940ab6ae00a324c",
+    "source": "amazon",
+    "text": "That being said, for a phone, the camera is very nice; many cool effects to play with, and video is decent as well.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9776120261038241
+  },
+  {
+    "row_index": 811,
+    "id": "bd40e0ac5879eb615c65ed94574790d09dc443aa66285f38ea003264e51a2f1c",
+    "source": "amazon",
+    "text": "I have been very satisfied with this cell phone from day one.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6958461699309153
+  },
+  {
+    "row_index": 817,
+    "id": "b196ce623ab6089c993126baae452184812339f9de0c48ba408c156eee2ac521",
+    "source": "amazon",
+    "text": "Doesn't Work.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.0347728154020692
+  },
+  {
+    "row_index": 822,
+    "id": "1fb129b1ceac726e2af5e55bf14665b429a1cdce2b930c003541931d6113ae11",
+    "source": "amazon",
+    "text": "My father has the V265, and the battery is dying.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.6072359143475361
+  },
+  {
+    "row_index": 833,
+    "id": "a1be4e4807c7e2e836ef335e037bce6b8f769d44e7cd4a896dbed3aa5ad1868f",
+    "source": "amazon",
+    "text": "It's not what it says it is.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.06373814472497256
+  },
+  {
+    "row_index": 843,
+    "id": "e1076fc4f1c7911ab5044623e2c9120a81a8ee4f321dc2e556ca7b8ef6fc2ce1",
+    "source": "amazon",
+    "text": "Comfortable in my hand.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7877545850640894
+  },
+  {
+    "row_index": 849,
+    "id": "3eeb93ef1ebe3d91c6a78c0d6c5e5b66fc82917f8bf5a52d38cd2ae936b4ff1e",
+    "source": "amazon",
+    "text": "Last time buying from you.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.19153543847444554
+  },
+  {
+    "row_index": 850,
+    "id": "2a86be21d7e788c32f3060ec6693a2a19ebd01ef373b5127309a2064d7ba096b",
+    "source": "amazon",
+    "text": "It was a waste of my money.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.02125870067630314
+  },
+  {
+    "row_index": 852,
+    "id": "54efd72b4eb05ac1391ddfabf862de330680c88fce4a87662618d77bdc4eb67d",
+    "source": "amazon",
+    "text": "I have only had it for a few weeks, but so far, so good.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.47625238632666267
+  },
+  {
+    "row_index": 868,
+    "id": "1ed4fa07d7f6c11c3bd21b0155e94809f59b19fc0eec5e42996519f89a5b345c",
+    "source": "amazon",
+    "text": "It seems completely secure, both holding on to my belt, and keeping the iPhone inside.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9013581709028272
+  },
+  {
+    "row_index": 875,
+    "id": "00b57286192ef22f5f7e5adf4b6b588ab7fc4530768988dc208be6c83a29e36e",
+    "source": "amazon",
+    "text": "I didn't want the clip going over the top of my ear, causing discomfort.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.26573385654839754
+  },
+  {
+    "row_index": 880,
+    "id": "73318e2cd2ebef0569ecd054b9c0eb2b4cbe240be6ae88d984bd034692644922",
+    "source": "amazon",
+    "text": "Fits comfortably, came with three sizes of earbud tips.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.60121707947495
+  },
+  {
+    "row_index": 882,
+    "id": "ddd55ae843ba5304af185b49ab942928f65886a75de7877a5e69ca8c8c185569",
+    "source": "amazon",
+    "text": "This product is very High quality Chinese CRAP!!!!!!",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.5838039924020985
+  },
+  {
+    "row_index": 886,
+    "id": "135b2d3918b7be7e3880ab9ea6c0ace5ff06b19123f057a31d5f56974d18f6cf",
+    "source": "amazon",
+    "text": "The pairing of the two devices was so easy it barely took a couple minutes before I started making calls with the voice dialing feature.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.03300211765534312
+  },
+  {
+    "row_index": 890,
+    "id": "8b820911fb7285facceb82b539df57ac482a26e3773e046a99ec4d32f6e3b675",
+    "source": "amazon",
+    "text": "I love being able to use one headset for both by land-line and cell.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9469011537512421
+  },
+  {
+    "row_index": 897,
+    "id": "2fd85395eb981c6529dd60a4a13c7c1e303689aee431b78a88f62b7dd3d86cdd",
+    "source": "amazon",
+    "text": "Good show, Samsung.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8930422476886191
+  },
+  {
+    "row_index": 901,
+    "id": "f55d0d1154293ac85169cb5e663f679db9374ce2fc638f8e0d058c189f0ddc9e",
+    "source": "amazon",
+    "text": "My phone sounded OK ( not great - OK), but my wife's phone was almost totally unintelligible, she couldn't understand a word being said on it.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4376086828974855
+  },
+  {
+    "row_index": 904,
+    "id": "f6c5d0fa67181a8cbaffd65e4fd658646b9ec9436a13d0b6064c8464d43de506",
+    "source": "amazon",
+    "text": "Leopard Print is wonderfully wild!.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.5706387929986821
+  },
+  {
+    "row_index": 909,
+    "id": "4d5a55f4e5151dad1ae71003357ca655f35d5c6d7f3ef23e6edf95f1cf996ed9",
+    "source": "amazon",
+    "text": "Happy so far!.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9085969049749087
+  },
+  {
+    "row_index": 912,
+    "id": "8e3dad880a89a0f8808526dd25642e95951459c37754f6fb5a16b4b2680807aa",
+    "source": "amazon",
+    "text": "Motorola finally got the voice quality of a bluetooth headset right.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.3990113460792924
+  },
+  {
+    "row_index": 917,
+    "id": "3168f899ff0c76be6e0b533047fb745b839ea882591cff790ebe647262e4d75b",
+    "source": "amazon",
+    "text": "Never got it!!!!!",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.399525468482308
+  },
+  {
+    "row_index": 918,
+    "id": "937b0057d42774096b6e0d3e63dfdb3695bce4644e379fb7c71c064752690c80",
+    "source": "amazon",
+    "text": "This pair of headphones is the worst that I have ever had sound-wise.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.06569987216193483
+  },
+  {
+    "row_index": 920,
+    "id": "ba1adc1195e60dfb5895b2cbbf21251b4da83e7679dbf9b5c6248d1ece34522b",
+    "source": "amazon",
+    "text": "Does not charge the Cingular (ATT) 8525 phone.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1822600230233207
+  },
+  {
+    "row_index": 922,
+    "id": "602c9d7e746f84a1ab246052ef58d7c230a76048b41173b330e9ebefe3422a85",
+    "source": "amazon",
+    "text": "However, after about a year, the fliptop started to get loose and wobbly and eventually my screen went black and I couldn't receive and place calls.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4174681496046295
+  },
+  {
+    "row_index": 923,
+    "id": "b31010a3de56e53c254979e6e899def36231e2aed3edb0d0d50e7a0c65a35d31",
+    "source": "amazon",
+    "text": "I kept catching the cable on the seat and I had to pull the phone out to turn it on an off.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.16851921670822592
+  },
+  {
+    "row_index": 927,
+    "id": "0c46974229bbbc0a8ce791ff16f480dfd3173f002f40a3e94becb8f18b41c6ca",
+    "source": "amazon",
+    "text": "A lot of websites have been rating this a very good phone and so do I.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8652633897703318
+  },
+  {
+    "row_index": 930,
+    "id": "14ed2030ffa0659ed616786ab204fe01e098e2cac9f0a827617b63ced683c1fc",
+    "source": "amazon",
+    "text": "I'm returning them.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.17362479949839674
+  },
+  {
+    "row_index": 937,
+    "id": "8440bf48d2005f196948aa40019324be2c47afda23f0e7445578364247a9b9fd",
+    "source": "amazon",
+    "text": "It is a joy to use.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.5613563036413545
+  },
+  {
+    "row_index": 943,
+    "id": "37a4acf779d3f095aa124062a2212180a18f793e724e5fd8f795306435e27b64",
+    "source": "amazon",
+    "text": "Just reading on the specs alone makes you say WOW.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7717345492975972
+  },
+  {
+    "row_index": 953,
+    "id": "837c4d7edd2f016c9abef775a861bb2c0c0f04d682aff185f4a1cb4c808b867f",
+    "source": "amazon",
+    "text": "however, my girl was complain that some time the phone doesn't wake up like normal phone does.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3304074132809967
+  },
+  {
+    "row_index": 956,
+    "id": "8d3c007d7cb2fd268b11d4f733ab0e472657c6f4581e46d7fc539b2ed287acea",
+    "source": "amazon",
+    "text": "I'm trying to return it for a refund.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.030788666469342335
+  },
+  {
+    "row_index": 960,
+    "id": "1c666594e7010fc524c9a83f642be1901858be07b30761aa869e8322e690f82c",
+    "source": "amazon",
+    "text": "Lousy product.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.35552282131528096
+  },
+  {
+    "row_index": 963,
+    "id": "555edb35d1c35a51161d5c7d7c752f726dd496d539474bdbbf7522490dbd7b18",
+    "source": "amazon",
+    "text": "SWEETEST PHONE!!!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7307398938944285
+  },
+  {
+    "row_index": 968,
+    "id": "27ea1c4c65931f6611dab8b941a7f80340f287e8cd23b85465df1c6ea2997bf7",
+    "source": "amazon",
+    "text": "you could only take 2 videos at a time and the quality was very poor.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.12717476369041278
+  },
+  {
+    "row_index": 970,
+    "id": "9701287f2fbe34428ba80e2be2fd1b70fb47e3968d8eb50de5a34b2ae60ae8e0",
+    "source": "amazon",
+    "text": "I am going to have to be the first to negatively review this product.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.17995998557359663
+  },
+  {
+    "row_index": 984,
+    "id": "495b93485e02ff0f5c6a1a98d00808bd8f89e51ecf8e9038adec53d39d9ba856",
+    "source": "amazon",
+    "text": "Item Does Not Match Picture.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.03648675326246358
+  },
+  {
+    "row_index": 987,
+    "id": "8a5f937c693cc0507b0aea6fb8cbbe15446c596d3530c9e7e2dab3d02caa58da",
+    "source": "imdb",
+    "text": "A very, very, very slow-moving, aimless movie about a distressed, drifting young man.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.37449809801442496
+  },
+  {
+    "row_index": 996,
+    "id": "a48550e054794e08b2530731f3e24cd2f0edc00a8e1243f0ad1bc2f8942df0d8",
+    "source": "imdb",
+    "text": "Loved the casting of Jimmy Buffet as the science teacher.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8587105248897274
+  },
+  {
+    "row_index": 997,
+    "id": "bd2eef42da99aa1f9c6435e674671831fa7e55bfdb8a159632e8b9f9678e6116",
+    "source": "imdb",
+    "text": "And those baby owls were adorable.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7933507640042483
+  },
+  {
+    "row_index": 1000,
+    "id": "332ff231b0dda0c7c279118090c9b4bb9f15285eff6cee38efbd31cd392cde09",
+    "source": "imdb",
+    "text": "It Was So Cool.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.819752844550956
+  },
+  {
+    "row_index": 1005,
+    "id": "85c269736e5c5ef94bd5d2f5e2080ab9a32f4dcb76a7537452738c45d6697bbd",
+    "source": "imdb",
+    "text": "It's practically perfect in all of them  a true masterpiece in a sea of faux \"masterpieces.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6774580882588606
+  },
+  {
+    "row_index": 1009,
+    "id": "47007c57934907c7408eb036d8197e370993ad805492d7683cbd728bff065081",
+    "source": "imdb",
+    "text": "How can anyone in their right mind ask for anything more from a movie than this?  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.1432278087751025
+  },
+  {
+    "row_index": 1022,
+    "id": "c1a5691baeb9e87342914697f827c91f76a54e60f0a5d5bd56548eaf2970d46f",
+    "source": "imdb",
+    "text": "As they say in Canada, This is the fun game, aye.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8898176759416302
+  },
+  {
+    "row_index": 1027,
+    "id": "6a65001a199f725d73b8d6c09c7bbaa12011cf464d234409190174f426dc2d46",
+    "source": "imdb",
+    "text": "The very idea of it was lame - take a minor character from a mediocre PG-13 film, and make a complete non-sequel while changing its tone to a PG-rated family movie.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.18892954952262986
+  },
+  {
+    "row_index": 1029,
+    "id": "988f9f36aa10a4f574e1e84015c2bafcc07f59a3c57fb4c9f31e9fec56a20926",
+    "source": "imdb",
+    "text": "Not only did it only confirm that the film would be unfunny and generic, but it also managed to give away the ENTIRE movie; and I'm not exaggerating - every moment, every plot point, every joke is told in the trailer.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.2701537242090418
+  },
+  {
+    "row_index": 1034,
+    "id": "11101ae9a3e44d627b14dbb5a2d6b493589b0aeb84d158ceda281e3317581f10",
+    "source": "imdb",
+    "text": "The only real effects work is the presence of all the animals, and the integration of those into the scenes is some of the worst and most obvious blue/green-screen work I've ever seen.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.16628782388291632
+  },
+  {
+    "row_index": 1041,
+    "id": "6da2ae6b75a982843c4d17c4c1d7feb48e4a6959bdef13a1465ac53b5c313e3c",
+    "source": "imdb",
+    "text": "Long, whiny and pointless.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.9394990413729749
+  },
+  {
+    "row_index": 1048,
+    "id": "874f27d254043e8af3a5b572424089162138cf7f33cd68fe76a950ef178ae5f7",
+    "source": "imdb",
+    "text": "All in all I give this one a resounding 9 out of 10.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6108890791770539
+  },
+  {
+    "row_index": 1049,
+    "id": "fe07e8d95b4aafba1d4cec1bc0c08a83819057fb753605cd56d13c1ead9f553a",
+    "source": "imdb",
+    "text": "I do think Tom Hanks is a good actor.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8265861921882947
+  },
+  {
+    "row_index": 1067,
+    "id": "40d5508a9c4d7dd15d611fa3ad2b77f6d9751d3de3a7e8539f433a75901ef1c4",
+    "source": "imdb",
+    "text": "I'm glad this pretentious piece of s*** didn't do as planned by the Dodge stratus Big Shots... It's gonna help movie makers who aren't in the very restrained \"movie business\" of Québec.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.285027955911349
+  },
+  {
+    "row_index": 1068,
+    "id": "be0dbbadc7280221921101d07dbb824e09c49a194d30a745e859c877522c38dd",
+    "source": "imdb",
+    "text": "This if the first movie I've given a 10 to in years.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6064632414183609
+  },
+  {
+    "row_index": 1073,
+    "id": "3b19346f54a665b3b22cd45af998953c7da8a6ad1cc7ee99c3847efa98f763e8",
+    "source": "imdb",
+    "text": "I gave it a 10  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9222516788149804
+  },
+  {
+    "row_index": 1075,
+    "id": "11c55fcf27da77a2d5fa36976df9d7bde50fdc7bb1a631783af73aeb0252e7bb",
+    "source": "imdb",
+    "text": "It is a true classic.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.685573439125293
+  },
+  {
+    "row_index": 1077,
+    "id": "634a7b38f38b066813c7bc8283b8d45f38d2cb8d924bd0417658db05ac288f10",
+    "source": "imdb",
+    "text": "Definitely worth checking out.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8259437703591894
+  },
+  {
+    "row_index": 1080,
+    "id": "dd4e88f2d07a4a81d1a54294bb2a0b268eb7acc8c009af5d027ace50dbd5e864",
+    "source": "imdb",
+    "text": "There was NOTHING believable about it at all.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.23555465876420464
+  },
+  {
+    "row_index": 1081,
+    "id": "ad13d888ca6f96890f2cc6f697b6b9c40577ccb2563e452af1a4b82a551d3b86",
+    "source": "imdb",
+    "text": "The only suspense I was feeling was the frustration at just how retarded the girls were.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.031285410105059086
+  },
+  {
+    "row_index": 1087,
+    "id": "16345a9278852f4459bde3f4c628b4f377048497ea8ff3eeccb7be9fc03f7741",
+    "source": "imdb",
+    "text": "I don't think you will be disappointed.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.31332133141523055
+  },
+  {
+    "row_index": 1090,
+    "id": "68ef175f82e0e6dc6d703054d7726e23d54197c8cb2356b5c236dd06d28f17fe",
+    "source": "imdb",
+    "text": "It was too predictable, even for a chick flick.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1828997537236114
+  },
+  {
+    "row_index": 1092,
+    "id": "2d73733c0af987ed13f64c80af190dab5147622ee03b579b2e188f144c6d106a",
+    "source": "imdb",
+    "text": "The only thing really worth watching was the scenery and the house, because it is beautiful.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6319060452131878
+  },
+  {
+    "row_index": 1096,
+    "id": "e4f39f9fad73c34f801030bfe4653cf127cb3ca933eeedb20a66ee6be8dc036b",
+    "source": "imdb",
+    "text": "The acting helps the writing along very well (maybe the idiot-savant sister could have been played better), and it is a real joy to watch.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7233452352202853
+  },
+  {
+    "row_index": 1111,
+    "id": "e362b5feb54526ab7f5a60579a79ca03b7a01fc1e9e7f6dc93139a67448043ba",
+    "source": "imdb",
+    "text": "10/10  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9097077860341907
+  },
+  {
+    "row_index": 1116,
+    "id": "ad72fc619666114b3db8b5d0de79f78988796babe382f6324086292bf7ee36dd",
+    "source": "imdb",
+    "text": "There was NO chemistry between Ben Affleck and Sandra Bullock in this film, and I couldn't understand why he would consider even leaving his wife-to-be for this chick that he supposedly was knocked out by.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.2824205275911366
+  },
+  {
+    "row_index": 1123,
+    "id": "64307ba220c98d0a447ea82002933ce3863d03af2780a55e432f41b8db474a45",
+    "source": "imdb",
+    "text": "IMDB ratings only go as low 1 for awful, it's time to get some negative numbers in there for cases such as these.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.11746694854359617
+  },
+  {
+    "row_index": 1128,
+    "id": "e06d4e7159e52aaa64c8dbae964c5e6ebcf9027a2fd1a671abc53cd1eddb6591",
+    "source": "imdb",
+    "text": "It is an hour and half waste of time, following a bunch of very pretty high schoolers whine and cry about life.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4662246480514684
+  },
+  {
+    "row_index": 1158,
+    "id": "3260a75e3566fc4883a9b3d266f4405e05dad0957759ad0101598e8d23641f44",
+    "source": "imdb",
+    "text": "I certainly do not mean this distinction in a good way.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.04316208340945592
+  },
+  {
+    "row_index": 1161,
+    "id": "d32822a66205daed987ac99723dd97dcc52b2c0798f410aae365f705a876ad92",
+    "source": "imdb",
+    "text": "Everything is appalling.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.422073691969721
+  },
+  {
+    "row_index": 1168,
+    "id": "f54be04d5b62a8ea0507c0d2fcd5323c20d8049884314e69311ca58644bca3fa",
+    "source": "imdb",
+    "text": "I'll even say it again  this is torture.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4913298254357545
+  },
+  {
+    "row_index": 1178,
+    "id": "e07ca07e71be4dc224ba8f07ec17e537cfa3fa0e805195bd38977696d174e736",
+    "source": "imdb",
+    "text": "This movie suffered because of the writing, it needed more suspense.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.25571370483612393
+  },
+  {
+    "row_index": 1180,
+    "id": "aeef5e8d87b4ff193fd05093705c848da487fb511e94d17a11921aa8131c5e93",
+    "source": "imdb",
+    "text": "But other than that the movie seemed to drag and the heroes didn't really work for their freedom.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.19870135402207983
+  },
+  {
+    "row_index": 1183,
+    "id": "10513da07ab77301b50ee2c5c9bb338290f8d15f70f6bd40479b0cd6e4f36954",
+    "source": "imdb",
+    "text": "This movie is BAD.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.026172145429410838
+  },
+  {
+    "row_index": 1185,
+    "id": "e4af66479a73df16cf71fe6c8a49b8bd42d77ace016300094066ca6853dd62cd",
+    "source": "imdb",
+    "text": "The film is way too long.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.631186614717237
+  },
+  {
+    "row_index": 1198,
+    "id": "d8f86ff293f19bf66db128f13ae12e55ea86ca2dd148efa89ad51a418133bda4",
+    "source": "imdb",
+    "text": "\" In fact, it's hard to remember that the part of Ray Charles is being acted, and not played by the man himself.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.5335054842884861
+  },
+  {
+    "row_index": 1200,
+    "id": "7a5d9670e4c82cccffdbab5aff9c2fd3058da8d3931cf81833a6452a764be4eb",
+    "source": "imdb",
+    "text": "Ray Charles' life provided excellent biographical material for the film, which goes well beyond being just another movie about a musician.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9103112437768035
+  },
+  {
+    "row_index": 1202,
+    "id": "a9a36ee0543ef2574260c2dbdbf5f04e9f2090c9af98eaad9e1f570dcf5afb9a",
+    "source": "imdb",
+    "text": "Ironically I mostly find his films a total waste of time to watch.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.234620168154741
+  },
+  {
+    "row_index": 1207,
+    "id": "1e738dc757155c4de9ded9f413e98166a3906b7cdb6a0456b011dfda43d58de6",
+    "source": "imdb",
+    "text": "There are the usual Hitchcock logic flaws.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.5361179937771945
+  },
+  {
+    "row_index": 1212,
+    "id": "2eccffa8b1162a8225f8662200aaefad77d5141b0c93e3ff9ae6f860b1bca610",
+    "source": "imdb",
+    "text": "He can bore you to pieces, and kill the momentum of a movie, quicker than anyone else.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.31592156195982124
+  },
+  {
+    "row_index": 1215,
+    "id": "82edaf01b73e2d37ffbe4fc1215e66c7ee9e082be77e1853fb66dfafeea6dc62",
+    "source": "imdb",
+    "text": "I was totally fascinated by the music, the dancing... everything.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.24463008409997336
+  },
+  {
+    "row_index": 1221,
+    "id": "ae90b692025679bc5a1aeffdd7b28fed739f08de041d64783c7690f6886eb7f3",
+    "source": "imdb",
+    "text": "It was just too horrible.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.016656937734442143
+  },
+  {
+    "row_index": 1222,
+    "id": "056ac52fe26474517964bb2e51d826a406ba5880f1dc200c90dc4386ff37d6ed",
+    "source": "imdb",
+    "text": "The worst, sappiest dialogue... I could go on and on.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.056152760383354566
+  },
+  {
+    "row_index": 1223,
+    "id": "644a938b54cf7fcda983d023b067d72afa5c7afec18bcbc17f32aaad9acc8009",
+    "source": "imdb",
+    "text": "But what really made it unwatchable was the direction.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.22734481290797387
+  },
+  {
+    "row_index": 1227,
+    "id": "2c11351c07110488b8209d591de214f530d0b67c80c5e0e5fd7ad2a80363b282",
+    "source": "imdb",
+    "text": "This would not even be good as a made for TV flick.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.41434617107541677
+  },
+  {
+    "row_index": 1229,
+    "id": "aa583b722d1169e1478bbf29e65f69bb8f4780e4c64e6666425faf80bee8ae2b",
+    "source": "imdb",
+    "text": "The film has great actors, a master director, a significant theme--at least a would-be significant theme, undertone of fifties existential world-weariness, aerial scenes that ought to have thrilled both senses and imagination, and characters about which one might deeply care.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8641071708536732
+  },
+  {
+    "row_index": 1232,
+    "id": "409d1ace280be6fb030dcf9bd1efb1735339d57b19e89f276be86c4e07696c5a",
+    "source": "imdb",
+    "text": "No actress has been worse used that June Allison in this movie.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.16718269503523325
+  },
+  {
+    "row_index": 1238,
+    "id": "a45fbc0ef56d7cfa18269a43edc1348d39c2f85f5e0ea420ee5d0c33521da6ec",
+    "source": "imdb",
+    "text": "The soundtrack sucked.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.24010225845759806
+  },
+  {
+    "row_index": 1239,
+    "id": "911e477a65f900b862a61961f99dd3dd375d4f9b487d30c874db41920890f7ca",
+    "source": "imdb",
+    "text": "The acting sucked.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.023478045975112383
+  },
+  {
+    "row_index": 1245,
+    "id": "3d2b733bc701edd96a95af6d2f489c605a3726b6ca0b093950bef441569944b1",
+    "source": "imdb",
+    "text": "But this movie is not funny, considering the ridiculousness of it.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3527745570385954
+  },
+  {
+    "row_index": 1258,
+    "id": "68087c506c8f616f4b161384c14fccd7f950cfca5d7defa64464f2897ff5e85e",
+    "source": "imdb",
+    "text": "Everything about this film is simply incredible.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8748331149546346
+  },
+  {
+    "row_index": 1266,
+    "id": "0a636c7a774f73ea67b672841a93ded8516490283c493157c23ecb75c55da027",
+    "source": "imdb",
+    "text": "It was forced, like everything in this movie.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.746727579410833
+  },
+  {
+    "row_index": 1273,
+    "id": "5574b39fdfca88ea05490c143aff1ff219be03131ce0a3c47a8e3d82fcb33517",
+    "source": "imdb",
+    "text": "The acting was bad.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.006141077986941227
+  },
+  {
+    "row_index": 1277,
+    "id": "47c1b7b677417f8ce64467e009eb86abd7bfb77c9b63181d2fcd39c5ead91230",
+    "source": "imdb",
+    "text": "Rating: 1 out of 10.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.13576830131147183
+  },
+  {
+    "row_index": 1304,
+    "id": "3a359d7cc6b4091076cba4ec818ee5c3bf18aeb354e0a176886b2f9bf0390a9e",
+    "source": "imdb",
+    "text": "All the characters in this film are tremendously well played.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9815385931210963
+  },
+  {
+    "row_index": 1305,
+    "id": "aeee93fbf5f7d06bdfbf322f13a194e333cd166bf6d472c4b6606a3b4d6e1fb8",
+    "source": "imdb",
+    "text": "And I really did find them funny.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8994690275056441
+  },
+  {
+    "row_index": 1308,
+    "id": "533996388c2c2c09016e06a3a839291d6461c01c634b5fd1a709dd77e39e227b",
+    "source": "imdb",
+    "text": "\" I love it.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9729043864163978
+  },
+  {
+    "row_index": 1311,
+    "id": "4197aedeea85954160c28fd99da161144bbbae5d86e9cd9190a73f9f92283e47",
+    "source": "imdb",
+    "text": "I will never forget it now.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.1288058317103809
+  },
+  {
+    "row_index": 1313,
+    "id": "d69abde9cc385acdcb81b2c1d5bae31c1f67833fb9dccec0d515b42fb9a9ce04",
+    "source": "imdb",
+    "text": "Which has more depth and character than the man underneath it.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.7649920257571293
+  },
+  {
+    "row_index": 1314,
+    "id": "46c651991429451c3bec24eebb89a6924777c596ff3fa9aae54833940a793e93",
+    "source": "imdb",
+    "text": "The Malta settings are as dry and as barren as the dialogue.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1612943411120831
+  },
+  {
+    "row_index": 1317,
+    "id": "3d1ccae2084a5e135595894c21deea95393b44ff0e262d7d77f268b38c217e97",
+    "source": "imdb",
+    "text": "For those that haven't seen it, don't waste your time!  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.09179035092073441
+  },
+  {
+    "row_index": 1330,
+    "id": "2ebc530154b814dd328dd4690234ed0e2f53e0cfa49c6c65971f0008bb36710d",
+    "source": "imdb",
+    "text": "is pretty funny.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9171034086649825
+  },
+  {
+    "row_index": 1337,
+    "id": "d565a8851fe5e2d9d0ec5f76398a32d0a8a13ddebf4720ee704decaa0a66c99e",
+    "source": "imdb",
+    "text": "Even if you love bad movies, do not watch this movie.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.111803765067808
+  },
+  {
+    "row_index": 1341,
+    "id": "89c381fff92a7d2a3f7f386816c67a0e2ed27b9faedd0f7f70b91381a73a50a3",
+    "source": "imdb",
+    "text": "I must say I have taped most of the episodes and i find myself watching them over and over again.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8514310347445104
+  },
+  {
+    "row_index": 1343,
+    "id": "33811bcbe45374d4d25bc63c86e0fd8a6ca117e0271057a2fdc2b413f2142d9f",
+    "source": "imdb",
+    "text": "I don't know exactly what it is about this movie, but we latched on to this endearing movie and it has become a special part of our family's memories.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.46301027963042374
+  },
+  {
+    "row_index": 1352,
+    "id": "4dc9c9b8f11954500ad546f44957f45530282d0a3ec9f410a66e03e19db0ec26",
+    "source": "imdb",
+    "text": "The new characters weren't all that memorable, and I found myself forgetting who was who.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.6777237515239513
+  },
+  {
+    "row_index": 1354,
+    "id": "754eac79800423889b90b7af7c9358af416950721f33fb15e12e373d075bdf77",
+    "source": "imdb",
+    "text": "It didn't make me scared, horrified, or make me sympathetic towards the characters; it was simply annoying.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.055894978433052044
+  },
+  {
+    "row_index": 1360,
+    "id": "906e2c4cffad096757c969815bd143060c84a941b5b1abbbaff5d13f994e5d2b",
+    "source": "imdb",
+    "text": "Elias Koteas,Jack Palance play good roles Angelina is hot and gets naked.Billy Drago appears in this and is cool as usual + a cameo by Sven ole Thorsen helps make this a very enjoyable movie with good acting and a decent budget.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9796679505441568
+  },
+  {
+    "row_index": 1361,
+    "id": "6dc32700d4bb980bbced361985b20502ccde4b8dd9efb5ec859eda6508274329",
+    "source": "imdb",
+    "text": "This was such an awesome movie that i bought it off of Ebay.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.46607905375304687
+  },
+  {
+    "row_index": 1362,
+    "id": "63d58ff5685c305dfe934ba9691018a020ba79c6deed1c9ce6780018b0dc46d1",
+    "source": "imdb",
+    "text": "I really loved the story line and the poler bear was kinda cute.But if anyone has a question about Fort Steele, just ask away:)  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8087175431538826
+  },
+  {
+    "row_index": 1372,
+    "id": "8956b019fd2c9a5451e4a0e1e12903c80087f3f458e72ef41143c3e7a1b698f0",
+    "source": "imdb",
+    "text": "I highly recommend this movie for anyone interested in art, poetry, theater, politics, or Japanese history.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9144349618585268
+  },
+  {
+    "row_index": 1394,
+    "id": "8e12bde2c098813f856bb02737506719a1447b5972eef777ec8f54dd89f7ab7b",
+    "source": "imdb",
+    "text": "Vivian Schilling did an excellent job with the script.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8430709754686605
+  },
+  {
+    "row_index": 1397,
+    "id": "6a5b4b006ef2c6a09acc4a4040c4d9b17de180deed0664f22fa1925528f05d84",
+    "source": "imdb",
+    "text": "Not too screamy not to masculine but just right.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.018606575239786937
+  },
+  {
+    "row_index": 1403,
+    "id": "cf1abbde5454687130ca58e6cb4787311f7d0073198c95a204f65a43d8dc1c04",
+    "source": "imdb",
+    "text": "& That movie was bad.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.014704938824507786
+  },
+  {
+    "row_index": 1414,
+    "id": "a3e58182b3f1690ff04fff80fa43caee84b61ebd656221ade7dd8c102de2bcde",
+    "source": "imdb",
+    "text": "Oh yeah, and the storyline was pathetic too.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1322200947764532
+  },
+  {
+    "row_index": 1417,
+    "id": "7c5f22d64b28dc8bfc52a032e583c5523fbda93728f81383a8cc49fb6e4a63a0",
+    "source": "imdb",
+    "text": "In short - this was a monumental waste of time and energy and I would not recommend anyone to EVER see this film.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.08921446223595624
+  },
+  {
+    "row_index": 1435,
+    "id": "f70145ddba6d8b4a7e65a797f4d35428345bdf0a00b851973d8891010431cfa0",
+    "source": "imdb",
+    "text": "Wow, what a bad film.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.23248475916378405
+  },
+  {
+    "row_index": 1457,
+    "id": "5cbf5217786b41f259769f255ee75d8eb019a986eb195139d544404435d3f0c6",
+    "source": "imdb",
+    "text": "The plot, such as it is, is so derivative and predictable that the ending is like a mercy killing.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.6673541239175192
+  },
+  {
+    "row_index": 1459,
+    "id": "6be3fceb1df2a8e8d6022021a45e568bb16b13b87849118375de403f3d2c7325",
+    "source": "imdb",
+    "text": "I was very uneasy with how bad this movie was, but not scared at all.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.038420850500429295
+  },
+  {
+    "row_index": 1470,
+    "id": "160a1eafae35d24d3022901df00d5c0d21ea58c890646bc96888723c921c1e93",
+    "source": "imdb",
+    "text": "This movie was kind of long in length, but I enjoyed every minute of it.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7776375322603557
+  },
+  {
+    "row_index": 1473,
+    "id": "4ee682dc4a4c4fc84177fc3af675904b8ab9bd26326cac95f109964b3ec2c8e8",
+    "source": "imdb",
+    "text": "I particularly remember my senses being assaulted by strident cords of music that would blare out with very little warning, and even less meaning.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3914029590540599
+  },
+  {
+    "row_index": 1481,
+    "id": "ca881953132d424857d6190d1cad4d367828e1ba03685bbc80d896022fd76c4d",
+    "source": "imdb",
+    "text": "This movie is a good and humorous comment on life in 2006.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9634256831750599
+  },
+  {
+    "row_index": 1494,
+    "id": "a563a8c2a0ef60da72483aeb7e247f86732d9e987c30fb1f0b40f0d84e9cccb4",
+    "source": "imdb",
+    "text": "The script looks as if only a rough draft was written and shooting began before a finished script was completed.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.06581822489806795
+  },
+  {
+    "row_index": 1496,
+    "id": "ec087e92f84716d9ed184c429de50ba2b61ad2122ce5af5400919680d9619fcc",
+    "source": "imdb",
+    "text": "The cast is good.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9587750491620617
+  },
+  {
+    "row_index": 1497,
+    "id": "89bdfde7e71b12f06b75ff3ab7e708da146de70a562badda122dfc1fdaec35a0",
+    "source": "imdb",
+    "text": "For that, it's worth checking out.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.3895366028222234
+  },
+  {
+    "row_index": 1505,
+    "id": "4c34378a26733233a4112a22b8e9b0acba4f7a5bab1de7089bcb9849d32e54a7",
+    "source": "imdb",
+    "text": "It is zillion times away from reality.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.13535078198232686
+  },
+  {
+    "row_index": 1509,
+    "id": "5e20b6c8de3d4b6051ae6ed91280a41c3ac55e839957afdb737d3a23c8473908",
+    "source": "imdb",
+    "text": "Full of unconvincing cardboard characters it is blandly written by Edward Chodorov, who also produced, and is surprisingly directed by Jean Negulesco from whom one would expect a great deal more.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.9515213901404919
+  },
+  {
+    "row_index": 1510,
+    "id": "7118622e8355a249a719b2d861bdbd7be9fe74ff30a1f0d60fe5e3e852a54974",
+    "source": "imdb",
+    "text": "From here on the Widmark character turns unintentionally comical!  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.8045309434768878
+  },
+  {
+    "row_index": 1511,
+    "id": "23f79f2b1cb512f4fc9e281bcb23f4023473d2255ffb7e5c81fa74887a8f06bc",
+    "source": "imdb",
+    "text": "His losing his marbles so early in the proceedings is totally implausible and unconvincing.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.7566555694093322
+  },
+  {
+    "row_index": 1512,
+    "id": "46304c6a3540b9991ba4c2b647aad739bc5fdec02082e57a2ef1fff3875b9960",
+    "source": "imdb",
+    "text": "And if that isn't enough of a mess of a movie for you - the picture is also marred with a constant use of studio sets and indoor exteriors.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.30595929797119614
+  },
+  {
+    "row_index": 1514,
+    "id": "1a5ada557d9bfafd25f28595c03e81a7eb40d488beb619618697df01bac02d8a",
+    "source": "imdb",
+    "text": "(very serious spoilers) this movie was a huge disappointment.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.12139030160973574
+  },
+  {
+    "row_index": 1517,
+    "id": "f25c06a13911244174ef54a28f715ac8cd4181f5c930d98c4ddc8991413deac2",
+    "source": "imdb",
+    "text": "steve martin delivers a really funny performance of a middle-aged, upper class, uptight white guy.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7884209694793074
+  },
+  {
+    "row_index": 1521,
+    "id": "2e3d863dabe5d59f460415ffef7f491a64dee49cdd1a22772a4e1beac0a305c9",
+    "source": "imdb",
+    "text": "the movie is littered with overt racial slurs towards the black cast members and in return the whites are depicted as morons and boobs.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.7643234959962294
+  },
+  {
+    "row_index": 1523,
+    "id": "db92dc9b117004871bc9864edb4cd518b6b4f1d3ba45ca7e625953e2a55f2b94",
+    "source": "imdb",
+    "text": "there is no real plot.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.02454674190758098
+  },
+  {
+    "row_index": 1527,
+    "id": "e82236644a6120363f7fe2377386f79795d4cc6bb9e630b1a3753aa675254e09",
+    "source": "imdb",
+    "text": "While you don't yet hear Mickey speak, there are tons of sound effects and music throughout the film--something we take for granted now but which was a huge crowd pleaser in 1928.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.35135032362497554
+  },
+  {
+    "row_index": 1531,
+    "id": "7fee8d83a48aa002edd143e57546cb60c648e549fe5ab51b26c27d8200d94c1b",
+    "source": "imdb",
+    "text": "The bipolarity of the ruthless thug (one minute a ruthless killer, the next minute a Luv's diaper commercial) is completely unconvincing.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3211168820631481
+  },
+  {
+    "row_index": 1533,
+    "id": "ac21049a6e660ae5ccd97006c65e61543e27b5e043d817b723868154cf358402",
+    "source": "imdb",
+    "text": "The original Body and Soul (1947) is a masterpiece.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8831143542867043
+  },
+  {
+    "row_index": 1536,
+    "id": "cdd7e154d7450b63515ea664c87573c447545e5adc0a2beb50be5858665bb0bc",
+    "source": "imdb",
+    "text": "This may be the only bad film he ever made.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.14322624254217245
+  },
+  {
+    "row_index": 1537,
+    "id": "f63d4f4a57c507982e7c90501a1fff1b64fd58f5d70628084f629fb7f32cdd0f",
+    "source": "imdb",
+    "text": "So bad...well...it's just bad.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.033155357616874305
+  },
+  {
+    "row_index": 1539,
+    "id": "e8a6de5aaaacf5f50107813dac556620303d70735166ef259152e612e40199f1",
+    "source": "imdb",
+    "text": "It's a shame to see good actors like Thomerson and James make a living in a mess like this.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.7060798566628188
+  },
+  {
+    "row_index": 1543,
+    "id": "ecb10568cf81e538f766bc9d33b2083c26c3dc1dd8778002e24e4529f12dd4a5",
+    "source": "imdb",
+    "text": "The script is a big flawed mess.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.26038141084441335
+  },
+  {
+    "row_index": 1550,
+    "id": "a417de00850e66d8b3c4a7e4a571901a76dd2ab7c3feb4ec79a709e28883a404",
+    "source": "imdb",
+    "text": "This convention never worked well in the past, and certainly doesn't work here.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.44811789129662905
+  },
+  {
+    "row_index": 1552,
+    "id": "725cacfa2d71b6c86c9ec3f86baaf656b02146a95576669329ed3492297b700f",
+    "source": "imdb",
+    "text": "The CG opening sequence in space looked like it could have been created on Microsoft Slideshow for God's sake!  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4454027719638128
+  },
+  {
+    "row_index": 1557,
+    "id": "5ca737aec61145fcc3c18132c3d2eb0e412179e2a7800f25fffb7aa348a1eb7f",
+    "source": "imdb",
+    "text": "Not recommended.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.04102254046153403
+  },
+  {
+    "row_index": 1560,
+    "id": "88138edf2d71d8b5b0e9d7d5707ef4a8822f1c2d8354dad58b09ba64bc2a0e64",
+    "source": "imdb",
+    "text": "I understand that it's supposed to be a cheap popcorn comedy, but that doesn't mean that it has to completely insult our intelligence, and have writing so incredibly hackneyed that it borders on offensive.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.44453370458979663
+  },
+  {
+    "row_index": 1562,
+    "id": "f03191c3e3f3f2846fd2b37cbf8fa8c1ecb7a04433ab5377f05cb18d36262e10",
+    "source": "imdb",
+    "text": "The film's sole bright spot was Jonah Hill (who will look almost unrecognizable to fans of the recent Superbad due to the amount of weight he lost in the interim).  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8066008471054509
+  },
+  {
+    "row_index": 1566,
+    "id": "73737eeb2cafeed9f2363bc8ba08ee562dbaef3a8c4ed60f946c187441ee916d",
+    "source": "imdb",
+    "text": "However, here there was no decent acting, action or location work to balance things up.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.07395169127588695
+  },
+  {
+    "row_index": 1568,
+    "id": "21bd2be64ab89e8a1917305484738172872f3f0240423013865b43d3b9d59f38",
+    "source": "imdb",
+    "text": "It failed to convey the broad sweep of landscapes that were a great part of the original.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.7507909115117363
+  },
+  {
+    "row_index": 1571,
+    "id": "5525159ced6cd2a479d3359a0429c8aeef81a6810d468c2b9489a49155547a0c",
+    "source": "imdb",
+    "text": "There is no plot here to keep you going in the first place.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.015857324718632323
+  },
+  {
+    "row_index": 1582,
+    "id": "e2c57553338e4b638f69deca9b86bcfb066946df81b518f6200ba715bef43634",
+    "source": "imdb",
+    "text": "Every element of this story was so over the top, excessively phony and contrived that it was painful to sit through.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.642215332365411
+  },
+  {
+    "row_index": 1596,
+    "id": "ab49948111ca984dffd5e63fdb5bf250b5cbad54b527f9d09cc685b78f07362c",
+    "source": "imdb",
+    "text": "The characters are interesting and you want to find out more about them the longer the movie goes on, and I think people will be surprised by who does and doesn't make it.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9051524520846208
+  },
+  {
+    "row_index": 1604,
+    "id": "2505467128ae9b78c5782368284220b9d0733b09878a66e6d4eb0eec4c89f653",
+    "source": "imdb",
+    "text": "This is a masterful piece of film-making, with many themes simmering and occasionally boiling over in this warts and all study of the poet's bohemian, self-indulgent wartime years that span the aerial bombardments of London and the outward tranquillity of a Welsh coastal retreat - the borderlines between friendship, lust and love, dedication to art and experience versus practical concerns, jealousy, rivalry, cowardice and egotism versus heroism and self-sacrifice and more.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.851415630329598
+  },
+  {
+    "row_index": 1605,
+    "id": "db90b167b4d9fee06232af1467847322df0ca36e064cc7c4eac33cbdbf2755cd",
+    "source": "imdb",
+    "text": "A mature, subtle script that suggests and occasionally brings into dramatic focus the underlying tensions is well served by perfect performances (apart from the odd inappropriate smiling that Keira Knightley is prone to, though perhaps under direction this time as the other characters themselves often mention it).  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.785338709604091
+  },
+  {
+    "row_index": 1607,
+    "id": "c0df84371dda3d9eb026e379ac0218374cf18bc395ba411c2e1c9fb11f4fea73",
+    "source": "imdb",
+    "text": "It's as continuously beautiful to look at as a Bertolucci, but the relationships here are more convincing and the narrative more engaging than some of that master's work.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.36307286293026114
+  },
+  {
+    "row_index": 1608,
+    "id": "5cf1dfd19369c8cc19dbde297be514dfb110e90c2eb8bd565b08520136c570c5",
+    "source": "imdb",
+    "text": "The basic premise is wasted since it is sidelined by the inexplicable focus on the documentary crew.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3991929270471169
+  },
+  {
+    "row_index": 1613,
+    "id": "a201de0f1de3bc5672a256d962b8d98fef3fe27e5b3c0f3316b0e612f3e5ef5c",
+    "source": "imdb",
+    "text": "His acting alongside Olivia De Havilland was brilliant and the ending was fantastic!  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9765377427582785
+  },
+  {
+    "row_index": 1627,
+    "id": "de368dbb32d2ee408d7cf043735949aaed8ef9c79549b6e11276d85d340fc140",
+    "source": "imdb",
+    "text": "The cast is always entertaining as usual.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9098653494526053
+  },
+  {
+    "row_index": 1639,
+    "id": "7609dc5611303c2e92dbb18359c7e1273bd6c25322b0382ae755e475561fa534",
+    "source": "imdb",
+    "text": "Also great directing and photography.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9728358256481432
+  },
+  {
+    "row_index": 1647,
+    "id": "c8c5e3830d0f7061983878778c51992ab07f5b33fb088c0f822607286e7d75c9",
+    "source": "imdb",
+    "text": "Also notable is John Bailey's fine crisp beautifully colored cinematography and the great production design & costumes by Eiko Ishioka who went on to do the memorable costumes for Coppola's Dracula for which she received a well deserved Oscar.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9687272719764709
+  },
+  {
+    "row_index": 1648,
+    "id": "af9befb3422493d04c0267b3e6e2468a30a0ab0ab72043e385444fc856d07a2d",
+    "source": "imdb",
+    "text": "Even allowing for poor production values for the time (1971) and the format (some kind of mini-series), this is baaaaaad.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3375959140643938
+  },
+  {
+    "row_index": 1650,
+    "id": "15ba999ddb65d1ecb0db5d4e71757605ea07652cca21d376ba8e7244f4995c0b",
+    "source": "imdb",
+    "text": "If you do watch it, however, there are small consolations: The actresses playing Anne's sisters each do a wonderful job with their roles.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.5492874167307106
+  },
+  {
+    "row_index": 1653,
+    "id": "74c883b232c9fdbe840b2d19453e198b09efa69ab12a57c8cf217b3b6cd5d0c3",
+    "source": "imdb",
+    "text": "Then the film just dropped the ball.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.17121921415753746
+  },
+  {
+    "row_index": 1656,
+    "id": "2efb9f28d970e060cdfbdf47d911643efe153c928da86c633542ccce5cb9dd58",
+    "source": "imdb",
+    "text": "It felt like a very gripping, intelligent stage play (but without the overly theatrical feeling one actually gets from watching people on a stage) which plays on everyone's terror of a white lie escalating to monstrous consequences.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8317473574594627
+  },
+  {
+    "row_index": 1660,
+    "id": "1fb96a7bf9abb41d83f79a00c972da3e11376f45a689c874829994456784775e",
+    "source": "imdb",
+    "text": "He's a national treasure.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.26678466429760284
+  },
+  {
+    "row_index": 1664,
+    "id": "3a58713bce6ef4bdc1cb10be9973d912a30ed874fccc102e73cf1f7f5327c28b",
+    "source": "imdb",
+    "text": "It was also the right balance of war and love.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9263155107877159
+  },
+  {
+    "row_index": 1667,
+    "id": "2b277406064af77f217a2c304ad7489db96eddd557651d3703188e2292be35ac",
+    "source": "imdb",
+    "text": "A good film by a great director!  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9968780760820906
+  },
+  {
+    "row_index": 1671,
+    "id": "8b9cc0e17f340d446d7a9c58c31bba3a3d7f886ad6d21bbd135846c58df1260b",
+    "source": "imdb",
+    "text": "10 out of 10 stars.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8054467384885129
+  },
+  {
+    "row_index": 1677,
+    "id": "3e79d038e87084f2bcd7ec5d428d2704a6857f72fba39bd84ce9100a39994c7d",
+    "source": "imdb",
+    "text": "I advise you to look out for it.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.3330142024712995
+  },
+  {
+    "row_index": 1690,
+    "id": "f83b2d4ff371ecf855479f0b2fd6f6fc716069b5ea1f1a8b7944a583482bc625",
+    "source": "imdb",
+    "text": "The show would begin with smart ass ed comments to each other that would be totally off the wall and uncalled for.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1917369330253151
+  },
+  {
+    "row_index": 1694,
+    "id": "72da244024b0735ee7266c3ffab4027679c3b58cccf1ce038ebf661db00298e0",
+    "source": "imdb",
+    "text": "The stories were as unbelievable as the actors.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.37791999626667605
+  },
+  {
+    "row_index": 1699,
+    "id": "e10d2f76bcf7c1ed7064b0381978e79dcd486550e6dfec6a60c75328eccb3d60",
+    "source": "imdb",
+    "text": "Im big fan of RPG games too, but this movie, its a disgrace to any self-respecting RPGer there is.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.48395714838474
+  },
+  {
+    "row_index": 1707,
+    "id": "a912f004cd26f975c577e836286d600c927bb47fed2292c3e4a1ba8dbe24503b",
+    "source": "imdb",
+    "text": "It's an empty, hollow shell of a movie.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.21137640661871723
+  },
+  {
+    "row_index": 1711,
+    "id": "b90f68d3bd9fc6eadb7e67c31fe25513bf022bec72e83e335c9e93fe01160c68",
+    "source": "imdb",
+    "text": "The transfers are very good.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9815409097528022
+  },
+  {
+    "row_index": 1712,
+    "id": "734fbe048c06b9e54c16162083990ac30e132e9f91c888c244a3a31b1ff93480",
+    "source": "imdb",
+    "text": "Very nice and relaxing late night viewing.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9583206402676699
+  },
+  {
+    "row_index": 1713,
+    "id": "12938df78eae96f59b1869d326847ed78bb65bc29c02826f6e5b73917b450561",
+    "source": "imdb",
+    "text": "The movie is full of wonderful dancing (hence the title!  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7229598632341369
+  },
+  {
+    "row_index": 1714,
+    "id": "08045dfb6a4a959c936d51fe742057741a4fe37a454e3e93710b3131564e2279",
+    "source": "imdb",
+    "text": ") some great music, and terrific scenery.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9879815500057382
+  },
+  {
+    "row_index": 1723,
+    "id": "a77e5d2bbe65436ceaabdd84abdbf8e622878013d3b2f6fb4eb9f3f3f9593e2a",
+    "source": "imdb",
+    "text": "What on earth is Irons doing in this film?  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.49357357168767646
+  },
+  {
+    "row_index": 1725,
+    "id": "47bc302bcca0069caccec165f1177248f7a973a800c29e0c177712c2ed506704",
+    "source": "imdb",
+    "text": "It has a very good plot, it holds your complete attention, the acting is superb, Tom Wilkinson was fantastic and Emily Watson was also very good.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.97460340457013
+  },
+  {
+    "row_index": 1726,
+    "id": "1c8cbbf4d05c5f52d013d318dfb902fb9b5f830eca430df6ca31210b3192c42a",
+    "source": "imdb",
+    "text": "A very good film indeed, about great and unconditional love.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.999841674762022
+  },
+  {
+    "row_index": 1727,
+    "id": "a57452e5a68bcdf11dda93df57afee53699dd349d34c76cd4340a1a275d78d82",
+    "source": "imdb",
+    "text": "Tom Wilkinson's character is a man who is not prepared for the ordeal that is about to begin, but he takes the matter in hand as the story progresses, and this great actor gives a performance that makes you feel the character's anguish and suffering.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8220487310413798
+  },
+  {
+    "row_index": 1734,
+    "id": "31746874430bed419ec43b6778da37f62572ac0de05c46cb42d6f3fef11481ba",
+    "source": "imdb",
+    "text": "The football scenes at the end were perplexing.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.17243200203166684
+  },
+  {
+    "row_index": 1735,
+    "id": "2236a8c8599f47ab0adc5a9a0bb612517fdf2b8a787563f689f0a31b6036206e",
+    "source": "imdb",
+    "text": "But I thought his acting was skilled.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.30077889401526486
+  },
+  {
+    "row_index": 1739,
+    "id": "a1c35abbfb0ef163c69f3884c961b51bc586547c7d27151b3fe0272a8214c6af",
+    "source": "imdb",
+    "text": "Nine out of ten for a truly lovely film.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7319563142164717
+  },
+  {
+    "row_index": 1746,
+    "id": "c1c74e369d6cf3a1d6bcca4185d26ce176dc781c6c96325cd09b8a405db2c22f",
+    "source": "imdb",
+    "text": "The movie was very interesting from beginning to the end.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8443704261527545
+  },
+  {
+    "row_index": 1750,
+    "id": "43ea45a460e09091c7b68ba22cf621788458d6ac026529a2d329f2718e43b069",
+    "source": "imdb",
+    "text": "And it was boring.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.09028112046808448
+  },
+  {
+    "row_index": 1757,
+    "id": "029eab1d79d94e4cf61123183c75ab2213c523847b7330ac7fb3f3334966a810",
+    "source": "imdb",
+    "text": "The movie in movie situations in the beginning and through the game that is played with her by the \"acting coach\" are fascinating.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8616757749952975
+  },
+  {
+    "row_index": 1760,
+    "id": "ae9d88a6e04f547e2edc10bf6a1bdefefb60ad66901d5c7f04b500b26bbbd9f9",
+    "source": "imdb",
+    "text": "Why was this film made?  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.18737857349520443
+  },
+  {
+    "row_index": 1761,
+    "id": "f2e46850726b11960e95cb4b95db48f227a0608d6e338bf6de564a7edfa0cc65",
+    "source": "imdb",
+    "text": "The film has an ultra-cheap look to it.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.7130480317515895
+  },
+  {
+    "row_index": 1762,
+    "id": "b3766c63e3f946ce22f6684a2c130e696e8ae97ddefa07880efa86a57d7cd938",
+    "source": "imdb",
+    "text": "The result is a film that just don't look right.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.6309874177150375
+  },
+  {
+    "row_index": 1766,
+    "id": "858e5596e21e742c9fb5dcc057ca567486f1654aa42a00df8168d2ed1fdf462d",
+    "source": "imdb",
+    "text": "I saw it as a child on TV back in 1973, when it was \"The Stranger\" and I loved it.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9433711774853656
+  },
+  {
+    "row_index": 1770,
+    "id": "1157db6c68507df6458ec48f1065cf32c8a67bf0edb4129658682db5372bfd34",
+    "source": "imdb",
+    "text": "I love the Scream movies and all horror movies and this one ranks way up there.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8805443565848632
+  },
+  {
+    "row_index": 1773,
+    "id": "da001bd05bbeac025b8a39d2b5000f9269dfc29a61f3c86d17484baf3fbef347",
+    "source": "imdb",
+    "text": "As a courtroom drama, it's compelling, as an indictment on the American justice system, it's frightening.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6440872222632683
+  },
+  {
+    "row_index": 1776,
+    "id": "5a453d9d0ef266871c6f034d85a3ca7c79de31bbb08261dcf88220a9e352553e",
+    "source": "imdb",
+    "text": "This mostly routine fact-based TV drama gets a boost from the fine performance by Cole.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8219244453744762
+  },
+  {
+    "row_index": 1780,
+    "id": "a6635ec7e7ac1d98829b0a76e40c4c993b5dd4d09b602996f8874b431a9684af",
+    "source": "imdb",
+    "text": "Constantine gives everything the right intensity and seems to have a good understanding of the underlying psychological motivations.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9570338322624313
+  },
+  {
+    "row_index": 1783,
+    "id": "a544307c0bfecf6adc5d91c656a5fee83b324740b094e20938503532c8ac300b",
+    "source": "imdb",
+    "text": "In fact, this stinker smells like a direct-to-video release.  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.7384897918232385
+  },
+  {
+    "row_index": 1785,
+    "id": "5161a5f1ccf0bdbcc35805745088d7c9e6becacd7cb0d9e0cc4b89561b87ca7b",
+    "source": "imdb",
+    "text": "Star Trek V The final Frontier is the worst in the series.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.0568963794214084
+  },
+  {
+    "row_index": 1790,
+    "id": "e3459967d1f0362f8cc1f59ed9b5adddef1951861a1e64e8d0d5673238ac795b",
+    "source": "imdb",
+    "text": "Editing: The editing of this film was phenomenal in my opinion.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.321849027855389
+  },
+  {
+    "row_index": 1802,
+    "id": "06745528941683ec5f67a240ef2722ec12d6bc735666557551a881bb98c50dbe",
+    "source": "imdb",
+    "text": "The characters are fleshed out surprisingly well, particularly Grimes and Blake, and all the actors deliver their sharply scripted lines with just the right amount of deadpan tongue in cheek to make the dialogue both hilarious and realistic.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8988238038018539
+  },
+  {
+    "row_index": 1804,
+    "id": "5f2513839918a81029fd3dfd0a34577683987721b5c5bfc6110cddfcdced3de8",
+    "source": "imdb",
+    "text": "Conclusion - I loved it.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9802326511090728
+  },
+  {
+    "row_index": 1807,
+    "id": "03bc3902127a1dd65fad2b9da0dfa037f8c98828af664b39fc48cc157e4308ca",
+    "source": "imdb",
+    "text": "Mark my words, this is one of those cult films like Evil Dead 2 or Phantasm that people will still be discovering and falling in love with 20, 30, 40 years down the line.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.752330232523327
+  },
+  {
+    "row_index": 1812,
+    "id": "094a37e55ba4c280ddf8c7e170c434a6d1b77218d05c81344ec9c950d29a2c88",
+    "source": "imdb",
+    "text": "Trumbull on I LOVE LUCY).  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9711113616702428
+  },
+  {
+    "row_index": 1814,
+    "id": "bed5c4810624f19694d11e89f266f3d4eb55a3343bfb5ae704e6deba1c8b8d46",
+    "source": "imdb",
+    "text": "See both films if you can.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6261604800207635
+  },
+  {
+    "row_index": 1819,
+    "id": "58b06f50db76b5e1028617d62031a89eb15fd9790b4798867d4dd130eba16298",
+    "source": "imdb",
+    "text": "Lot of holes in the plot: there's nothing about how he became the emperor; nothing about where he spend 20 years between his childhood and mature age.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.17273628368163874
+  },
+  {
+    "row_index": 1822,
+    "id": "a59c7e6014fc984612a55517809f8b89bf9ea898c49d0d10156d88e603e826a2",
+    "source": "imdb",
+    "text": "He surely doesn't know how to make a coherent action movie from the screenwriter of Air Force One who was only obliged to write the script just for a big sum of money.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.0957659168708823
+  },
+  {
+    "row_index": 1834,
+    "id": "13ebc6e096fd8fec35e8d63f072dbcee22bdd53ca905b0e952ccef61264202a8",
+    "source": "imdb",
+    "text": "The dialogue is atrocious.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.30682596474548446
+  },
+  {
+    "row_index": 1836,
+    "id": "6a2960ab7a12fe3ed6681a73733f7d5dc28ff29f34432a6eae67d697a297e3a1",
+    "source": "imdb",
+    "text": "Everything stinks.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4100108627948748
+  },
+  {
+    "row_index": 1839,
+    "id": "79a590ce68d5270d259440cb22cf3afd8a62ae5c9cc93e09d9cb8d7906359ab9",
+    "source": "imdb",
+    "text": "It's dumb and pointless, and a complete waste of time.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.20187310851957604
+  },
+  {
+    "row_index": 1841,
+    "id": "460f3af1a475cf4b0a76d31160ae54388629124fdc8140b59ab911c3f7ec547f",
+    "source": "imdb",
+    "text": "I won't spoil it, but the ending in pretty amazing.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8128153912880964
+  },
+  {
+    "row_index": 1848,
+    "id": "821397d2de62e5771520a488f0cf94a9ad4bbfaf1c1b1ce79999dc2f2255029d",
+    "source": "imdb",
+    "text": "The characters are interesting, even if a bit predictable.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.4907573188605604
+  },
+  {
+    "row_index": 1856,
+    "id": "544f956cd5a49fdfb0939807236869fc55e1321c684f32b582dee7c9755236b7",
+    "source": "imdb",
+    "text": "Everything Captain Howdy says is either laughable or just plain stupid.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.08571861127330191
+  },
+  {
+    "row_index": 1858,
+    "id": "5b62578931fa0a012905d87cf4512f3a57ceb29d27b275a10e53754a97603b63",
+    "source": "imdb",
+    "text": "Then, there's the plot holes.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.016361502514508377
+  },
+  {
+    "row_index": 1860,
+    "id": "eb582efd619b2ced437417c46aa20b75e5b844b9772a92290ca18e5f21fbbae6",
+    "source": "imdb",
+    "text": "Linda Cardellini is the only thing good in this film.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6836394563010754
+  },
+  {
+    "row_index": 1865,
+    "id": "25cf99bb2d0e07495f2bca448d8374b684782275b4cc12e05b4509e235954e5d",
+    "source": "imdb",
+    "text": "The acting sucks, the music sucks, the script sucks, the pacing sucks, the special FX suck, the directing sucks... basically, this movie sucks.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.027337381952715057
+  },
+  {
+    "row_index": 1867,
+    "id": "f49c831884fd3a3c429ce19b1cc4005793e876719afe1796592a895129d254b1",
+    "source": "imdb",
+    "text": "This is probably one of the least effective and utterly unoriginal films I have ever seen in my entire life.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.34296767844695336
+  },
+  {
+    "row_index": 1876,
+    "id": "7f684c59bd1da89d0c708558cd940a86a610158e2ad6737b46fdafbc411562c8",
+    "source": "imdb",
+    "text": "The puppets look really cheesy , not in a good way like in the Puppet Master 80's flicks.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.25040035807737376
+  },
+  {
+    "row_index": 1890,
+    "id": "83a61d3ca9c4b29934f34c0873cc6a9519c7336423ed72349fd6c0c63f867833",
+    "source": "imdb",
+    "text": "Hated it.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3268692584311592
+  },
+  {
+    "row_index": 1891,
+    "id": "5bf961fd4e4dbbc9d60e2d0c8b3c30c02f0b4e141a9c898717497940b1ae62e9",
+    "source": "imdb",
+    "text": "This is one of the worst Sandra Bullock movie since Speed 2 But not quite that bad.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.013935773079781515
+  },
+  {
+    "row_index": 1892,
+    "id": "01a833466add72ef0a3599a0e67aec2743e92f1d88db9bf377341f8376efdd09",
+    "source": "imdb",
+    "text": "I don't understand how this garbage got on the shelves of the movie store, it's not even a real movie!  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.07733147593194424
+  },
+  {
+    "row_index": 1899,
+    "id": "992e325ebc9d2e1ff6a0322199ab0679719da44b4be876acaf047a50f2f16f35",
+    "source": "imdb",
+    "text": "Excellent short film.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9507204992701156
+  },
+  {
+    "row_index": 1900,
+    "id": "26735d8eeb38256a77ea78651f8c767501a8c24b45c0702b6b24aab6407269dc",
+    "source": "imdb",
+    "text": "Hopefully, the director James Cox can turn the short into a feature length film with the same cast, or win us over with a whole new film.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6575823920552146
+  },
+  {
+    "row_index": 1906,
+    "id": "2b1855ad8e1f3c2a534799c09eef35f2fad9231ce85cb630000482b306ae280e",
+    "source": "imdb",
+    "text": "Bad characters, bad story and bad acting.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.03158629857955559
+  },
+  {
+    "row_index": 1915,
+    "id": "68a7852c68ce15e835e59df5af2fccb9b3beac5dfe4c2d0e7ff63b0677739dc3",
+    "source": "imdb",
+    "text": "The interplay between Martin and Emilio contains the same wonderful chemistry we saw in Wall Street with Martin and Charlie.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6861751259732835
+  },
+  {
+    "row_index": 1917,
+    "id": "3d070362a76fb7d2842d707b42f9a4c2e7193c971cd651cbe0e97200f372a858",
+    "source": "imdb",
+    "text": "For readers who have already seen one of Miyazaki's films: he is still in top form and made another worthwhile experience.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7647199981610967
+  },
+  {
+    "row_index": 1921,
+    "id": "331b8d10594e8ce63eaff819e7a2b7642001d13f152806eb3d666db34df43599",
+    "source": "imdb",
+    "text": "This movie is great--especially if you enjoy visual arts.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8316665778634255
+  },
+  {
+    "row_index": 1925,
+    "id": "81a8d5e3c5d85ce6cf758d93f4e4e9e89c465269096e4db23e7d29104bb9bd45",
+    "source": "imdb",
+    "text": "This is truly an art movie--it actually has a lot of art in it.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8786619115749289
+  },
+  {
+    "row_index": 1934,
+    "id": "c31fa0c38a2dc26c234c071a7d38891c20d9e94fe422d18d473fcfcecf9f33d1",
+    "source": "imdb",
+    "text": "It's a gloriously fun, fast paced and fairly accurate portrayal of the night of a raver.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9354387741786527
+  },
+  {
+    "row_index": 1938,
+    "id": "f7f7ce37c96ca66cecaee964e9ee7f127f08b21fb6c6ed12a72c6e91e3a73c7f",
+    "source": "imdb",
+    "text": "The movie seemed a little slow at first.  ",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.045517340523060563
+  },
+  {
+    "row_index": 1940,
+    "id": "1daadb032a99050765155a39e167c481adf2040d036443a28b9286870d36b6c1",
+    "source": "imdb",
+    "text": "It showed exactly how the government and the scientist argued for humanity and the reasons of the \"gadget\".  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.5205076370105455
+  },
+  {
+    "row_index": 1942,
+    "id": "a951fd8ca00f35f40be011a76f13554cce0b94e6cc4288f446ee70b153245aa3",
+    "source": "imdb",
+    "text": "I have recommended it to friends.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.31911129674959443
+  },
+  {
+    "row_index": 1943,
+    "id": "30e427bbc1e7fa04159d5f2c01dc6c4656acd5443dde4eec411294bcbfefc639",
+    "source": "imdb",
+    "text": "I was particularly pleased with the acting ability of Dwight Schultz.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.42383191123931635
+  },
+  {
+    "row_index": 1945,
+    "id": "b3248f7d5d182a6c0636b7acb4f6960ed194712446080713c6e2e16f46bfe867",
+    "source": "imdb",
+    "text": "Their on-screen chemistry, critical to the entire film, is genuine.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.968381944138209
+  },
+  {
+    "row_index": 1953,
+    "id": "5de89061a58d7c93775f1b1f88ce02db2a5dbed0ac253f8b5a993279b5e4cadc",
+    "source": "imdb",
+    "text": "Enough can not be said of the remarkable animation in this film.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.14725490227734736
+  },
+  {
+    "row_index": 1955,
+    "id": "186b7fe505fb9ffe51b52e6bfde26e64d71c00cf210b0bc7d5286d44cc3d7bbd",
+    "source": "imdb",
+    "text": "If you act in such a film, you should be glad that you're gonna drift away from earth as far as possible!  ",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.7849162383167564
+  },
+  {
+    "row_index": 1963,
+    "id": "074948dc9c99cce03f0f79922f76393c54c8343cbed6411631377ad698f2f087",
+    "source": "imdb",
+    "text": "Judith Light is one of my favorite actresses and I think she does a superb job in this film!  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9901251702453496
+  },
+  {
+    "row_index": 1965,
+    "id": "8be912dff54d11d65fcf7e6a0155ac659f650fc78da496cdf669fd37ae3ceea7",
+    "source": "imdb",
+    "text": "It's a sad movie, but very good.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8783474960419283
+  },
+  {
+    "row_index": 1972,
+    "id": "90617a68a4dc275ffd08135e3e266742ceb5fd2b69d40d362acddd7f17751385",
+    "source": "imdb",
+    "text": ":) Anyway, the plot flowed smoothly and the male-bonding scenes were a hoot.  ",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.18812168476470528
+  },
+  {
+    "row_index": 1973,
+    "id": "1bca57724568bad6881133b89ec7ad42a41ef3acba55b51cbe09258385ca16fd",
+    "source": "imdb",
+    "text": "The opening sequence of this gem is a classic, and the cat n mouse games that follow are a delight to watch.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8289294104602111
+  },
+  {
+    "row_index": 1975,
+    "id": "d8bdf7cec8b40660ef68ea6edf613bb6359aedfd592b99576930b30137e0c530",
+    "source": "imdb",
+    "text": "Lange had become a great actress.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9940330213746003
+  },
+  {
+    "row_index": 1976,
+    "id": "316e2d3ea904d747cd45e17ea59174facf7edb6acf87a4c5b540c05ce4ea06f3",
+    "source": "imdb",
+    "text": "It looked like a wonderful story.  ",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7262862706436377
+  },
+  {
+    "row_index": 1988,
+    "id": "e6a950f94394aab7a61e215ccefd99e869b5b6c3b4958bd1ae9b887dc3beb80f",
+    "source": "yelp",
+    "text": "Now I am getting angry and I want my damn pho.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.7383148425909337
+  },
+  {
+    "row_index": 1996,
+    "id": "93cc1196208133ff4c8c95864a6c686ce2fb370c6d889e2357966d6f223c33a8",
+    "source": "yelp",
+    "text": "I tried the Cape Cod ravoli, chicken,with cranberry...mmmm!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.5156755683249233
+  },
+  {
+    "row_index": 1999,
+    "id": "cd567f46481b221a97a60938e09401ffe3ea0041ab8e6db7ffc54e33dcffc8bf",
+    "source": "yelp",
+    "text": "Highly recommended.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7759410696590945
+  },
+  {
+    "row_index": 2000,
+    "id": "28d12b6fa66293c4e8f27507813db2b2a81c5edf91cadaa22f437e4eab120359",
+    "source": "yelp",
+    "text": "Waitress was a little slow in service.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.14680785178606892
+  },
+  {
+    "row_index": 2006,
+    "id": "1392e31c6ae0c0fc19c71729b27a838582d1757fe526de6d65d8225904314a99",
+    "source": "yelp",
+    "text": "I could care less... The interior is just beautiful.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.5679236728429924
+  },
+  {
+    "row_index": 2009,
+    "id": "c0e070455e7eaf96bda21c1e8e0ea0fc1d7b3016c5c94a7fd9b710756a4290b9",
+    "source": "yelp",
+    "text": "- They never brought a salad we asked for.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.19435305342700768
+  },
+  {
+    "row_index": 2010,
+    "id": "3a004effdb20f964366c32b40a5903d255edd13e05ea53744b0102d794631826",
+    "source": "yelp",
+    "text": "This hole in the wall has great Mexican street tacos, and friendly staff.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9892870422262061
+  },
+  {
+    "row_index": 2018,
+    "id": "39c423ca3cd3fdf7137a48c629c6c70a11d20ae44bf033767d79651847e5f09d",
+    "source": "yelp",
+    "text": "The only redeeming quality of the restaurant was that it was very inexpensive.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.3585662092956255
+  },
+  {
+    "row_index": 2020,
+    "id": "7f5b06817dec3ebe3e1f7e37f8a7f0383743428ac8033e52733bdb8645c860b1",
+    "source": "yelp",
+    "text": "Poor service, the waiter made me feel like I was stupid every time he came to the table.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.25563477850131217
+  },
+  {
+    "row_index": 2022,
+    "id": "04adcd5c0f62f7c87ab1c47f7b603295b03d57a73f97c28092c64ee693b97deb",
+    "source": "yelp",
+    "text": "Service sucks.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.058408749245942325
+  },
+  {
+    "row_index": 2041,
+    "id": "5f1e072fe101d2e8eea13626438f4b099aa8f9f0321f5696c51127476d239f1d",
+    "source": "yelp",
+    "text": "The salad had just the right amount of sauce to not over power the scallop, which was perfectly cooked.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.2636908345176344
+  },
+  {
+    "row_index": 2045,
+    "id": "d59480ab8f03612e3dd94474ef16d905b24446a2eabef6c8a77db2a0ac3299ce",
+    "source": "yelp",
+    "text": "The cocktails are all handmade and delicious.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9842789118623804
+  },
+  {
+    "row_index": 2049,
+    "id": "9f02a15e9baca1eb3fd2688e9b733c6cd8c49fd5fbf63d1e5a51f1bb80455c0f",
+    "source": "yelp",
+    "text": "Always a great time at Dos Gringos!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9827845809077951
+  },
+  {
+    "row_index": 2052,
+    "id": "8cfa09d0fe2c9df481c2dc02896500d79c66c7d2ffad6fb2a6789f865ee48637",
+    "source": "yelp",
+    "text": "A great way to finish a great.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9921252719180678
+  },
+  {
+    "row_index": 2054,
+    "id": "4cde3015730c2d715eefeb252278f07426ccb36d4ff3fc99f1a3f26d98a239cd",
+    "source": "yelp",
+    "text": "- Really, really good rice, all the time.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8603608571743054
+  },
+  {
+    "row_index": 2059,
+    "id": "0d565af8d145020655ccf4dc3305c471953b8070216199c0f0c07d6bd107b277",
+    "source": "yelp",
+    "text": "2 times - Very Bad Customer Service !",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.04379562949123126
+  },
+  {
+    "row_index": 2060,
+    "id": "d7ea4e7fb6d05a29abd02f1f378626d6fe2193fb57258c22a9dc16c170f2180d",
+    "source": "yelp",
+    "text": "The sweet potato fries were very good and seasoned well.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9884399649759203
+  },
+  {
+    "row_index": 2065,
+    "id": "d72929ff2b13e46bc9498a2c063c36f4cbfd14693c7c811faafb60bc88bdfa60",
+    "source": "yelp",
+    "text": "The turkey and roast beef were bland.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.12146850129539005
+  },
+  {
+    "row_index": 2069,
+    "id": "ddd25ab0c3ed8917e5deaa3e82d5116fee179848c48c9f2cebcd999a8687b8df",
+    "source": "yelp",
+    "text": "The poor batter to meat ratio made the chicken tenders very unsatisfying.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1214201279378848
+  },
+  {
+    "row_index": 2072,
+    "id": "ce9a5a534445cc5a388d709a04bc311126be0fbe288c134718b1188a03dbce2e",
+    "source": "yelp",
+    "text": "Everything was fresh and delicious!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9899439365461213
+  },
+  {
+    "row_index": 2077,
+    "id": "60e2613adbc1375eee8792597768ab0719b28b4f2d2864fee94ae8ab7e56bf8a",
+    "source": "yelp",
+    "text": "say bye bye to your tip lady!",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.7166862496168485
+  },
+  {
+    "row_index": 2079,
+    "id": "0300a3713a99e2d21a8551705b4c5ba6a405dc60ce4fa554a5d1ae384ed08b89",
+    "source": "yelp",
+    "text": "Will be back again!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8464245787851475
+  },
+  {
+    "row_index": 2091,
+    "id": "03a7a9e8e4d34aacfec6688bbb95f7627c33b97b56d84abda2f1a67d24b94352",
+    "source": "yelp",
+    "text": "Will go back next trip out.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.312037091511225
+  },
+  {
+    "row_index": 2103,
+    "id": "75f6b8bb254ac6c0511cea5381e1abfd8141aaea396243a4e4a2db99280d030f",
+    "source": "yelp",
+    "text": "I just don't know how this place managed to served the blandest food I have ever eaten when they are preparing Indian cuisine.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.24183210571270722
+  },
+  {
+    "row_index": 2105,
+    "id": "79ebfe83f897429a54577ac0897b2ce32d7dd50dc49ecb0ceac453e3e1fd22b1",
+    "source": "yelp",
+    "text": "Service was fine and the waitress was friendly.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9278190872683321
+  },
+  {
+    "row_index": 2116,
+    "id": "9c431e80934478b8956db65070608d95cfb75e8bb655e346be382e6a383cfd99",
+    "source": "yelp",
+    "text": "The management is rude.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.04367058346303615
+  },
+  {
+    "row_index": 2119,
+    "id": "841cf1c73072906e9d3f2c9aedea8a47a5225726cefdbcf3c759fbe0170bd73f",
+    "source": "yelp",
+    "text": "I had a seriously solid breakfast here.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8707630021494597
+  },
+  {
+    "row_index": 2122,
+    "id": "bc2860374fe1f614344e6e787b8b6374ff1ccc2e789dc0706f99b9c3acccd84a",
+    "source": "yelp",
+    "text": "My drink was never empty and he made some really great menu suggestions.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9320966848852275
+  },
+  {
+    "row_index": 2125,
+    "id": "aaaa254cc1848355b1b3b60cd68637708dca64cd39755d2939e0ca73e31d4a3a",
+    "source": "yelp",
+    "text": "My husband and I ate lunch here and were very disappointed with the food and service.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3012853079245118
+  },
+  {
+    "row_index": 2130,
+    "id": "4754b31874e9765564a02ab9ecfb866939724842748a2f243d17aa35b920c37a",
+    "source": "yelp",
+    "text": "The service was a little slow , considering that were served by 3 people servers so the food was coming in a slow pace.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.05856848286137057
+  },
+  {
+    "row_index": 2135,
+    "id": "dad12e6e18f4e1e68c9db4743400143fa8d7729ba5824d227ba7ce4887bd9a64",
+    "source": "yelp",
+    "text": "We waited for forty five minutes in vain.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.08143725356877296
+  },
+  {
+    "row_index": 2138,
+    "id": "ddfff99b62be686972c9985db1383ff5df1d60275bbb3c66a6807382e721bed2",
+    "source": "yelp",
+    "text": "the staff is friendly and the joint is always clean.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.902534660626365
+  },
+  {
+    "row_index": 2146,
+    "id": "45ec0e2ae4dc1e0b12c39207708a839b21da4e9c032a146d03620054a37b9064",
+    "source": "yelp",
+    "text": "Avoid at all cost!",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.07814056321842755
+  },
+  {
+    "row_index": 2147,
+    "id": "da4170db8d0c7c1a28f733338efde20636e35c120806b7197e841a23f8769015",
+    "source": "yelp",
+    "text": "Restaurant is always full but never a wait.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.31963432611140474
+  },
+  {
+    "row_index": 2155,
+    "id": "22366fb8ad0f1c2168f02c6acce3fdd5c2963f0f003fd5d8578b56e803eb93b2",
+    "source": "yelp",
+    "text": "The waitresses are very friendly.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9421654999218505
+  },
+  {
+    "row_index": 2158,
+    "id": "0d774fe78c08a0f624d4be9789a97bc568ec395c63515d65c20541bde82f278f",
+    "source": "yelp",
+    "text": "Perhaps I caught them on an off night judging by the other reviews, but I'm not inspired to go back.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.07310309638536665
+  },
+  {
+    "row_index": 2161,
+    "id": "fa0126a905a33d8d6fe5ad74641688452ff150232b5d35767bb62775d00f1ecb",
+    "source": "yelp",
+    "text": "Not a weekly haunt, but definitely a place to come back to every once in a while.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.2808515033513579
+  },
+  {
+    "row_index": 2163,
+    "id": "89d2de479e5b8d7ca29fbc27157b067d8fb46848e83ccb0fd5bffb919dc5a24d",
+    "source": "yelp",
+    "text": "The burger had absolutely no flavor - the meat itself was totally bland, the burger was overcooked and there was no charcoal flavor.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.07935854177375874
+  },
+  {
+    "row_index": 2165,
+    "id": "3e6e2482b54dc1e4a67987951ead43124cc3118fdc876ec2d4bdbe47c9b0b709",
+    "source": "yelp",
+    "text": "I dressed up to be treated so rudely!",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.7600240848203234
+  },
+  {
+    "row_index": 2169,
+    "id": "58918d12a0a79254ccdf8e101d339a6bc7e3e1540f3778908cdafbbcc9859ef8",
+    "source": "yelp",
+    "text": "The food sucked, which we expected but it sucked more than we could have imagined.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.15297128189197234
+  },
+  {
+    "row_index": 2177,
+    "id": "f34ca81a6e9743ffe477b2f5f67827e273e3292dc01e4f600bd67da23b0f8bb3",
+    "source": "yelp",
+    "text": "I'm not really sure how Joey's was voted best hot dog in the Valley by readers of Phoenix Magazine.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.20413303780418848
+  },
+  {
+    "row_index": 2182,
+    "id": "3ce63937a56575c22ebd768ee4f927110f6efdad16e1b01671193d69847a1f9c",
+    "source": "yelp",
+    "text": "It is worth the drive.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.3011055866016225
+  },
+  {
+    "row_index": 2183,
+    "id": "f1ea73c92e7a1e0b5aa02a9368ce742309c00b1a9b571b991092bdff19bea5b6",
+    "source": "yelp",
+    "text": "I had heard good things about this place, but it exceeding every hope I could have dreamed of.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8582131950280927
+  },
+  {
+    "row_index": 2195,
+    "id": "2e324eb8a71acd5ba584f30087184b049bc5b8b401d896b10dff6fe3f8f79bf2",
+    "source": "yelp",
+    "text": "My friend loved the salmon tartar.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8320191176196395
+  },
+  {
+    "row_index": 2197,
+    "id": "1c1b6d6a88e903a26b568b65a76752b2d9923b2a43ea0e12b208428dbbacbbd5",
+    "source": "yelp",
+    "text": "Extremely Tasty!",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.35532876465802504
+  },
+  {
+    "row_index": 2203,
+    "id": "ee81c9c0428f2035bb975a11683a9847a8c17f34a42a205c34616105cbd9bb55",
+    "source": "yelp",
+    "text": "The shower area is outside so you can only rinse, not take a full shower, unless you don't mind being nude for everyone to see!",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.14486518573789264
+  },
+  {
+    "row_index": 2207,
+    "id": "6c6095e81584a217b7718ddf4e32d6a639150f4d3cb118094f3992b1d938597f",
+    "source": "yelp",
+    "text": "It was either too cold, not enough flavor or just bad.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.0032202641665204966
+  },
+  {
+    "row_index": 2210,
+    "id": "e35071bbddf131b6b0baa36ab9d892b914c784fd361d06897f7d2c95458b84dd",
+    "source": "yelp",
+    "text": "The folks at Otto always make us feel so welcome and special.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.5652917725166643
+  },
+  {
+    "row_index": 2217,
+    "id": "171ad97d865c8ee2e9b7e7cf16f91c1b7fc8ebd36b1e59277d0d389c3c97256b",
+    "source": "yelp",
+    "text": "Great place to have a couple drinks and watch any and all sporting events as the walls are covered with TV's.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8845041862924288
+  },
+  {
+    "row_index": 2219,
+    "id": "4a346211bc462f49481f618c0f6cc499b74ebe80eda62373fc332f5ece7b16d1",
+    "source": "yelp",
+    "text": "The descriptions said \"yum yum sauce\" and another said \"eel sauce\", yet another said \"spicy mayo\"...well NONE of the rolls had sauces on them.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4648228229660303
+  },
+  {
+    "row_index": 2221,
+    "id": "c2133ab5f45b82f6efeddc634f784c213f16e2cfbb4bdf1600dcfd7b1c994e2b",
+    "source": "yelp",
+    "text": "If she had not rolled the eyes we may have stayed... Not sure if we will go back and try it again.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.15931034416239842
+  },
+  {
+    "row_index": 2224,
+    "id": "79db6a741e50fd5a1bfc055818ed632b61c358be626386ea853e564547f63c42",
+    "source": "yelp",
+    "text": "Now this dish was quite flavourful.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.4657794946918631
+  },
+  {
+    "row_index": 2232,
+    "id": "8c60f8e62c76148fd570df5fe16ef8e1c1a0748961d42e3fbdaf0dd9e9d5f61f",
+    "source": "yelp",
+    "text": "Based on the sub-par service I received and no effort to show their gratitude for my business I won't be going back.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.09854920324968432
+  },
+  {
+    "row_index": 2235,
+    "id": "ad65ba00989c57bd5a6d6ca1fabbdf46f1dff3764948ba5c0b0bc763ee338f76",
+    "source": "yelp",
+    "text": "The Greek dressing was very creamy and flavorful.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8325252640252884
+  },
+  {
+    "row_index": 2240,
+    "id": "fee567a3dacc1532bac7685f546cbfca1ab395448a4dd48c2766cb0241860462",
+    "source": "yelp",
+    "text": "I as well would've given godfathers zero stars if possible.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3931893718920531
+  },
+  {
+    "row_index": 2242,
+    "id": "1a117f43743cc7f3c536eb1cf9e0d6056605bdfc2cd4f8fd9a825213456bc1b2",
+    "source": "yelp",
+    "text": "very tough and very short on flavor!",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.8669335334391567
+  },
+  {
+    "row_index": 2249,
+    "id": "59bf17b0c99db700df2af292c84599e7e347386bf417a62dc2ffefcfd752fbd0",
+    "source": "yelp",
+    "text": "The service was not up to par, either.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1839645418629322
+  },
+  {
+    "row_index": 2250,
+    "id": "2210175ad9813f42c80e4e6e8a763de1b977c40344c1a4bdab0a6185e390948f",
+    "source": "yelp",
+    "text": "Thus far, have only visited twice and the food was absolutely delicious each time.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7174796193840733
+  },
+  {
+    "row_index": 2252,
+    "id": "12b6477a28c97e91b55c65d8ed74dd2da41a7034de1c0191364fe318e0d00b04",
+    "source": "yelp",
+    "text": "For a self proclaimed coffee cafe, I was wildly disappointed.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1878935798685011
+  },
+  {
+    "row_index": 2254,
+    "id": "4fa48fb6fef523ad422534bb5e1968edcda8ecc1767d79714952906196031121",
+    "source": "yelp",
+    "text": "You cant go wrong with any of the food here.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7102584052188211
+  },
+  {
+    "row_index": 2255,
+    "id": "ac1fa781b3d55284490d129bcdc889077059aa24eac8df63729e01e727381e00",
+    "source": "yelp",
+    "text": "You can't beat that.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.3567664236865167
+  },
+  {
+    "row_index": 2270,
+    "id": "a5800fc7a5eb1f66fe46014f57804db97244761547e61e62ee6576be0fd24fa2",
+    "source": "yelp",
+    "text": "We waited an hour for what was a breakfast I could have done 100 times better at home.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.10198843971630508
+  },
+  {
+    "row_index": 2274,
+    "id": "03d915994b7b0ea2085bf8c4b64ba5d283b7d477e42e652204705e50bbfa53f9",
+    "source": "yelp",
+    "text": "Just don't know why they were so slow.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.11076831416130908
+  },
+  {
+    "row_index": 2276,
+    "id": "7a237194293f457e3c9d32a9b46fe01ceb1fe9b7d77b1f853d42b2256ed972c2",
+    "source": "yelp",
+    "text": "I live in the neighborhood so I am disappointed I won't be back here, because it is a convenient location.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.449755406829479
+  },
+  {
+    "row_index": 2292,
+    "id": "cfed3afb233268590176646e585c2c310d24618ef08cca5a42f320e761249874",
+    "source": "yelp",
+    "text": "I did not expect this to be so good!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6667137911755352
+  },
+  {
+    "row_index": 2297,
+    "id": "8a07efc5420f88ed4c25f707bb9c18ad83d9bc173d71bba7b3c4bb88c194e038",
+    "source": "yelp",
+    "text": "Great food for the price, which is very high quality and house made.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9853174720138261
+  },
+  {
+    "row_index": 2299,
+    "id": "92285c6f1766c52a7ddfd880dfeec61fcd12848e3edeaca3998cb26650b249ea",
+    "source": "yelp",
+    "text": "By this point, my friends and I had basically figured out this place was a joke and didn't mind making it publicly and loudly known.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.17987883273070554
+  },
+  {
+    "row_index": 2307,
+    "id": "260f28417a1696170d8c0d49f2d53888802e0875f23302ce30c218087f48ab2b",
+    "source": "yelp",
+    "text": "Favorite place in town for shawarrrrrrma!!!!!!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7515143257071275
+  },
+  {
+    "row_index": 2315,
+    "id": "e872c9b1953af15ceab3190318a4594b44f887a43a3326b608bc229eae0e7e57",
+    "source": "yelp",
+    "text": "We had fantastic service, and were pleased by the atmosphere.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8995643169955818
+  },
+  {
+    "row_index": 2316,
+    "id": "dcfb07fca9bcdf9a8788657ef352cd3213bccbc568068360cdc16fc364f7de83",
+    "source": "yelp",
+    "text": "Everything was gross.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.5824104036676339
+  },
+  {
+    "row_index": 2320,
+    "id": "e81b068c9b46ef947d9adbd6b0a2a0cdcc89038d51e205da1f2f0929e1462204",
+    "source": "yelp",
+    "text": "The burger... I got the \"Gold Standard\" a $17 burger and was kind of disappointed.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.08311119416820552
+  },
+  {
+    "row_index": 2322,
+    "id": "7588d8e45e2f6c767c768106c029a4e4b9ad4b56d5af33724cdaefb8f8aa4553",
+    "source": "yelp",
+    "text": "There is nothing authentic about this place.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1471833445362616
+  },
+  {
+    "row_index": 2325,
+    "id": "000bc0aba7d736471fe0abdd56740d805bc5c00f6fdc60f2e73c73b85a2102b9",
+    "source": "yelp",
+    "text": "The vegetables are so fresh and the sauce feels like authentic Thai.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7680245776467443
+  },
+  {
+    "row_index": 2329,
+    "id": "57eab63e93ad9fb8075ec6d5d9445617c28b97bb8d87a464df36f2b215a0b2d8",
+    "source": "yelp",
+    "text": "This place is like Chipotle, but BETTER.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.2916466626670819
+  },
+  {
+    "row_index": 2330,
+    "id": "8d8341e73086cf575f5a8cb6a0442bb473173ad0b577d95f496b4419aaa82999",
+    "source": "yelp",
+    "text": "Classy/warm atmosphere, fun and fresh appetizers, succulent steaks (Baseball steak!!!!!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9177614584756016
+  },
+  {
+    "row_index": 2333,
+    "id": "89b629db55d9eb2225b01d31b7f806ed762c66d7759f33fd1ee0dfcab5901c13",
+    "source": "yelp",
+    "text": "We sat another ten minutes and finally gave up and left.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.36758944462753185
+  },
+  {
+    "row_index": 2336,
+    "id": "cf6d3b341aefc0b07b6eb8f391805abe5e1b9b9169b00bbbd86dacf1de30dbfb",
+    "source": "yelp",
+    "text": "It shouldn't take 30 min for pancakes and eggs.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.26647592010644966
+  },
+  {
+    "row_index": 2337,
+    "id": "7382e5a496b865560aade81036dacd76fc1443984d435065f38793a88b7ba78a",
+    "source": "yelp",
+    "text": "It was delicious!!!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8830657432280673
+  },
+  {
+    "row_index": 2343,
+    "id": "b7ca4f380ab52f452c85e32e7e524f3036b2f38338a7e0e951938f41c5998806",
+    "source": "yelp",
+    "text": "The buffet is small and all the food they offered was BLAND.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4164991882324025
+  },
+  {
+    "row_index": 2348,
+    "id": "1eb9ceec95f3a1d4e0df65d6ec60cc0e067ac3d68db9810a30e7bb0dc8658d73",
+    "source": "yelp",
+    "text": "I find wasting food to be despicable, but this just wasn't food.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.09742415723006491
+  },
+  {
+    "row_index": 2361,
+    "id": "f693a31198b9cd612bc361a1f7547c612684863385411315d6cc080fa3335ef9",
+    "source": "yelp",
+    "text": "RUDE & INCONSIDERATE MANAGEMENT.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.05194721638480545
+  },
+  {
+    "row_index": 2363,
+    "id": "e1ed36305317109de78e17df12c76049917fa1daef4b3ee56f01815557a144c6",
+    "source": "yelp",
+    "text": "I won't be back.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.25044665871295757
+  },
+  {
+    "row_index": 2370,
+    "id": "1557535764eb4c2e95340f3a7bf972fe138f6c419267a9d409d778204b05b001",
+    "source": "yelp",
+    "text": "This place deserves one star and 90% has to do with the food.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.648526405469197
+  },
+  {
+    "row_index": 2372,
+    "id": "55027aba8ba1d756c1bf8dd544a73e0416e195ded8c12ed376577d8b6ca620ac",
+    "source": "yelp",
+    "text": "Def coming back to bowl next time",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.20241241462989387
+  },
+  {
+    "row_index": 2378,
+    "id": "33b1681266fac2862cecc7166c6e93870bcb1651c0f762c543b4d816caaf2672",
+    "source": "yelp",
+    "text": "To summarize... the food was incredible, nay, transcendant... but nothing brings me joy quite like the memory of the pneumatic condiment dispenser.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.2535255436707555
+  },
+  {
+    "row_index": 2380,
+    "id": "c612efa1c98ce1888d393980f75766ae4e0b594720252502d46561e4485b0df8",
+    "source": "yelp",
+    "text": "Kids pizza is always a hit too with lots of great side dish options for the kiddos!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.946407252889968
+  },
+  {
+    "row_index": 2382,
+    "id": "f25eb6ed7e90795fc74c26bd24b7e1356a1ea92f96976aff4ae242792be5fcab",
+    "source": "yelp",
+    "text": "Cooked to perfection and the service was impeccable.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.44535242631909827
+  },
+  {
+    "row_index": 2383,
+    "id": "6e6f1f616577f798de797f98ebb61eba377671f09526d000ba35cf72c295e543",
+    "source": "yelp",
+    "text": "This one is simply a disappointment.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.13117920880329403
+  },
+  {
+    "row_index": 2391,
+    "id": "1928656541c3449bbf2a33931a1aa77843bdabda9b0d821bfc994cb3019a5999",
+    "source": "yelp",
+    "text": "Service was fantastic.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8319795575276259
+  },
+  {
+    "row_index": 2396,
+    "id": "9915dcee6188e72f3419358245e499434686bb73346f7454a9c3b784e7ec5a7e",
+    "source": "yelp",
+    "text": "I can assure you that you won't be disappointed.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6604734873634728
+  },
+  {
+    "row_index": 2397,
+    "id": "4a70640e2eaece46a899f7b944feb19270815f7a16a98d015f70268c060750cc",
+    "source": "yelp",
+    "text": "I can take a little bad service but the food sucks.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.020002731772778712
+  },
+  {
+    "row_index": 2408,
+    "id": "f3c996946dfbc4c01536be4fd8510b633eec8b3668bd11018489d0aa70dedd8d",
+    "source": "yelp",
+    "text": "No complaints!",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.16920890215684933
+  },
+  {
+    "row_index": 2413,
+    "id": "076b8a295303b26f7a37b1bcf2ae3e0013c35adf130bdc351e644b01082043e8",
+    "source": "yelp",
+    "text": "I never come again.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.32473740555488817
+  },
+  {
+    "row_index": 2418,
+    "id": "1f1003e369ead9e60c096c024ba669b191cdbc10771a1ec4bdd80449585e593a",
+    "source": "yelp",
+    "text": "It was a huge awkward 1.5lb piece of cow that was 3/4ths gristle and fat.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.05138655173423963
+  },
+  {
+    "row_index": 2419,
+    "id": "48469a129850731888ad96b2c162a198f9f73c7df545a752bc055e4c462927dc",
+    "source": "yelp",
+    "text": "definitely will come back here again.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7186288516869559
+  },
+  {
+    "row_index": 2424,
+    "id": "41a9d5d8491ebe16fcfe4923b164d567ab6b2133a1251a26df47a873b53c12ed",
+    "source": "yelp",
+    "text": "I'd love to go back.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6652232498482548
+  },
+  {
+    "row_index": 2425,
+    "id": "28d3ff30a14f0e15f759e8344cf6ff81a7e07c94a4f90497347855a976cf13e1",
+    "source": "yelp",
+    "text": "Anyway, this FS restaurant has a wonderful breakfast/lunch.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8539890874236805
+  },
+  {
+    "row_index": 2430,
+    "id": "717328758ede3de7f643f091488d471ada421606efbda9451ef4fe7243bedaba",
+    "source": "yelp",
+    "text": "Sauce was tasteless.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.18570050724485312
+  },
+  {
+    "row_index": 2434,
+    "id": "5143b9d85731590d720916d6d3f8fc017f186e5fad3e63fd488ea9691a34ca0f",
+    "source": "yelp",
+    "text": "Food was so gooodd.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.3683214808561938
+  },
+  {
+    "row_index": 2438,
+    "id": "6056b38da04aa5ee61d6ecd50c010b1676369564a36390384acda05265ace3b3",
+    "source": "yelp",
+    "text": "The chicken wings contained the driest chicken meat I have ever eaten.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4918136841100075
+  },
+  {
+    "row_index": 2441,
+    "id": "5794920f91327b44333b31a1555e7d3842a38cc3694702d1525aaaad6d347061",
+    "source": "yelp",
+    "text": "Best tater tots in the southwest.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9580815902225277
+  },
+  {
+    "row_index": 2442,
+    "id": "103d134a5562196f90a0e3ab27a0acf4cc54a3e6aa9ac76e54f1fa8e08fd736d",
+    "source": "yelp",
+    "text": "We loved the place.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8674726384774458
+  },
+  {
+    "row_index": 2448,
+    "id": "a4c162b8119a475faaabf0933029d017b2bb4f03127302ca553f9e0ea7b569e8",
+    "source": "yelp",
+    "text": "The food was outstanding and the prices were very reasonable.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7551441880195268
+  },
+  {
+    "row_index": 2451,
+    "id": "a9f7d30b593a66652bb3263d5d89cc90ded87acf322a55afac5490cc1884703d",
+    "source": "yelp",
+    "text": "Love the margaritas, too!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8993835299430192
+  },
+  {
+    "row_index": 2453,
+    "id": "4fb92cb83f41777642624d14e98e72f2c75a3b7e971f60f313e85bec74b91553",
+    "source": "yelp",
+    "text": "Very good, though!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9891282589482135
+  },
+  {
+    "row_index": 2455,
+    "id": "ecd984915ee03f7803addb88d41823bec095a9c1b2bb2a47fea26afded3be2f0",
+    "source": "yelp",
+    "text": "Great pork sandwich.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.975693740860892
+  },
+  {
+    "row_index": 2462,
+    "id": "85770df393fdc2b62125f0fa951fec308cd7ecfa7a3f4ed6640a3dc29f91802c",
+    "source": "yelp",
+    "text": "I LOVED it!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9839102600209267
+  },
+  {
+    "row_index": 2463,
+    "id": "3ec3c8060555af3e0699f03a385d51236bfea7b29255fc0fe9e988433009a1bc",
+    "source": "yelp",
+    "text": "We asked for the bill to leave without eating and they didn't bring that either.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.22912352434972316
+  },
+  {
+    "row_index": 2464,
+    "id": "ecd7929f4538d5739820c03ffcaee73475fe79412a8c88da776fbd3257ad30d0",
+    "source": "yelp",
+    "text": "This place is a jewel in Las Vegas, and exactly what I've been hoping to find in nearly ten years living here.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8926518414338848
+  },
+  {
+    "row_index": 2468,
+    "id": "6cf0794a16f81d0a24ca8cacada2dc6331341b1534538c46f76abcb10bc55a10",
+    "source": "yelp",
+    "text": "This isn't a small family restaurant, this is a fine dining establishment.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7120581606280755
+  },
+  {
+    "row_index": 2470,
+    "id": "347e7c7b10e19e696503035c757314ef19556753bb61d3e395741b869d702f2f",
+    "source": "yelp",
+    "text": "I dont think I will be back for a very long time.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.8360977302565095
+  },
+  {
+    "row_index": 2471,
+    "id": "6779475ffed42c05e4bccabb8bd5348be9193c82d0bb9edf84908dc93f05c143",
+    "source": "yelp",
+    "text": "It was attached to a gas station, and that is rarely a good sign.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.8487290112192739
+  },
+  {
+    "row_index": 2472,
+    "id": "0b8638b61488df0e23694a2b930de4b15c3dd435ed833b18e8227aec749f02e0",
+    "source": "yelp",
+    "text": "How awesome is that.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7290652343719864
+  },
+  {
+    "row_index": 2479,
+    "id": "6a2dfa523b70e69e6bbfa2324bf19fcbe86fd0054865bd0725da2ee88ea493bf",
+    "source": "yelp",
+    "text": "The pancake was also really good and pretty large at that.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9603890821195986
+  },
+  {
+    "row_index": 2483,
+    "id": "b42f49dd22a50e68fc22e3e4d6d71bda19b5b12dcb7c81c7423c2f6848cf71b0",
+    "source": "yelp",
+    "text": "I also had to taste my Mom's multi-grain pumpkin pancakes with pecan butter and they were amazing, fluffy, and delicious!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9458372105067036
+  },
+  {
+    "row_index": 2484,
+    "id": "66a177a200e41215a5b90158de400a33800c465b48b6c11c02f2681cc0450aaa",
+    "source": "yelp",
+    "text": "I'd rather eat airline food, seriously.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.14240738115458598
+  },
+  {
+    "row_index": 2488,
+    "id": "f19f85a9fdf53230c80dd45af64b6352366d5e26a451a761028e8a990a6e20cb",
+    "source": "yelp",
+    "text": "I would not recommend this place.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.31784540147863966
+  },
+  {
+    "row_index": 2495,
+    "id": "c1e1464df35dd0b230e4378a0bcdb8fa6c8c93d92735c58ae2f99a48dae0ed12",
+    "source": "yelp",
+    "text": "By far the BEST cheesecurds we have ever had!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9092259274020864
+  },
+  {
+    "row_index": 2500,
+    "id": "a40e493ad6de6889229a3acbd9abf872a6f6b755407041eeb9bceeca24cff493",
+    "source": "yelp",
+    "text": "At first glance it is a lovely bakery cafe - nice ambiance, clean, friendly staff.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9199733199834137
+  },
+  {
+    "row_index": 2506,
+    "id": "353df5c4f5853bd77a35ede087f2aae16e75bc780b9487ecff3e28c0ec97cab1",
+    "source": "yelp",
+    "text": "first time there and might just be the last.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4958045054057014
+  },
+  {
+    "row_index": 2515,
+    "id": "4f639843c4def858f58246532491cd2beafd2d70091f79c5e70533b6dc8e0a23",
+    "source": "yelp",
+    "text": "The best place in Vegas for breakfast (just check out a Sat, or Sun.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9737265498940849
+  },
+  {
+    "row_index": 2517,
+    "id": "bde752cc471145b441e925c5fefffe9f3ff32b9670bf4b038374685eebda11ac",
+    "source": "yelp",
+    "text": "Terrible management.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.01577999814121033
+  },
+  {
+    "row_index": 2523,
+    "id": "0d4791c6cf0c48c928cdf7a10003a06adb75cca9bce7fd97debb8080be2a0221",
+    "source": "yelp",
+    "text": "I had the opportunity today to sample your amazing pizzas!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7687155174637222
+  },
+  {
+    "row_index": 2538,
+    "id": "4199299d611a977715230bba95d91c0e8bec90d5281f56690b19a16d8e06f43e",
+    "source": "yelp",
+    "text": "I know this is not like the other restaurants at all, something is very off here!",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.06910551347118458
+  },
+  {
+    "row_index": 2571,
+    "id": "6b4ba72c7eda29d407453d1e97b226551ebd9df6b2b863f8e256b788ed266118",
+    "source": "yelp",
+    "text": "My breakfast was perpared great, with a beautiful presentation of 3 giant slices of Toast, lightly dusted with powdered sugar.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9758831552400428
+  },
+  {
+    "row_index": 2572,
+    "id": "f92f99001330c8ce4b573ec7b17375dbfd635af014c20b2cd33e8de13174020a",
+    "source": "yelp",
+    "text": "The kids play area is NASTY!",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.7132443754793844
+  },
+  {
+    "row_index": 2586,
+    "id": "7efc3cbf3727466be11ff37c02681aa47af56012b818a239f69359a7de4177bd",
+    "source": "yelp",
+    "text": "Good value, great food, great service.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9897109981400627
+  },
+  {
+    "row_index": 2588,
+    "id": "a53dca752be3afe7317c66a4a03b4f3b17e4dfff07ef295bc4992df6c79191ad",
+    "source": "yelp",
+    "text": "The food is good.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8928103297120541
+  },
+  {
+    "row_index": 2597,
+    "id": "14578819aa45ceb2f8a945ce7635a9c5f8a6667f8b96f8997346bd26f6f13112",
+    "source": "yelp",
+    "text": "An absolute must visit!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8834667259005464
+  },
+  {
+    "row_index": 2603,
+    "id": "58ecd746c2c5141369b6ded07d3884ce337eb780bca0f93863d939af33c7141a",
+    "source": "yelp",
+    "text": "I had the chicken Pho and it tasted very bland.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.2798591553842726
+  },
+  {
+    "row_index": 2609,
+    "id": "deb4b85ed4f1798052f9c64b6ffb11a08ab0e59ce64fd6cdceb1b4d5a0bb746c",
+    "source": "yelp",
+    "text": "Best of luck to the rude and non-customer service focused new management.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.5702185022719871
+  },
+  {
+    "row_index": 2615,
+    "id": "6928f421460e3ed6e415bb660d6ba06b403960ce7f047189e382ec38f33fbba4",
+    "source": "yelp",
+    "text": "Same evening, him and I are both drastically sick.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.5933506722238157
+  },
+  {
+    "row_index": 2633,
+    "id": "7a106bd56dc914fd3c54d44dbb0f1c2cd7165ce6cb51f9c920a50533d6239e68",
+    "source": "yelp",
+    "text": "Very Very Disappointed ordered the $35 Big Bay Plater.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.09455690221249712
+  },
+  {
+    "row_index": 2643,
+    "id": "3ce6fc9e6648fdcb101a346f510f434a3b1ca3023c397ae04c8b9033ba7b1365",
+    "source": "yelp",
+    "text": "I personally love the hummus, pita, baklava, falafels and Baba Ganoush (it's amazing what they do with eggplant!).",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9781037933682762
+  },
+  {
+    "row_index": 2648,
+    "id": "f1ac4c2785ae264c8a7b7875dfde979493f975ee70eb90ed325ce1af5cac296b",
+    "source": "yelp",
+    "text": "The sweet potato tots were good but the onion rings were perfection or as close as I have had.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.5514247200217541
+  },
+  {
+    "row_index": 2649,
+    "id": "954a52466cd725deaeb28396cbf9a0e55901cc8fc706f4cae8ca88669980818d",
+    "source": "yelp",
+    "text": "The staff was very attentive.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7839123096094824
+  },
+  {
+    "row_index": 2656,
+    "id": "5897514168c1bc2b21b1b1dbbf32672ddaea9db239ddb26414b0d8464fcf8114",
+    "source": "yelp",
+    "text": "What a great double cheeseburger!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9345600406219844
+  },
+  {
+    "row_index": 2660,
+    "id": "ebdd7621a6ed2f7da344a3b24d1103382aea7211596614579a9aea3cb806ca9e",
+    "source": "yelp",
+    "text": "The plantains were the worst I've ever tasted.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.06117368412151828
+  },
+  {
+    "row_index": 2668,
+    "id": "debeaf010ed537725c43b4dd96590f18b1ac1e653bc894ee7e416add85e10e8e",
+    "source": "yelp",
+    "text": "Total brunch fail.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.5226185941752036
+  },
+  {
+    "row_index": 2671,
+    "id": "b29940ffd02a6d27650a08a518944991f3ec01f519288abee5a1da113e09b9a4",
+    "source": "yelp",
+    "text": "The steak was amazing...rge fillet relleno was the best seafood plate i have ever had!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9540672049222492
+  },
+  {
+    "row_index": 2673,
+    "id": "0364292364d557acf01cdb010da1b230d9b0960575db82b5ff88e6b415ec2f66",
+    "source": "yelp",
+    "text": "It was absolutely amazing.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8817401027074191
+  },
+  {
+    "row_index": 2674,
+    "id": "46f682b5ba54642a99cd62da50a5d79f72ca8fb74c6597a1cb38807e505d7a60",
+    "source": "yelp",
+    "text": "I probably won't be back, to be honest.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.11261906039746994
+  },
+  {
+    "row_index": 2680,
+    "id": "d47c66bd3dfe02172ea5a9ae977fef95d558f949f8273717f0b390b19d375018",
+    "source": "yelp",
+    "text": "I was mortified.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1349297489188103
+  },
+  {
+    "row_index": 2682,
+    "id": "4a139d1f6e62cba4edd6ec38915e5716be32d427e305942b9dc03c12d2f8e18d",
+    "source": "yelp",
+    "text": "Anyways, The food was definitely not filling at all, and for the price you pay you should expect more.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.20710377342782793
+  },
+  {
+    "row_index": 2684,
+    "id": "92f35f7b641ee927933db162642098575b52b40168e8acd005fa06f28672a48a",
+    "source": "yelp",
+    "text": "I wasn't really impressed with Strip Steak.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.28029223990811425
+  },
+  {
+    "row_index": 2688,
+    "id": "9476c97855dc27e4be284a52e49b4a51936f7378fea0968fb845d32175062c72",
+    "source": "yelp",
+    "text": "I work in the hospitality industry in Paradise Valley and have refrained from recommending Cibo any longer.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.46901370915917173
+  },
+  {
+    "row_index": 2690,
+    "id": "0db54a5315c03e932e51030012720c2af7485663fa2854f93f33505a09c7ed0b",
+    "source": "yelp",
+    "text": "Would not recommend to others.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.10377865204345026
+  },
+  {
+    "row_index": 2692,
+    "id": "5c02cc47263cfa702e10a33ea9f6fe121b8b64e50469f2e2450124c0583568cc",
+    "source": "yelp",
+    "text": "I mean really, how do you get so famous for your fish and chips when it's so terrible!?!",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.19165085131894377
+  },
+  {
+    "row_index": 2697,
+    "id": "7e158c020e7e0c39548b9560dba3781cbfe9d2166498bd1bed008616f693c7dc",
+    "source": "yelp",
+    "text": "I loved the grilled pizza, reminded me of legit Italian pizza.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8693123030255484
+  },
+  {
+    "row_index": 2699,
+    "id": "4f91c5f03d357f470a2ba0c887592d073c29caefff5748a7e868105e67986003",
+    "source": "yelp",
+    "text": "They have a really nice atmosphere.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.916914608450051
+  },
+  {
+    "row_index": 2710,
+    "id": "ff1da09b4b65253cb3128bbd86407c9c4496fbc08de7da5a9dda10114625f8ca",
+    "source": "yelp",
+    "text": "A FLY was in my apple juice.. A FLY!!!!!!!!",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4303884846339649
+  },
+  {
+    "row_index": 2715,
+    "id": "d602aeca7b6ad2dd055b980d56de527d8a2a9bd6e239bae5358d92342bf31903",
+    "source": "yelp",
+    "text": "Nicest Chinese restaurant I've been in a while.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.19252960453749
+  },
+  {
+    "row_index": 2717,
+    "id": "e47ef035df4050fcf805c9b2060f59b80aece9da82ab352fb21fd41c288c87e0",
+    "source": "yelp",
+    "text": "They also now serve Indian naan bread with hummus and some spicy pine nut sauce that was out of this world.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8155562882634466
+  },
+  {
+    "row_index": 2719,
+    "id": "4791f5b47d668b505f3d629d6904f481bc98454a8dc9b70e63b0d1c9abcc6a84",
+    "source": "yelp",
+    "text": "Friend's pasta -- also bad, he barely touched it.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.18674808218704417
+  },
+  {
+    "row_index": 2725,
+    "id": "b5fd38358d4f0892c4542dd42b2a7921cf29009e3339a6f98a3ec32d465fa6a3",
+    "source": "yelp",
+    "text": "I'm not sure how long we stood there but it was long enough for me to begin to feel awkwardly out of place.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.030625649705878902
+  },
+  {
+    "row_index": 2737,
+    "id": "70462604c9afa971f3d3018ff154ab580eb7e8858bd66dc817dc5000561f78dd",
+    "source": "yelp",
+    "text": "Main thing I didn't enjoy is that the crowd is of older crowd, around mid 30s and up.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.4484530583242445
+  },
+  {
+    "row_index": 2751,
+    "id": "9e8d272511e91e825e2fd79151d750f18fd56a98d2e6de393b85a7da027896f2",
+    "source": "yelp",
+    "text": "It's close to my house, it's low-key, non-fancy, affordable prices, good food.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7563717869068041
+  },
+  {
+    "row_index": 2755,
+    "id": "78322fbc5355f17836635d7edac1b70d1a9342716dace3d1b61e3f18155610aa",
+    "source": "yelp",
+    "text": "the food is not tasty at all, not to say its \"real traditional Hunan style\".",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.1380187740075219
+  },
+  {
+    "row_index": 2761,
+    "id": "2fce86edb089177beb8b74e98454f3d1eea318a9a4d5a72f94e5ce94a3301de4",
+    "source": "yelp",
+    "text": "My girlfriend's veal was very bad.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.025686019951371097
+  },
+  {
+    "row_index": 2762,
+    "id": "0454ab859dec18b19bbe7538c6c481effe6e6c305194eb8e98b629a574800106",
+    "source": "yelp",
+    "text": "Unfortunately, it was not good.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.008198358646674833
+  },
+  {
+    "row_index": 2764,
+    "id": "a9c82f112d086a8f8252a7bc64aac24045dcbb3ab0a2f3d442f3c32ed1a38381",
+    "source": "yelp",
+    "text": "Join the club and get awesome offers via email.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9490054240824782
+  },
+  {
+    "row_index": 2765,
+    "id": "6b2633153c74af3af500e0a2be6a1bbe92fc72ae96666da9963ac3631f4f70fc",
+    "source": "yelp",
+    "text": "Perfect for someone (me) who only likes beer ice cold, or in this case, even colder.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7854395315437913
+  },
+  {
+    "row_index": 2768,
+    "id": "ec830d46184e94bdf920817796be769018b2256dc08a11078dca04b6bef0ca73",
+    "source": "yelp",
+    "text": "The nachos are a MUST HAVE!",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7242763127110806
+  },
+  {
+    "row_index": 2771,
+    "id": "a49f198057fb76c80aa978d4fbc2158c7593b109aeef315e7f7c5fb9bcec0372",
+    "source": "yelp",
+    "text": "The staff is super nice and very quick even with the crazy crowds of the downtown juries, lawyers, and court staff.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9594510774887142
+  },
+  {
+    "row_index": 2772,
+    "id": "5a4fbf5243baf55599b32668d1dfce9711a5981d86e0b8615b7c8e87c975f2b2",
+    "source": "yelp",
+    "text": "Great atmosphere, friendly and fast service.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9921227671366545
+  },
+  {
+    "row_index": 2774,
+    "id": "6161356480f43c650d247539f3bb89260ac3bd17f5955671ccdcbad8662223b6",
+    "source": "yelp",
+    "text": "Once your food arrives it's meh.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.2457809358866123
+  },
+  {
+    "row_index": 2776,
+    "id": "da4ce8ffcf3c35e134001c70586b425837a9981c18d486fdb590a2991087446b",
+    "source": "yelp",
+    "text": "The classic Maine Lobster Roll was fantastic.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7896379844218762
+  },
+  {
+    "row_index": 2789,
+    "id": "01e337ccfc1d1437391e139c69016ceddda2fcc93bb8487be1ea521595d0bc9d",
+    "source": "yelp",
+    "text": "I could eat their bruschetta all day it is devine.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.34848827723065395
+  },
+  {
+    "row_index": 2790,
+    "id": "ae1abf9e2f7e8fe9e08e27fd00fd4f8404da58315f89c30baa8f02a0dca411ef",
+    "source": "yelp",
+    "text": "Not a single employee came out to see if we were OK or even needed a water refill once they finally served us our food.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.18099814831877395
+  },
+  {
+    "row_index": 2791,
+    "id": "721ab0671aef9b2b4d91f055f4c66c72e900b82d3cdca339115f2ac9704b01be",
+    "source": "yelp",
+    "text": "Lastly, the mozzarella sticks, they were the best thing we ordered.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.803762328869537
+  },
+  {
+    "row_index": 2798,
+    "id": "f76278ef71bacdcb4d51455a918f19a12edefe158213c85b9d8a6af9247b5846",
+    "source": "yelp",
+    "text": "The seasonal fruit was fresh white peach puree.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.6934675889008469
+  },
+  {
+    "row_index": 2811,
+    "id": "8b6a966c2890bb81f7763c9211d0b3f144dae028ad9bfc7dfcb9b40fb755ae80",
+    "source": "yelp",
+    "text": "Do yourself a favor and stay away from this dish.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.10394269791783693
+  },
+  {
+    "row_index": 2817,
+    "id": "a9e07d5dd00caa36ab67ecf15be685550b64fcfa0eb6437b6f81516e198a8cba",
+    "source": "yelp",
+    "text": "Just had lunch here and had a great experience.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9821005437506088
+  },
+  {
+    "row_index": 2823,
+    "id": "e60e0b52042a6b4b08c24009593f159719771d62a420037348dd52ce5ee136eb",
+    "source": "yelp",
+    "text": "I ate there twice on my last visit, and especially enjoyed the salmon salad.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7309608009833882
+  },
+  {
+    "row_index": 2824,
+    "id": "c284b8fba71061ad6dab48ca1f53a8c50fccc2fe8ecf85a1e18cc042b335660e",
+    "source": "yelp",
+    "text": "We could not believe how dirty the oysters were!",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.015413464188136296
+  },
+  {
+    "row_index": 2825,
+    "id": "37a734b5af3e0d33403e69d3842b49fac0e0817bf4f08f7e18cba2e2eebff00a",
+    "source": "yelp",
+    "text": "This place deserves no stars.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.44539461846542205
+  },
+  {
+    "row_index": 2839,
+    "id": "79a1c5fdeea636bb960ce0a0abcffafae71dacf19bb82ab2aa82faf158e8e60a",
+    "source": "yelp",
+    "text": "This place is pretty good, nice little vibe in the restaurant.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9789670106142779
+  },
+  {
+    "row_index": 2846,
+    "id": "0889a4bed4258081c1e55120a8d356f05af631af66c4b0f84dbf85258b8e4b43",
+    "source": "yelp",
+    "text": "For sushi on the Strip, this is the place to go.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.47339747426551226
+  },
+  {
+    "row_index": 2848,
+    "id": "38da8a8a309464d84299b038ee4a63003100a0d53b2efa3aec84c09c354dc0de",
+    "source": "yelp",
+    "text": "The feel of the dining room was more college cooking course than high class dining and the service was slow at best.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.43999063963060375
+  },
+  {
+    "row_index": 2851,
+    "id": "21f8dba0c3b1e281c0253aae27da0f84b09e3fd824ce8749236774359ffa2878",
+    "source": "yelp",
+    "text": "All in all an excellent restaurant highlighted by great service, a unique menu, and a beautiful setting.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.9944890223068606
+  },
+  {
+    "row_index": 2852,
+    "id": "fabe32866f32eb28153762f9eb3d2e8f822e43ed86a238333ca00914715fc9cf",
+    "source": "yelp",
+    "text": "My boyfriend and i sat at the bar and had a completely delightful experience.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.8571056890223694
+  },
+  {
+    "row_index": 2856,
+    "id": "fe7fd28ca36f6b12f2a8e27cd1dc7975d1f01497b604d3a15578cf4489d8a0bc",
+    "source": "yelp",
+    "text": "Go To Place for Gyros.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.2545736890591646
+  },
+  {
+    "row_index": 2858,
+    "id": "19e490986170ab50f5d72b850dca79cb3f572c51d5a54f335516cb4692fbc49d",
+    "source": "yelp",
+    "text": "Now the burgers aren't as good, the pizza which used to be amazing is doughy and flavorless.",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.8394609990375452
+  },
+  {
+    "row_index": 2867,
+    "id": "4ec699c69472f7286ec9e6683b7cb399c8183fceb50ae4b7d21df5bdb141812e",
+    "source": "yelp",
+    "text": "Seriously killer hot chai latte.",
+    "label": 1,
+    "predicted_label": 0,
+    "positive_probability": 0.1294642072140742
+  },
+  {
+    "row_index": 2876,
+    "id": "5b4ec5edc0ee13278916050d0c6fbddb2e08a7ca7ff5a8e493a8da9063a67106",
+    "source": "yelp",
+    "text": "I had strawberry tea, which was good.",
+    "label": 1,
+    "predicted_label": 1,
+    "positive_probability": 0.7861123426727888
+  },
+  {
+    "row_index": 2885,
+    "id": "b728c1ab74ad4c68bc534e9b169831eb62ce3e8226bb16ed6bc79ad472d2ab54",
+    "source": "yelp",
+    "text": "After the disappointing dinner we went elsewhere for dessert.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.16471428560829263
+  },
+  {
+    "row_index": 2887,
+    "id": "1b6f2c31826757d46fe38f5658558ff03b5756e94ede5ab2d5fb77ae0028de7a",
+    "source": "yelp",
+    "text": "We won't be returning.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.23235010429225683
+  },
+  {
+    "row_index": 2894,
+    "id": "31e028798aee75b506d0e9bd6710898532b253d89c606486bb95e5925bfa9537",
+    "source": "yelp",
+    "text": "The only thing I wasn't too crazy about was their guacamole as I don't like it puréed.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.028542056076541228
+  },
+  {
+    "row_index": 2900,
+    "id": "f6b3a86f444bbce59cababf314fee1adcca1c282ff7a608d6c157acd9210bbf2",
+    "source": "yelp",
+    "text": "This place is disgusting!",
+    "label": 0,
+    "predicted_label": 1,
+    "positive_probability": 0.5867177021723893
+  },
+  {
+    "row_index": 2903,
+    "id": "9f4270cf9480f0135d63c5281afcbe15526b1e27f2523be9dce6cb161b7a0b4c",
+    "source": "yelp",
+    "text": "However, there was so much garlic in the fondue, it was barely edible.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.054360826582073224
+  },
+  {
+    "row_index": 2905,
+    "id": "f8dbf7530a7d07d79756622ed11db37ba4c6c1a24bcceb7e1e7ed4ee259a09c5",
+    "source": "yelp",
+    "text": "It was so bad, I had lost the heart to finish it.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.08900477940220326
+  },
+  {
+    "row_index": 2928,
+    "id": "400b0448306aa60e316d8062fa95ff1f9a4735fdf73ab599f9d51d974eae074a",
+    "source": "yelp",
+    "text": "Maybe it's just their Vegetarian fare, but I've been twice and I thought it was average at best.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.38524256358735415
+  },
+  {
+    "row_index": 2931,
+    "id": "bcf095c70831bbebc7d5ed2ed6fe4aefc699c64923fe23806a43c0bbae325dbb",
+    "source": "yelp",
+    "text": "The ambiance here did not feel like a buffet setting, but more of a douchey indoor garden for tea and biscuits.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.3627812647351634
+  },
+  {
+    "row_index": 2935,
+    "id": "94e6a4832180221ca49ba1c8236f9d623da0d99430db45cc1d9b6b72fc92cad0",
+    "source": "yelp",
+    "text": "Then our food came out, disappointment ensued.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.03854642327594582
+  },
+  {
+    "row_index": 2941,
+    "id": "3270a743423000af883fa16accc5f1ab797fe6c844f2a7d8c4d9e7f1f58624c4",
+    "source": "yelp",
+    "text": "She was quite disappointed although some blame needs to be placed at her door.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.27793523060298025
+  },
+  {
+    "row_index": 2945,
+    "id": "719714f59910a60c95ac109efa3ea6ea62ddcb79c85e2eaf53fad53524028fb1",
+    "source": "yelp",
+    "text": "But I don't like it.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.15161980914961534
+  },
+  {
+    "row_index": 2953,
+    "id": "2e39cb92310d2198ede938873d248d10a258647c42b498cc49d579c6a0c527cd",
+    "source": "yelp",
+    "text": "Your servers suck, wait, correction, our server Heimer sucked.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.27213905662955407
+  },
+  {
+    "row_index": 2959,
+    "id": "2285ea5c11e0ad5d2699a3f7a3a68a2da15dfaf790b047a9c3a82bc6c9707451",
+    "source": "yelp",
+    "text": "I have been to very few places to eat that under no circumstances would I ever return to, and this tops the list.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.21438187845367968
+  },
+  {
+    "row_index": 2976,
+    "id": "9e943bbe2506b3592f784cfe22b7a140a366803555e95a91521984452c48217b",
+    "source": "yelp",
+    "text": "Overall I was not impressed and would not go back.",
+    "label": 0,
+    "predicted_label": 0,
+    "positive_probability": 0.03749347081169874
+  }
+]

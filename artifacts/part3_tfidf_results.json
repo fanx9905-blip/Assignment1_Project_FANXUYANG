@@ -1,0 +1,92 @@
+{
+  "protocol": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_features": 50000,
+    "sublinear_tf": true,
+    "norm": "l2",
+    "C_grid": [
+      0.1,
+      1.0,
+      10.0
+    ],
+    "solver": "lbfgs",
+    "max_iter": 2000,
+    "seed": 42,
+    "tokens": "saved original tokenizer output before LM unk mapping",
+    "selection": "fit vectorizer and classifier on train; select validation macro-F1, lower C on ties",
+    "final_fit": "refit vectorizer and classifier on train+validation; test once",
+    "scaling": "L2-normalized TF-IDF; no additional dense StandardScaler"
+  },
+  "selected_C": 10.0,
+  "validation_macro_f1": 0.8221156012073704,
+  "test_accuracy": 0.825503355704698,
+  "test_macro_f1": 0.8254325883201153,
+  "confusion_matrix": [
+    [
+      252,
+      46
+    ],
+    [
+      58,
+      240
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.8129032258064516,
+      "recall": 0.8456375838926175,
+      "f1-score": 0.8289473684210527,
+      "support": 298.0
+    },
+    "1": {
+      "precision": 0.8391608391608392,
+      "recall": 0.8053691275167785,
+      "f1-score": 0.821917808219178,
+      "support": 298.0
+    },
+    "accuracy": 0.825503355704698,
+    "macro avg": {
+      "precision": 0.8260320324836454,
+      "recall": 0.825503355704698,
+      "f1-score": 0.8254325883201153,
+      "support": 596.0
+    },
+    "weighted avg": {
+      "precision": 0.8260320324836453,
+      "recall": 0.825503355704698,
+      "f1-score": 0.8254325883201153,
+      "support": 596.0
+    }
+  },
+  "final_feature_dimension": 5399,
+  "fit_samples": 2383,
+  "test_samples": 596,
+  "final_iterations": [
+    17
+  ],
+  "refit_seconds": 0.07115979999798583,
+  "convergence_warnings": 0,
+  "zero_feature_test_sentences": 0,
+  "interpretation": "Task-trained vocabulary and sparse word/bigram features differ from frozen novel-LM features; this is a practical baseline, not an isolated architecture comparison.",
+  "source_metrics": {
+    "amazon": {
+      "count": 198,
+      "accuracy": 0.8333333333333334,
+      "macro_f1": 0.8331247605669774
+    },
+    "imdb": {
+      "count": 199,
+      "accuracy": 0.8140703517587939,
+      "macro_f1": 0.8140703517587939
+    },
+    "yelp": {
+      "count": 199,
+      "accuracy": 0.8291457286432161,
+      "macro_f1": 0.8290378006872852
+    }
+  }
+}

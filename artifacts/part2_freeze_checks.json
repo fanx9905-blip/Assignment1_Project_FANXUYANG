@@ -1,0 +1,14 @@
+{
+  "full_input_table_frozen": true,
+  "no_embedding_gradient": true,
+  "embedding_unchanged": true,
+  "non_embedding_initialization_matches": true,
+  "non_embedding_gradients_finite": true,
+  "embedding_excluded_from_optimizer_parameter_list": true,
+  "fallback_reproducible": true,
+  "optimizer_steps": 0,
+  "total_parameters": 946740,
+  "frozen_input_parameters": 362000,
+  "trainable_parameters": 584740,
+  "scope": "fallback-only smoke test; no pretrained vectors or new experimental LM trained"
+}

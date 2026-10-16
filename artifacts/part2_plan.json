@@ -1,0 +1,80 @@
+{
+  "architecture": "LSTM",
+  "architecture_selection": "user-selected after Part I",
+  "common_lm_config": {
+    "architecture": "single-layer unidirectional LSTM",
+    "embedding_dim": 100,
+    "hidden_dim": 128,
+    "dropout": 0.2,
+    "learning_rate": 0.003,
+    "batch_size": 8,
+    "max_epochs": 8,
+    "patience": 3,
+    "grad_clip": 1.0,
+    "seed": 42,
+    "context": "complete paragraph",
+    "cpu_threads": 4
+  },
+  "corpus_sha256": "a5666f87abf2cbfdaa27ea8c73bd284da9649b9a2ab27b4e6c8f6aeab1bd1c88",
+  "vocabulary_size": 3620,
+  "embedding_dim": 100,
+  "target_counts": {
+    "train": 118401,
+    "validation": 14649,
+    "test": 14811
+  },
+  "vocabulary_sha256": "c13c3bfa2a2f17a953fbed03229088e84dd44446faa17aa8caf7b26ab66861bd",
+  "variants": [
+    {
+      "name": "random_trainable",
+      "status": "reused trained Part I baseline",
+      "checkpoint": "lstm_best.pt",
+      "input_trainable": true
+    },
+    {
+      "name": "self_trained_frozen",
+      "status": "planned; embeddings and LM not trained",
+      "method": "Skip-gram with negative sampling",
+      "input_trainable": false
+    },
+    {
+      "name": "public_pretrained_frozen",
+      "status": "planned; vectors not acquired; LM not trained",
+      "source": "GloVe 6B 100d",
+      "input_trainable": false
+    }
+  ],
+  "self_embedding_training": {
+    "data": "training paragraphs only; no cross-paragraph pairs",
+    "embedding_dim": 100,
+    "window": 5,
+    "negative_samples": 5,
+    "negative_distribution": "training token frequency raised to 0.75",
+    "epochs": 5,
+    "batch_size": 1024,
+    "learning_rate": 0.003,
+    "optimizer": "Adam",
+    "seed": 42,
+    "subsampling": false,
+    "boundaries": "exclude pad/bos/eos; allow training tokens mapped to unk",
+    "vector_choice": "input/center embedding; output/context table is not transferred",
+    "cost": "record separately from language-model training"
+  },
+  "public_embeddings": {
+    "name": "GloVe 6B 100d",
+    "dimension": 100,
+    "source_url": "https://nlp.stanford.edu/projects/glove/",
+    "source_corpus": "Wikipedia 2014 and Gigaword 5; external training data",
+    "expected_member": "glove.6B.100d.txt",
+    "status": "not downloaded; coverage not measured"
+  },
+  "alignment": {
+    "lookup": "exact match against existing lowercase vocabulary tokens",
+    "missing_and_special_rows": "same seeded N(0,1) fallback matrix in both frozen variants; pad row zero",
+    "freeze": "entire input table, including missing and special rows",
+    "coverage": "report matched ordinary vocabulary types and train/validation/test token occurrence coverage; special tokens excluded"
+  },
+  "training_control": "same non-embedding initialization, fresh seeded loaders, Adam/budget/validation selection; no trained Part I recurrent or output weights transferred",
+  "evaluation": "same CE/PPL, curves, shared generation config; report stability with single-seed limitation",
+  "interpretation": "source and trainability vary together; public embeddings add external data; not an isolated data-source effect"
+}

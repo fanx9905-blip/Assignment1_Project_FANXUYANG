@@ -1,0 +1,30 @@
+{
+  "ordinary_vocabulary_types": 3616,
+  "matched_types": 3616,
+  "type_coverage": 1.0,
+  "token_coverage": {
+    "train": {
+      "body_token_count": 116727,
+      "matched_body_occurrences": 114379,
+      "body_token_coverage": 0.9798846882041001,
+      "ordinary_in_vocabulary_occurrences": 114379,
+      "conditional_in_vocabulary_coverage": 1.0
+    },
+    "validation": {
+      "body_token_count": 14413,
+      "matched_body_occurrences": 13982,
+      "body_token_coverage": 0.970096440713245,
+      "ordinary_in_vocabulary_occurrences": 13982,
+      "conditional_in_vocabulary_coverage": 1.0
+    },
+    "test": {
+      "body_token_count": 14567,
+      "matched_body_occurrences": 14099,
+      "body_token_coverage": 0.9678725887279467,
+      "ordinary_in_vocabulary_occurrences": 14099,
+      "conditional_in_vocabulary_coverage": 1.0
+    }
+  },
+  "missing_tokens": [],
+  "special_rows": "all retain shared fallback, including unk; pad zero"
+}

@@ -1,0 +1,56 @@
+{
+  "random_trainable_lm": {
+    "shape": [
+      2979,
+      128
+    ],
+    "seconds": 0.30872520000002623,
+    "batch_size": 32,
+    "features_sha256": "18943633965b5a589db0b1318bd79066a9bd4400bf479e7c086d4edefac54629",
+    "encoder_weights_unchanged": true,
+    "repeat_consistent": true,
+    "checks": {
+      "fully_frozen": true,
+      "eval_mode": true,
+      "single_vs_batched": true,
+      "eos_exclusion_and_causality": true,
+      "single_body_position_pooling": true
+    }
+  },
+  "skipgram_frozen_lm": {
+    "shape": [
+      2979,
+      128
+    ],
+    "seconds": 0.2945297000001119,
+    "batch_size": 32,
+    "features_sha256": "ac5f5168076ec4164713bf06e871c8c60593231103b1b4593918201035f82fe0",
+    "encoder_weights_unchanged": true,
+    "repeat_consistent": true,
+    "checks": {
+      "fully_frozen": true,
+      "eval_mode": true,
+      "single_vs_batched": true,
+      "eos_exclusion_and_causality": true,
+      "single_body_position_pooling": true
+    }
+  },
+  "glove_frozen_lm": {
+    "shape": [
+      2979,
+      128
+    ],
+    "seconds": 0.29893829999991794,
+    "batch_size": 32,
+    "features_sha256": "f4eb13db82a1ef1510687228ff5768eac03306c4ed4ad83a8132556820c63d48",
+    "encoder_weights_unchanged": true,
+    "repeat_consistent": true,
+    "checks": {
+      "fully_frozen": true,
+      "eval_mode": true,
+      "single_vs_batched": true,
+      "eos_exclusion_and_causality": true,
+      "single_body_position_pooling": true
+    }
+  }
+}

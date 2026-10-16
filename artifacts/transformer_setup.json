@@ -1,0 +1,43 @@
+{
+  "config": {
+    "architecture": "single-layer causal Transformer with pre-normalization",
+    "embedding_dim": 100,
+    "dropout": 0.2,
+    "learning_rate": 0.003,
+    "batch_size": 8,
+    "max_epochs": 8,
+    "patience": 3,
+    "grad_clip": 1.0,
+    "seed": 42,
+    "context": "complete paragraph; no truncation",
+    "cpu_threads": 4,
+    "model_dim": 128,
+    "num_heads": 4,
+    "feedforward_dim": 256,
+    "num_layers": 1,
+    "position_encoding": "sinusoidal; paragraph positions start at zero",
+    "attention_dropout": 0.0,
+    "attention_backend": "PyTorch scaled_dot_product_attention with is_causal=True"
+  },
+  "corpus_sha256": "a5666f87abf2cbfdaa27ea8c73bd284da9649b9a2ab27b4e6c8f6aeab1bd1c88",
+  "total_parameters": 974644,
+  "trainable_parameters": 974644,
+  "checks": {
+    "causality": true,
+    "right_padding_invariance": true,
+    "standalone_vs_batched": true,
+    "trainable_embedding_gradient": true,
+    "longest_paragraph_forward_backward": true,
+    "parameters_unchanged": true
+  },
+  "longest_training_targets": 2824,
+  "probe_batch_size": 1,
+  "probe_forward_backward_seconds": 0.21279870000034862,
+  "hypothetical_dense_attention_scores_mib_at_batch_size_8": 973.5078125,
+  "output_logits_mib_at_batch_size_8": 311.9775390625,
+  "planned_training_batch_size": 8,
+  "batch_size_8_training_feasibility": "not yet measured; verify before the training run",
+  "device": "cpu",
+  "pytorch_version": "2.14.0+cpu",
+  "status": "definition and checks only; no optimizer steps, checkpoint, or trained metrics"
+}

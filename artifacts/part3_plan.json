@@ -1,0 +1,61 @@
+{
+  "task": "binary sentiment classification",
+  "dataset": "UCI Sentiment Labelled Sentences",
+  "dataset_source": "https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences",
+  "seed": 42,
+  "split_fractions": {
+    "train": 0.6,
+    "validation": 0.2,
+    "test": 0.2
+  },
+  "representation_selection": "three Part II LSTM variants; fixed before downstream metrics",
+  "representations": [
+    {
+      "name": "random_trainable_lm",
+      "checkpoint": "lstm_best.pt",
+      "results": "lstm_results.json",
+      "checkpoint_sha256": "e15781ad534ecae4c8ae4b59d1801c59c467fd4498383eaa0153519745f3c8a8",
+      "recorded_lm_test_ppl": 75.65596564785501
+    },
+    {
+      "name": "skipgram_frozen_lm",
+      "checkpoint": "lstm_self_frozen_best.pt",
+      "results": "lstm_self_frozen_results.json",
+      "checkpoint_sha256": "8d61422cf082c4b192f3057f17644ed5c7fc9ec2519748c8c97a5146f9d42246",
+      "recorded_lm_test_ppl": 83.80951499985439
+    },
+    {
+      "name": "glove_frozen_lm",
+      "checkpoint": "lstm_glove_frozen_best.pt",
+      "results": "lstm_glove_frozen_results.json",
+      "checkpoint_sha256": "d882cf5ee6e4984b6afb725414c14330a464c80c53af4e70b0bd4d094e083499",
+      "recorded_lm_test_ppl": 83.11249569814528
+    }
+  ],
+  "feature": "mean of trained LSTM hidden states at body-token positions; exclude bos/eos/pad",
+  "dimension": 128,
+  "language_models": "fully frozen; eval mode; no fine-tuning",
+  "input": "original tokenizer/vocabulary; prepend bos; append eos; no sentence truncation",
+  "classifier": {
+    "family": "LogisticRegression",
+    "solver": "lbfgs",
+    "max_iter": 2000,
+    "C_grid": [
+      0.1,
+      1.0,
+      10.0
+    ],
+    "selection": "validation macro-F1; ties choose smaller C",
+    "scaling": "StandardScaler fit only on classifier training rows",
+    "final_fit": "after validation selection, refit pipeline on train+validation; evaluate test once"
+  },
+  "primary_metric": "test macro-F1",
+  "secondary_metric": "test accuracy",
+  "diagnostics": "per-class metrics, confusion matrices, source-level performance, representative errors",
+  "data_controls": "deduplicate shared tokenizer keys globally before split; remove conflicting-label groups; stratify source+label",
+  "limitations": "novel-to-review domain shift; original vocabulary OOV; one split/seed; source-mixed rather than unseen-domain evaluation",
+  "question": "Does the language-model PPL ranking agree with frozen-representation sentiment performance?",
+  "lm_corpus_sha256": "a5666f87abf2cbfdaa27ea8c73bd284da9649b9a2ab27b4e6c8f6aeab1bd1c88",
+  "vocabulary_sha256": "c13c3bfa2a2f17a953fbed03229088e84dd44446faa17aa8caf7b26ab66861bd",
+  "status": "design and data preparation only; no features/classifiers/test metrics yet"
+}

@@ -1,0 +1,49 @@
+{
+  "source": "Part I random/trainable LSTM; no retraining",
+  "checkpoint": "lstm_best.pt",
+  "best_epoch": 8,
+  "checkpoint_sha256": "e15781ad534ecae4c8ae4b59d1801c59c467fd4498383eaa0153519745f3c8a8",
+  "config": {
+    "architecture": "single-layer unidirectional LSTM",
+    "embedding_dim": 100,
+    "hidden_dim": 128,
+    "dropout": 0.2,
+    "learning_rate": 0.003,
+    "batch_size": 8,
+    "max_epochs": 8,
+    "patience": 3,
+    "grad_clip": 1.0,
+    "seed": 42,
+    "context": "complete paragraph",
+    "cpu_threads": 4
+  },
+  "corpus_sha256": "a5666f87abf2cbfdaa27ea8c73bd284da9649b9a2ab27b4e6c8f6aeab1bd1c88",
+  "vocabulary_sha256": "c13c3bfa2a2f17a953fbed03229088e84dd44446faa17aa8caf7b26ab66861bd",
+  "metrics": {
+    "train": {
+      "cross_entropy": 3.7826814047312682,
+      "perplexity": 43.93368793523838,
+      "target_count": 118401,
+      "total_nll": 447873.2610015869,
+      "seconds": 5.540565299999798
+    },
+    "validation": {
+      "cross_entropy": 4.233990031449459,
+      "perplexity": 68.99196382081043,
+      "target_count": 14649,
+      "total_nll": 62023.719970703125,
+      "seconds": 0.7630632999989757
+    },
+    "test": {
+      "cross_entropy": 4.326196295655994,
+      "perplexity": 75.65596564785501,
+      "target_count": 14811,
+      "total_nll": 64075.29333496094,
+      "seconds": 0.6516350000001694
+    }
+  },
+  "restored_validation_cross_entropy": 4.233990031449459,
+  "training_wall_seconds": 199.8818836999999,
+  "training_history_file": "lstm_training.json",
+  "generation_file": "lstm_generations.json"
+}

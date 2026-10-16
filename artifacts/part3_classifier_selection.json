@@ -1,0 +1,110 @@
+{
+  "random_trainable_lm": {
+    "trials": [
+      {
+        "C": 0.1,
+        "validation_macro_f1": 0.6325493011274861,
+        "validation_accuracy": 0.6325503355704698,
+        "fit_seconds": 0.07427869999992254,
+        "iterations": [
+          40
+        ],
+        "converged": true
+      },
+      {
+        "C": 1.0,
+        "validation_macro_f1": 0.6308683265205004,
+        "validation_accuracy": 0.6308724832214765,
+        "fit_seconds": 0.025874700000031225,
+        "iterations": [
+          49
+        ],
+        "converged": true
+      },
+      {
+        "C": 10.0,
+        "validation_macro_f1": 0.6308683265205004,
+        "validation_accuracy": 0.6308724832214765,
+        "fit_seconds": 0.024909299999990253,
+        "iterations": [
+          52
+        ],
+        "converged": true
+      }
+    ],
+    "selected_C": 0.1,
+    "selected_validation_macro_f1": 0.6325493011274861
+  },
+  "skipgram_frozen_lm": {
+    "trials": [
+      {
+        "C": 0.1,
+        "validation_macro_f1": 0.6153809302391118,
+        "validation_accuracy": 0.6157718120805369,
+        "fit_seconds": 0.027245300000004136,
+        "iterations": [
+          56
+        ],
+        "converged": true
+      },
+      {
+        "C": 1.0,
+        "validation_macro_f1": 0.6121704493916748,
+        "validation_accuracy": 0.6124161073825504,
+        "fit_seconds": 0.03237100000001192,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      },
+      {
+        "C": 10.0,
+        "validation_macro_f1": 0.6138156411990083,
+        "validation_accuracy": 0.6140939597315436,
+        "fit_seconds": 0.034103200000117795,
+        "iterations": [
+          90
+        ],
+        "converged": true
+      }
+    ],
+    "selected_C": 0.1,
+    "selected_validation_macro_f1": 0.6153809302391118
+  },
+  "glove_frozen_lm": {
+    "trials": [
+      {
+        "C": 0.1,
+        "validation_macro_f1": 0.6726630558771092,
+        "validation_accuracy": 0.6728187919463087,
+        "fit_seconds": 0.028074199999991833,
+        "iterations": [
+          54
+        ],
+        "converged": true
+      },
+      {
+        "C": 1.0,
+        "validation_macro_f1": 0.6675456389452332,
+        "validation_accuracy": 0.6677852348993288,
+        "fit_seconds": 0.03640169999994214,
+        "iterations": [
+          75
+        ],
+        "converged": true
+      },
+      {
+        "C": 10.0,
+        "validation_macro_f1": 0.6642934390771449,
+        "validation_accuracy": 0.6644295302013423,
+        "fit_seconds": 0.03723009999998794,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ],
+    "selected_C": 0.1,
+    "selected_validation_macro_f1": 0.6726630558771092
+  }
+}

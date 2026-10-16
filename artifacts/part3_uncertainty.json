@@ -1,0 +1,178 @@
+{
+  "protocol": {
+    "replicates": 10000,
+    "seed": 4213,
+    "unit": "test sentence",
+    "method": "paired ordinary percentile bootstrap; same indices for every model",
+    "pairs": "all six pairs among three saved LM classifiers and TF-IDF",
+    "p_values": "exact two-sided McNemar; Holm correction across six pairs",
+    "scope": "fixed fitted models; excludes training and split variability"
+  },
+  "models": {
+    "random_trainable_lm": {
+      "accuracy": 0.6325503355704698,
+      "macro_f1": 0.6325493011274861,
+      "accuracy_ci95": [
+        0.5922818791946308,
+        0.6711409395973155
+      ],
+      "macro_f1_ci95": [
+        0.5922805018208965,
+        0.670959382569996
+      ]
+    },
+    "skipgram_frozen_lm": {
+      "accuracy": 0.6359060402684564,
+      "macro_f1": 0.6356752706406641,
+      "accuracy_ci95": [
+        0.5973154362416108,
+        0.674496644295302
+      ],
+      "macro_f1_ci95": [
+        0.595991572043256,
+        0.6728721297375598
+      ]
+    },
+    "glove_frozen_lm": {
+      "accuracy": 0.6862416107382551,
+      "macro_f1": 0.6860922638411253,
+      "accuracy_ci95": [
+        0.6493288590604027,
+        0.7231543624161074
+      ],
+      "macro_f1_ci95": [
+        0.6476470389513869,
+        0.7227431786828667
+      ]
+    },
+    "tfidf": {
+      "accuracy": 0.825503355704698,
+      "macro_f1": 0.8254325883201153,
+      "accuracy_ci95": [
+        0.7936241610738255,
+        0.8557046979865772
+      ],
+      "macro_f1_ci95": [
+        0.7935538377054028,
+        0.8540407202686582
+      ]
+    }
+  },
+  "pairs": [
+    {
+      "a": "random_trainable_lm",
+      "b": "skipgram_frozen_lm",
+      "direction": "b minus a",
+      "a_only_correct": 103,
+      "b_only_correct": 105,
+      "mcnemar_exact_p": 0.9447431138936883,
+      "accuracy_difference": 0.003355704697986628,
+      "accuracy_difference_ci95": [
+        -0.043624161073825496,
+        0.05033557046979864
+      ],
+      "macro_f1_difference": 0.0031259695131780063,
+      "macro_f1_difference_ci95": [
+        -0.043675360270969334,
+        0.050682670443297696
+      ],
+      "mcnemar_holm_p": 0.9447431138936883
+    },
+    {
+      "a": "random_trainable_lm",
+      "b": "glove_frozen_lm",
+      "direction": "b minus a",
+      "a_only_correct": 75,
+      "b_only_correct": 107,
+      "mcnemar_exact_p": 0.021311543806607366,
+      "accuracy_difference": 0.05369127516778527,
+      "accuracy_difference_ci95": [
+        0.010067114093959662,
+        0.09731543624161076
+      ],
+      "macro_f1_difference": 0.05354296271363923,
+      "macro_f1_difference_ci95": [
+        0.009232496015586978,
+        0.09692064728136567
+      ],
+      "mcnemar_holm_p": 0.0639346314198221
+    },
+    {
+      "a": "random_trainable_lm",
+      "b": "tfidf",
+      "direction": "b minus a",
+      "a_only_correct": 42,
+      "b_only_correct": 157,
+      "mcnemar_exact_p": 8.081851755030738e-17,
+      "accuracy_difference": 0.19295302013422821,
+      "accuracy_difference_ci95": [
+        0.1493288590604026,
+        0.2365771812080537
+      ],
+      "macro_f1_difference": 0.19288328719262926,
+      "macro_f1_difference_ci95": [
+        0.1492039310559215,
+        0.23655050153896773
+      ],
+      "mcnemar_holm_p": 4.0409258775153693e-16
+    },
+    {
+      "a": "skipgram_frozen_lm",
+      "b": "glove_frozen_lm",
+      "direction": "b minus a",
+      "a_only_correct": 75,
+      "b_only_correct": 105,
+      "mcnemar_exact_p": 0.030369539446891223,
+      "accuracy_difference": 0.05033557046979864,
+      "accuracy_difference_ci95": [
+        0.006711409395973145,
+        0.09395973154362414
+      ],
+      "macro_f1_difference": 0.050416993200461224,
+      "macro_f1_difference_ci95": [
+        0.006741431524200495,
+        0.09408808402060391
+      ],
+      "mcnemar_holm_p": 0.0639346314198221
+    },
+    {
+      "a": "skipgram_frozen_lm",
+      "b": "tfidf",
+      "direction": "b minus a",
+      "a_only_correct": 38,
+      "b_only_correct": 151,
+      "mcnemar_exact_p": 3.8240198797885356e-17,
+      "accuracy_difference": 0.1895973154362416,
+      "accuracy_difference_ci95": [
+        0.1476510067114094,
+        0.23154362416107377
+      ],
+      "macro_f1_difference": 0.18975731767945125,
+      "macro_f1_difference_ci95": [
+        0.1475419908841077,
+        0.23150404034760919
+      ],
+      "mcnemar_holm_p": 2.2944119278731213e-16
+    },
+    {
+      "a": "glove_frozen_lm",
+      "b": "tfidf",
+      "direction": "b minus a",
+      "a_only_correct": 39,
+      "b_only_correct": 122,
+      "mcnemar_exact_p": 3.74981262264456e-11,
+      "accuracy_difference": 0.13926174496644295,
+      "accuracy_difference_ci95": [
+        0.09899328859060408,
+        0.17953020134228193
+      ],
+      "macro_f1_difference": 0.13934032447899003,
+      "macro_f1_difference_ci95": [
+        0.09919818957847097,
+        0.17971449984330534
+      ],
+      "mcnemar_holm_p": 1.499925049057824e-10
+    }
+  ],
+  "limitations": "Exploratory post-hoc analysis. Pointwise percentile intervals, not simultaneous intervals. Sentence resampling assumes independent test units; source/reviewer dependence may remain. No retraining uncertainty, no confirmation on fresh data, and no test-driven model retuning."
+}

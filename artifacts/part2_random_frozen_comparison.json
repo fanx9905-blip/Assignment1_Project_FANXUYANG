@@ -1,0 +1,42 @@
+{
+  "rows": [
+    {
+      "model": "lstm",
+      "test_cross_entropy": 4.326196295655994,
+      "test_perplexity": 75.65596564785501,
+      "best_epoch": 8,
+      "actual_epochs": 8,
+      "training_wall_seconds": 199.8818836999999,
+      "trainable_parameters": 946740
+    },
+    {
+      "model": "lstm_self_frozen",
+      "test_cross_entropy": 4.428546545193395,
+      "test_perplexity": 83.80951499985439,
+      "best_epoch": 8,
+      "actual_epochs": 8,
+      "training_wall_seconds": 171.31280179999885,
+      "trainable_parameters": 584740
+    },
+    {
+      "model": "lstm_glove_frozen",
+      "test_cross_entropy": 4.420195059969153,
+      "test_perplexity": 83.11249569814528,
+      "best_epoch": 8,
+      "actual_epochs": 8,
+      "training_wall_seconds": 173.46331960000134,
+      "trainable_parameters": 584740
+    },
+    {
+      "model": "lstm_random_frozen",
+      "test_cross_entropy": 4.453147974208095,
+      "test_perplexity": 85.89692012943073,
+      "best_epoch": 8,
+      "actual_epochs": 8,
+      "training_wall_seconds": 182.89022850000038,
+      "trainable_parameters": 584740
+    }
+  ],
+  "scope": "exploratory single-seed control; original three runs reused",
+  "timing": "different execution sessions; not a causal speed comparison"
+}

@@ -1,0 +1,46 @@
+{
+  "rows": [
+    {
+      "representation": "random_trainable_lm",
+      "lm_test_ppl": 75.65596564785501,
+      "validation_macro_f1": 0.6325493011274861,
+      "selected_C": 0.1,
+      "test_accuracy": 0.6325503355704698,
+      "test_macro_f1": 0.6325493011274861,
+      "feature_seconds": 0.30872520000002623,
+      "classifier_refit_seconds": 0.023215699999809658
+    },
+    {
+      "representation": "skipgram_frozen_lm",
+      "lm_test_ppl": 83.80951499985439,
+      "validation_macro_f1": 0.6153809302391118,
+      "selected_C": 0.1,
+      "test_accuracy": 0.6359060402684564,
+      "test_macro_f1": 0.6356752706406641,
+      "feature_seconds": 0.2945297000001119,
+      "classifier_refit_seconds": 0.027345299999979034
+    },
+    {
+      "representation": "glove_frozen_lm",
+      "lm_test_ppl": 83.11249569814528,
+      "validation_macro_f1": 0.6726630558771092,
+      "selected_C": 0.1,
+      "test_accuracy": 0.6862416107382551,
+      "test_macro_f1": 0.6860922638411253,
+      "feature_seconds": 0.29893829999991794,
+      "classifier_refit_seconds": 0.027736499999946318
+    }
+  ],
+  "lm_order_lower_ppl_first": [
+    "random_trainable_lm",
+    "glove_frozen_lm",
+    "skipgram_frozen_lm"
+  ],
+  "downstream_order_higher_macro_f1_first": [
+    "glove_frozen_lm",
+    "skipgram_frozen_lm",
+    "random_trainable_lm"
+  ],
+  "exact_ranking_agreement": false,
+  "interpretation_scope": "one split/seed and domain-shifted sentiment task; not a universal LM-to-task relationship"
+}

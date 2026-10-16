@@ -1,0 +1,168 @@
+{
+  "model": "lstm_random_frozen",
+  "config": {
+    "architecture": "single-layer unidirectional LSTM",
+    "embedding_dim": 100,
+    "hidden_dim": 128,
+    "dropout": 0.2,
+    "learning_rate": 0.003,
+    "batch_size": 8,
+    "max_epochs": 8,
+    "patience": 3,
+    "grad_clip": 1.0,
+    "seed": 42,
+    "context": "complete paragraph",
+    "cpu_threads": 4,
+    "embedding_source": "random initialization",
+    "input_embedding_frozen": true
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train": {
+        "cross_entropy": 5.681308199107436,
+        "perplexity": 293.3329168892617,
+        "target_count": 118401,
+        "total_nll": 672672.5720825195,
+        "seconds": 22.941388300001563
+      },
+      "validation": {
+        "cross_entropy": 5.007059620577237,
+        "perplexity": 149.46460673833758,
+        "target_count": 14649,
+        "total_nll": 73348.41638183594,
+        "seconds": 0.6421011999991606
+      }
+    },
+    {
+      "epoch": 2,
+      "train": {
+        "cross_entropy": 5.050456540040737,
+        "perplexity": 156.09371125095043,
+        "target_count": 118401,
+        "total_nll": 597979.1047973633,
+        "seconds": 21.857507499997155
+      },
+      "validation": {
+        "cross_entropy": 4.709996911118613,
+        "perplexity": 111.05181687927923,
+        "target_count": 14649,
+        "total_nll": 68996.74475097656,
+        "seconds": 0.658200099998794
+      }
+    },
+    {
+      "epoch": 3,
+      "train": {
+        "cross_entropy": 4.794600370905862,
+        "perplexity": 120.85607452762038,
+        "target_count": 118401,
+        "total_nll": 567685.478515625,
+        "seconds": 22.021454199999425
+      },
+      "validation": {
+        "cross_entropy": 4.565347478156839,
+        "perplexity": 96.09597946966058,
+        "target_count": 14649,
+        "total_nll": 66877.77520751953,
+        "seconds": 0.6518523000013374
+      }
+    },
+    {
+      "epoch": 4,
+      "train": {
+        "cross_entropy": 4.630718444777309,
+        "perplexity": 102.58774126776969,
+        "target_count": 118401,
+        "total_nll": 548281.6945800781,
+        "seconds": 22.381822600000305
+      },
+      "validation": {
+        "cross_entropy": 4.4876008261282765,
+        "perplexity": 88.90788432238824,
+        "target_count": 14649,
+        "total_nll": 65738.86450195312,
+        "seconds": 0.6694220999997924
+      }
+    },
+    {
+      "epoch": 5,
+      "train": {
+        "cross_entropy": 4.516090082158318,
+        "perplexity": 91.47722938753886,
+        "target_count": 118401,
+        "total_nll": 534709.581817627,
+        "seconds": 21.655686900001456
+      },
+      "validation": {
+        "cross_entropy": 4.423848828371657,
+        "perplexity": 83.41672496196047,
+        "target_count": 14649,
+        "total_nll": 64804.961486816406,
+        "seconds": 0.6841747999969812
+      }
+    },
+    {
+      "epoch": 6,
+      "train": {
+        "cross_entropy": 4.42824173241046,
+        "perplexity": 83.7839726813612,
+        "target_count": 118401,
+        "total_nll": 524308.2493591309,
+        "seconds": 22.224658099999942
+      },
+      "validation": {
+        "cross_entropy": 4.389687669326831,
+        "perplexity": 80.61523643697728,
+        "target_count": 14649,
+        "total_nll": 64304.53466796875,
+        "seconds": 0.6473508999988553
+      }
+    },
+    {
+      "epoch": 7,
+      "train": {
+        "cross_entropy": 4.358281445589218,
+        "perplexity": 78.12276077682944,
+        "target_count": 118401,
+        "total_nll": 516024.881439209,
+        "seconds": 22.54175249999753
+      },
+      "validation": {
+        "cross_entropy": 4.378620790128326,
+        "perplexity": 79.72799590112601,
+        "target_count": 14649,
+        "total_nll": 64142.415954589844,
+        "seconds": 0.6483956999982183
+      }
+    },
+    {
+      "epoch": 8,
+      "train": {
+        "cross_entropy": 4.298086076508456,
+        "perplexity": 73.55887283200896,
+        "target_count": 118401,
+        "total_nll": 508897.68954467773,
+        "seconds": 21.912203100000625
+      },
+      "validation": {
+        "cross_entropy": 4.36630341728211,
+        "perplexity": 78.75197976652406,
+        "target_count": 14649,
+        "total_nll": 63961.978759765625,
+        "seconds": 0.6668358000024455
+      }
+    }
+  ],
+  "best_epoch": 8,
+  "best_validation_cross_entropy": 4.36630341728211,
+  "training_wall_seconds": 182.89022850000038,
+  "training_epoch_seconds": 177.536473199998,
+  "validation_epoch_seconds": 5.268332899995585,
+  "total_parameters": 946740,
+  "trainable_parameters": 584740,
+  "checkpoint_bytes": 3852049,
+  "device": "cpu",
+  "pytorch_version": "2.14.0+cpu",
+  "corpus_sha256": "a5666f87abf2cbfdaa27ea8c73bd284da9649b9a2ab27b4e6c8f6aeab1bd1c88"
+}
